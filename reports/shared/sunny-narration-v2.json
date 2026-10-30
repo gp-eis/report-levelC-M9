@@ -1,0 +1,3066 @@
+{
+  "id": "month9-sunny-report-approved-lookup-v2",
+  "version": 2,
+  "revision": 5,
+  "profileId": "gp-sunny-v2",
+  "approval": {
+    "receiptSha256": "e8b56d1c1790d427e6647312e29769827c43ae53742ade258b733893b02ffc7e"
+  },
+  "pendingTexts": [],
+  "entries": [
+    {
+      "text": "Find the quail.",
+      "textSha256": "f1501a1ee81f9bed257eb5896205b39891e46cc750d526f216b3e526830ee384",
+      "audioSha256": "d6863adabe8827d789328e464f18790f4e713ece381fb80e13ddb17627702e44",
+      "url": "../../apps/shared/audio/sunny-v2/f1501a1ee81f9bed.mp3"
+    },
+    {
+      "text": "quail",
+      "textSha256": "2c285f90c6bc8a5cccd32a615a220e166381b4779bde3ae6ff9acea1e735fadb",
+      "audioSha256": "13af7d1aff600d2ea8de499240e8bcb6a380f1c5c8281e693cf9a63509c6774d",
+      "url": "../../apps/shared/audio/sunny-v2/2c285f90c6bc8a5c.mp3"
+    },
+    {
+      "text": "quarter",
+      "textSha256": "16b60e9de6072d0e93d3b4555da4219695af891e2cf30a54e931eb1e44587b83",
+      "audioSha256": "2d2ec3cacf12a5680b900e5b7489b2628dd73f67286b1f0880d18765555066d9",
+      "url": "../../apps/shared/audio/sunny-v2/16b60e9de6072d0e.mp3"
+    },
+    {
+      "text": "Count ten. Take away three. Seven is left.",
+      "textSha256": "c592c053dfa95f9150799329485bafaf7e14724431c67f794e27d94decb34e59",
+      "audioSha256": "e96903053592ecb23674a5a70abbc89169f244522ca0594df38d305800f91230",
+      "url": "../../apps/shared/audio/sunny-v2/c592c053dfa95f91.mp3"
+    },
+    {
+      "text": "yellow",
+      "textSha256": "c685a2c9bab235ccdd2ab0ea92281a521c8aaf37895493d080070ea00fc7f5d7",
+      "audioSha256": "2e91b5300543e2c816a4b7f38821abc34a4a197d471b0a99ff538ea51585a7ea",
+      "url": "../../apps/shared/audio/sunny-v2/c685a2c9bab235cc.mp3"
+    },
+    {
+      "text": "window",
+      "textSha256": "44ff7b02c80d38b26dd6aa31d9470aed81b32e10331a3c994fb1a9945fd847ba",
+      "audioSha256": "f6036348c3fe56fb1205819083342bc087311a2de0eeb86c540a315145428f46",
+      "url": "../../apps/shared/audio/sunny-v2/44ff7b02c80d38b2.mp3"
+    },
+    {
+      "text": "I practice jumping every day.",
+      "textSha256": "f6604037101265f4ec6546be8d9813b08876834c59cbfc4766cd1e186b9a3d5f",
+      "audioSha256": "6eb308c872e940a7eacaff271a69b6b08909d2f8fede525b0859757dce0215bf",
+      "url": "../../apps/shared/audio/sunny-v2/f6604037101265f4.mp3"
+    },
+    {
+      "text": "Let's make honey cookies.",
+      "textSha256": "0010ea0ce13fbd3fbd8f0f29e7dceb09b2cc8c338531970feca3c2f4e41a18ab",
+      "audioSha256": "d8fd1b42d7aecc590e96d28f7bc2f3a0da4685f3b20b793c6dae961b438954b5",
+      "url": "../../apps/shared/audio/sunny-v2/0010ea0ce13fbd3f.mp3"
+    },
+    {
+      "text": "Six times three is eighteen.",
+      "textSha256": "00198b77939448dec880e83d0aed870ab102b56cee57407e35054f1deaed6874",
+      "audioSha256": "36a3283947a8e4a38564a3207fae198d57fdfc8235490392902a4ea7bf3c5a86",
+      "url": "../../apps/shared/audio/sunny-v2/00198b77939448de.mp3"
+    },
+    {
+      "text": "We can rest indoors on the sofa.",
+      "textSha256": "005192cd7e80d51878d4cddf13eceb2b7c59b4d9a177280d5e361c8f9c72e016",
+      "audioSha256": "8da8d7af6f8cb025c1bccf142c3ef5b36e240a0738c2127124d231679bb145f3",
+      "url": "../../apps/shared/audio/sunny-v2/005192cd7e80d518.mp3"
+    },
+    {
+      "text": "Golf",
+      "textSha256": "007aafd4afea7396b0217b3fb8bfe760f272ea886ebe1c8ff4ef188d688a8eee",
+      "audioSha256": "e21cc978a944a5301f6320fbd78518490b62c19b470a26f882a0c978ad4a0f7b",
+      "url": "../../apps/shared/audio/sunny-v2/007aafd4afea7396.mp3"
+    },
+    {
+      "text": "Nine times two is eighteen.",
+      "textSha256": "01f0c8eb8f12db35237cf8812f50340586147711e92a72e476e1fd7a4f7e0d7c",
+      "audioSha256": "a7479d83a83564e4d25b8d142df21b5641511e6a8c72bdf4958e2f70461afd5e",
+      "url": "../../apps/shared/audio/sunny-v2/01f0c8eb8f12db35.mp3"
+    },
+    {
+      "text": "face",
+      "textSha256": "0282d9b79f42c74c1550b20ff2dd16aafc3fe5d8ae9a00b2f66996d0ae882775",
+      "audioSha256": "4be1707c1820b1a170eaa9dd64af80c6ed39a3224a446bf840f032311b1a99cc",
+      "url": "../../apps/shared/audio/sunny-v2/0282d9b79f42c74c.mp3"
+    },
+    {
+      "text": "I need a helmet. Find the picture.",
+      "textSha256": "02aa4fabc4b281266a5720de20d0ac434ea7e15cc233012a6f4ad42ab930d729",
+      "audioSha256": "7ebfeaeb4194608f37badca9abf8170274335994d8e19b7980deeedf4bf637d4",
+      "url": "../../apps/shared/audio/sunny-v2/02aa4fabc4b28126.mp3"
+    },
+    {
+      "text": "Count forty. Take away seven. How many are left?",
+      "textSha256": "02e00c33be3ddd1d7ee6c8e3737f6fdda782ee439448a30b8cbc12e7f1835150",
+      "audioSha256": "386b5fcd0a497b0c21c0e9acc0c868e5cc16f39e768482137164cd80a6a91ac0",
+      "url": "../../apps/shared/audio/sunny-v2/02e00c33be3ddd1d.mp3"
+    },
+    {
+      "text": "This is a radio.",
+      "textSha256": "02feee9be7430b6c6de3d3b00d0a921503defe4b4c40a1be20dd16e862c26e08",
+      "audioSha256": "2e2118af1d452a54c7fd6d26f2388bdeb83fa2c3eb8f315d3a4cff569a91a351",
+      "url": "../../apps/shared/audio/sunny-v2/02feee9be7430b6c.mp3"
+    },
+    {
+      "text": "This is a cage.",
+      "textSha256": "03d08613f74e299df088bccdb991fe29584f1b74fa479c5c52759ac9069e0ee5",
+      "audioSha256": "34b0df46445ec6d51f1162ffaecddff65feb9997e342d0cbc2240c3b531b9da5",
+      "url": "../../apps/shared/audio/sunny-v2/03d08613f74e299d.mp3"
+    },
+    {
+      "text": "I practice running in the daytime.",
+      "textSha256": "03fcfbaf4387a3e285dec159a31ccd48127bdf1c2f740cb6e533e4640480dc8c",
+      "audioSha256": "6319a3e7c5bb9960b16b0724e4ba7a0929f07045e810f01dcfedef3f09f02cd2",
+      "url": "../../apps/shared/audio/sunny-v2/03fcfbaf4387a3e2.mp3"
+    },
+    {
+      "text": "Listen: window. Which word has the same vowel sound?",
+      "textSha256": "0438320415c9e107462b4458125220d5e8fa44235595630df55c2f37119b819c",
+      "audioSha256": "2c49c79b6cf50769be186b52f0db92d23ea6bf55c7035afcea8ba8e8b9237769",
+      "url": "../../apps/shared/audio/sunny-v2/0438320415c9e107.mp3"
+    },
+    {
+      "text": "We need quiet.",
+      "textSha256": "04778173db3e869125528c54a4cb77ea65ccf10e3d355bc1871890ffeee66c62",
+      "audioSha256": "99e51974302633cf7ceda52a5664792c6d85ac28efb095e9514873dfb0ae9f0d",
+      "url": "../../apps/shared/audio/sunny-v2/04778173db3e8691.mp3"
+    },
+    {
+      "text": "I practice climbing every day.",
+      "textSha256": "056c23496665a2e1451ad6d6d4957a96d7364f8e46062ee89a16869d87fcd3d7",
+      "audioSha256": "c47d0ef55c94a5ff55d683923ac8902ed227aee72fa0b132b836e4528c235f9d",
+      "url": "../../apps/shared/audio/sunny-v2/056c23496665a2e1.mp3"
+    },
+    {
+      "text": "Two and two pairs of goggles.",
+      "textSha256": "06e612f46f036c8b20b9e7f0b3210879796e26aa762f193aff92f8574eb7d4ed",
+      "audioSha256": "ecb3104ee68701042dbfca6087945fc792ee435b571f4acf63ccdb88caf14b0e",
+      "url": "../../apps/shared/audio/sunny-v2/06e612f46f036c8b.mp3"
+    },
+    {
+      "text": "Let’s rest on the chair. Find the picture.",
+      "textSha256": "08b134b374e6af1c0cec40614692b60f728be6eedfe46b4f4e3b5917ef64b88e",
+      "audioSha256": "67455a2af413473544d56fc9ddc4cfa5a1aff6cb6a6a5b98944c511c39e3c46c",
+      "url": "../../apps/shared/audio/sunny-v2/08b134b374e6af1c.mp3"
+    },
+    {
+      "text": "rain cloud",
+      "textSha256": "08fd6bcb60cddb7626d5bfea157a7c4e98ce8484873541518ff94744e4459a0e",
+      "audioSha256": "4d8ba05289ff6089fbcd43a929942353bc1dc71a752fcbf68313a5457bbc0bc1",
+      "url": "../../apps/shared/audio/sunny-v2/08fd6bcb60cddb76.mp3"
+    },
+    {
+      "text": "Find half past four.",
+      "textSha256": "0922aed35bff58ba20624752c844027acdd92b9192e2a488662556832be69051",
+      "audioSha256": "d14f3ff4bb36af5f26b3b8e261eb1c75a77f1a54bc2816322391372e8c806c3c",
+      "url": "../../apps/shared/audio/sunny-v2/0922aed35bff58ba.mp3"
+    },
+    {
+      "text": "There are bees near the trees.",
+      "textSha256": "092bdb9a81ce08ca651131497aa160fe62d8a9091e19608e88b2132d90e9b9c5",
+      "audioSha256": "ccd6862eff3e42fb2be9cf7896e4c0662195d0c0c7108ee6e5229686f0b79581",
+      "url": "../../apps/shared/audio/sunny-v2/092bdb9a81ce08ca.mp3"
+    },
+    {
+      "text": "There are bees near the water. Find the picture.",
+      "textSha256": "0986f2d075554462071dd291c63e3973557af722adf009da898f5b359c8e5f61",
+      "audioSha256": "0893d4b5dfe98bb7fe90c67bd7f4cd695b6c257c81f24852062da464eed72ba6",
+      "url": "../../apps/shared/audio/sunny-v2/0986f2d075554462.mp3"
+    },
+    {
+      "text": "A bear goes into a den. Find the picture.",
+      "textSha256": "09f4c60aa2ff5f62f52347b6cf8c908e5cfe093f37b183d0c31e45d76745644e",
+      "audioSha256": "de4c9688861455d2cc432f3a60344a3dc642ec963a8989a514279f50d6cb56db",
+      "url": "../../apps/shared/audio/sunny-v2/09f4c60aa2ff5f62.mp3"
+    },
+    {
+      "text": "A swimsuit",
+      "textSha256": "0b19ac385ba44c49a3a5806ed2090ee0198058b289755e9064f678ee02b35a6d",
+      "audioSha256": "996703edab0eee38665f565ca4f2204d3c6cd3d607ad12887265d5ae087f5187",
+      "url": "../../apps/shared/audio/sunny-v2/0b19ac385ba44c49.mp3"
+    },
+    {
+      "text": "Nine in each group. Two groups. Nine times two. How many altogether?",
+      "textSha256": "0b3ce8d0e868f3792e51c3c924afa5b232d853e5489c6f354c53971efb4eaa77",
+      "audioSha256": "ef71067dbf46564bac5a9b502f4a247e54e99f37ca6b8f6ae802e82b72350629",
+      "url": "../../apps/shared/audio/sunny-v2/0b3ce8d0e868f379.mp3"
+    },
+    {
+      "text": "I practice twisting. Find the picture.",
+      "textSha256": "0b7fe0862847ad9721f6a6bf766f37f14ed4b7384969993a6547bfe19ccb5b3f",
+      "audioSha256": "8d3cb2d7e986c65728d8a6a476eb4427c8c3e5c9be9613e78d2d6c77db3aa71e",
+      "url": "../../apps/shared/audio/sunny-v2/0b7fe0862847ad97.mp3"
+    },
+    {
+      "text": "We can make honey chicken.",
+      "textSha256": "0c2adb628714749dd78f77c18d215e1b0f61a6543889ddb30b4030e3a49d1dcd",
+      "audioSha256": "eb3d570ce988bf027ac3c32b065c64d84e1789b7ba626310cb4626ba2fbef8f1",
+      "url": "../../apps/shared/audio/sunny-v2/0c2adb628714749d.mp3"
+    },
+    {
+      "text": "Bees build hives.",
+      "textSha256": "0cc29743b32969c78fe9a74d8293a43d3dcaff8e76e08dbb37b3bad38858fa4c",
+      "audioSha256": "fad6d07e6f686054a508c89e870027728372de98e416c694c1805fe881283cc3",
+      "url": "../../apps/shared/audio/sunny-v2/0cc29743b32969c7.mp3"
+    },
+    {
+      "text": "Let’s enjoy our hobbies, Mr. Worm. Find the picture.",
+      "textSha256": "0e4110e071eae53ae8ae76c3058719fd184a410e65d13e82ed10de6f99cc66f0",
+      "audioSha256": "609ae455ddb660d3e24d6f2cf06b35a8050c55628172a93534c612786149e3c5",
+      "url": "../../apps/shared/audio/sunny-v2/0e4110e071eae53a.mp3"
+    },
+    {
+      "text": "I like volleyball. Find the picture.",
+      "textSha256": "0fef273d456fb7653c6dd958b036c882fa75734256f4077e284ad6f1c9debd7e",
+      "audioSha256": "31bf398641434a9dc04c64e66ea0835eb4bb9149c3e0962ac0f1ef9fd6ce9cae",
+      "url": "../../apps/shared/audio/sunny-v2/0fef273d456fb765.mp3"
+    },
+    {
+      "text": "I look at the vase and gate.",
+      "textSha256": "100700474c3df85083c1ee838deca6f1233d72a1984cbffe6a16759005304c2c",
+      "audioSha256": "81b6f525fde7c7f858f627546df2518479424d240d5aa5cb2cf5d2a6c1842ad0",
+      "url": "../../apps/shared/audio/sunny-v2/100700474c3df850.mp3"
+    },
+    {
+      "text": "This is a vase.",
+      "textSha256": "10635d3056cce0443b0b3b59140488da22e644b81439f12ac9fb198da362ea7a",
+      "audioSha256": "b7f77083c98b7fd091d87b6b5bb78bbb1a4b1717281f5c1a7e0f20d338b9d9b0",
+      "url": "../../apps/shared/audio/sunny-v2/10635d3056cce044.mp3"
+    },
+    {
+      "text": "Find the ring.",
+      "textSha256": "10e05ef1926b865b27e78f1fb474a9de47cec5da44984054b2c8dd35b2bb630b",
+      "audioSha256": "ca1442f9a2f32b0df3e261592c8f9a4cfa1e5fa1e8709bdbdeb4cd453b730de0",
+      "url": "../../apps/shared/audio/sunny-v2/10e05ef1926b865b.mp3"
+    },
+    {
+      "text": "I practice climbing every day. Find the picture.",
+      "textSha256": "11371a397f4bc1702c9e8c56f07a31b0b1fe7cce8162b030aa2f1be05495698f",
+      "audioSha256": "c2aa104414e2dced61b2de4189f4a8c895b76d51eda8c6df317d543a227cc5f7",
+      "url": "../../apps/shared/audio/sunny-v2/11371a397f4bc170.mp3"
+    },
+    {
+      "text": "Listen: vase and gate. Choose the two pictures.",
+      "textSha256": "11ebd5d699b6178487655d25f5f6790e64f218e2503acbe5309c5cf07b36d2ec",
+      "audioSha256": "09a543633c3491dd679fb49bd2db9e77b62a891070b3598f5dc866367303c88b",
+      "url": "../../apps/shared/audio/sunny-v2/11ebd5d699b61784.mp3"
+    },
+    {
+      "text": "Five helmets",
+      "textSha256": "13eb9b70c1f9ed7c2a9587496c3afc3a29582046504465bc004d401ac565cbd6",
+      "audioSha256": "32c41effe7c7f2f0e0e5dd295b349c93e0862de1cdf3339a1848dc37487e4a88",
+      "url": "../../apps/shared/audio/sunny-v2/13eb9b70c1f9ed7c.mp3"
+    },
+    {
+      "text": "Kicking",
+      "textSha256": "1479215c83d910453c77b6ca61247a90339d553f03076298ebc988efc4dc4f6e",
+      "audioSha256": "7478078239a2c9c7e0ce665afe9ad6b42f7840b893577593330b6727c822087c",
+      "url": "../../apps/shared/audio/sunny-v2/1479215c83d91045.mp3"
+    },
+    {
+      "text": "One and four rackets.",
+      "textSha256": "14ea1f313a163e6234dc62cd8578aeee0323d639bf4ad30d4fa909aabdd06fd9",
+      "audioSha256": "55baa576e9c89ebeb11cab316341e8220aea794c71f880dc83b9b4f0de2efae4",
+      "url": "../../apps/shared/audio/sunny-v2/14ea1f313a163e62.mp3"
+    },
+    {
+      "text": "An empty pool at night.",
+      "textSha256": "152135505ba5dfd60ab8b725a93cd1b10953414fe9d09c41fe8ab4b4a739b118",
+      "audioSha256": "522934464c4e7c43e5949b2fc1a3aeaf6bc84e121fcc55fd6bfde4f6f28fd31f",
+      "url": "../../apps/shared/audio/sunny-v2/152135505ba5dfd6.mp3"
+    },
+    {
+      "text": "Twisting",
+      "textSha256": "160d9e395dacec17effe20dc423a16819179212eadf673a2baf0acb679775b7c",
+      "audioSha256": "1ccd4b0f35f04880043ea217cb3849d21c3015648a7a0023621a1b1997cd2915",
+      "url": "../../apps/shared/audio/sunny-v2/160d9e395dacec17.mp3"
+    },
+    {
+      "text": "vase and gate",
+      "textSha256": "164ae1a33765c2c0a45dc5873a77b1d6cc8aa17e65977d9dd5281a999a5871ab",
+      "audioSha256": "c05f4a93534748da09e2363b47af0883d15d3a1f0814042da98b44800878694e",
+      "url": "../../apps/shared/audio/sunny-v2/164ae1a33765c2c0.mp3"
+    },
+    {
+      "text": "She practices swimming in the daytime.",
+      "textSha256": "166a55a03ba92b2b1c3579ff91c0a60b4316e0f90f0e27b5ae44e47e451956ba",
+      "audioSha256": "6efb7f2eac33d1bde42b2b32712533cc745af0ce0d61664b2d7314c1f14001e8",
+      "url": "../../apps/shared/audio/sunny-v2/166a55a03ba92b2b.mp3"
+    },
+    {
+      "text": "one thirty five",
+      "textSha256": "168ecd09a25052a65c32512808f0d31863c2faa1103bc43f8751067987ff9413",
+      "audioSha256": "3d1fbf4601486d64770f0eaf5f00d48bd9a5ace9efab2b2e26826f6f99df55bb",
+      "url": "../../apps/shared/audio/sunny-v2/168ecd09a25052a6.mp3"
+    },
+    {
+      "text": "ring",
+      "textSha256": "16b974583155fdcb11fb6832a37be09c18c7acecbfb352c25a35512bfd755a33",
+      "audioSha256": "9cb23016e75cb1cd21e69fab82500866e6c258d40d70270ab6b0e4c5e3f7b6da",
+      "url": "../../apps/shared/audio/sunny-v2/16b974583155fdcb.mp3"
+    },
+    {
+      "text": "Bees in spring",
+      "textSha256": "16badc7c328a63a574c532b2e114757b1cceba93d7abf953a66e68888c7c339e",
+      "audioSha256": "db72fb2b38276093e060fe229e99eeb7007483519ad90df537bb779c08e13081",
+      "url": "../../apps/shared/audio/sunny-v2/16badc7c328a63a5.mp3"
+    },
+    {
+      "text": "Let’s enjoy our hobbies, Mr. Mouse. Find the picture.",
+      "textSha256": "17fca022d2bb5f390050d4b76a768bb89ad7a5f5cf621513122956f669423eba",
+      "audioSha256": "4af22fc2bbb8a2e7391f0a236a48f631289db3899317cc7d514293a0c3bd6683",
+      "url": "../../apps/shared/audio/sunny-v2/17fca022d2bb5f39.mp3"
+    },
+    {
+      "text": "I chew bread.",
+      "textSha256": "18515eb32b2f63ebf766299ddf32906fdb350623a69c04c289e0c16a3a5d88a6",
+      "audioSha256": "f4735a7fde5169286aa77bc235c55a2fd82faa7c052c6e84be21bf67f22aaecd",
+      "url": "../../apps/shared/audio/sunny-v2/18515eb32b2f63eb.mp3"
+    },
+    {
+      "text": "I like baseball.",
+      "textSha256": "1897a788c394c6b75c750b9619b90baa7f066839eeb9e79a2e7230c28770c571",
+      "audioSha256": "cebd8ff4eec071ea78005e444f7f461024a9ba4e5999014ba8e7f72493d87c0b",
+      "url": "../../apps/shared/audio/sunny-v2/1897a788c394c6b7.mp3"
+    },
+    {
+      "text": "one fifty five",
+      "textSha256": "189a33a40d887ff4fdf3275dad4cf015de5bab35191db292d07a82f7792882ca",
+      "audioSha256": "3f80406be91755bf3fe4cf0de521ecf43fda3f24c8491a7e254e813ddc64c7b5",
+      "url": "../../apps/shared/audio/sunny-v2/189a33a40d887ff4.mp3"
+    },
+    {
+      "text": "Mr. Mouse enjoys eating cheese.",
+      "textSha256": "18d131080dd9dbdccffab968ef1b09ee645f9d7258a4e27959c5d312117a64d7",
+      "audioSha256": "de56874b073cadf0c590b3b98f14eff5e3b3a2e32a51cf2589f768888b4120bc",
+      "url": "../../apps/shared/audio/sunny-v2/18d131080dd9dbdc.mp3"
+    },
+    {
+      "text": "Which thing can we wear?",
+      "textSha256": "1a886353e81591236afa99a772f35cbe8acb0f4c300bbcd5ee784de0d405865b",
+      "audioSha256": "fec72f55a04b8ae0e1ad4675e69bbaf4c872f7e5819ce707baf3081834b9a40a",
+      "url": "../../apps/shared/audio/sunny-v2/1a886353e8159123.mp3"
+    },
+    {
+      "text": "Seven in each group. Two groups. Seven times two. How many altogether?",
+      "textSha256": "1a9f3935a0dda8cbb405d14d4f8810b99d4bd94f66aa7eebb5dd028ee2f29d4d",
+      "audioSha256": "4322ece708db98a4842a4d61325cf395d2ccecf25f292ffbbf8939788ead620e",
+      "url": "../../apps/shared/audio/sunny-v2/1a9f3935a0dda8cb.mp3"
+    },
+    {
+      "text": "Winter",
+      "textSha256": "1b17869e03ecc1b0f86b003c199606eb68eaceb18927e3843a935cf7f6157152",
+      "audioSha256": "29d195c9719aeec3b8497df2eab06e3faadee66973ad2dc773efb8e88389d56f",
+      "url": "../../apps/shared/audio/sunny-v2/1b17869e03ecc1b0.mp3"
+    },
+    {
+      "text": "Bees help vegetables grow. Find the picture.",
+      "textSha256": "1bc66e2c522084482d5e0a5cb4ee27c8b9af9fa252a58c828c0c714304aed38f",
+      "audioSha256": "40251626d58fcd04deffc64e58fe430bac30730d0c3fdc0c6e6c201770a51e2c",
+      "url": "../../apps/shared/audio/sunny-v2/1bc66e2c52208448.mp3"
+    },
+    {
+      "text": "Let’s rest on the leaves.",
+      "textSha256": "1bf83231f02545bd59e7c995c323bc1e139d2d936f31e6072a1f517ff2d94c7a",
+      "audioSha256": "ccad00914a8ee6eec67c5e264e2a940d0f87cb730d1f1d86c29765fe358d2a08",
+      "url": "../../apps/shared/audio/sunny-v2/1bf83231f02545bd.mp3"
+    },
+    {
+      "text": "A horse grazes on the grass. Find the picture.",
+      "textSha256": "1c02986ae08f8f2708b5bef93c16f7ca3def1cc24398daf70b8213c42c84ce48",
+      "audioSha256": "b67ed2127fc295ad99d3253c8c2041d4586959b4a595728baea29c4fd341103c",
+      "url": "../../apps/shared/audio/sunny-v2/1c02986ae08f8f27.mp3"
+    },
+    {
+      "text": "This is a ring.",
+      "textSha256": "1c6f3db448ab6bfe8f5d5a5c04b072302d61c77e56d78bfface97e80281542af",
+      "audioSha256": "61c92ca6c2ae869d4f0a90ca3800f59329db95421d181c9e0813c4892007f5ca",
+      "url": "../../apps/shared/audio/sunny-v2/1c6f3db448ab6bfe.mp3"
+    },
+    {
+      "text": "One and four make five.",
+      "textSha256": "1d2fcdbaf2245a87f095dfa308a97ae620e0c7c687d301ee794863fa3dfcc0ee",
+      "audioSha256": "947ea61762f47ec082c00688c2cca53e5b98228f27b2d73b1c033b9ced78082b",
+      "url": "../../apps/shared/audio/sunny-v2/1d2fcdbaf2245a87.mp3"
+    },
+    {
+      "text": "It is diving. Find the picture.",
+      "textSha256": "1daae56642bfd7eb735594394ff6046fc1a47c0121ec61acd74dada3e0cf96ce",
+      "audioSha256": "33e6453d325ff74fd042e6c72d2c346ad10dd65ae87f943aa3ddbece4b4dae03",
+      "url": "../../apps/shared/audio/sunny-v2/1daae56642bfd7eb.mp3"
+    },
+    {
+      "text": "I chew candy.",
+      "textSha256": "1f090d803237dbe52d43d29771d23005bc399e45edb4ebc9de5846adbd11713b",
+      "audioSha256": "d4e9b37f7974cc88d0117e823cbc34ddfd351f2a83605e0e232e24564fe61735",
+      "url": "../../apps/shared/audio/sunny-v2/1f090d803237dbe5.mp3"
+    },
+    {
+      "text": "Seven times two is fourteen.",
+      "textSha256": "1f1f459a8ae85bafcb3882202bcd178037bdad86a54aa7a18c24dd10d9286111",
+      "audioSha256": "3427362073905d30e5613cc14c9057008d0330839f3c95fa7cb67c7db6de016e",
+      "url": "../../apps/shared/audio/sunny-v2/1f1f459a8ae85baf.mp3"
+    },
+    {
+      "text": "Look at the clock. What time is it?",
+      "textSha256": "1fdbe3dd90b33425810efb2c8e97a2f7ffa50e3d0ba551b092db45ebd904e339",
+      "audioSha256": "c9d8ac68f7a1085f14495c8b1cb94d926457df1407d38a7dff35dffb6e2b56d3",
+      "url": "../../apps/shared/audio/sunny-v2/1fdbe3dd90b33425.mp3"
+    },
+    {
+      "text": "There are bees near the grass. Find the picture.",
+      "textSha256": "20354be38e712995d66996d15dae3ed2d6717c0d92bf57931395587fc330c763",
+      "audioSha256": "25630dc1f55e30a55aa79ff195e4f9278d00d6e296a9531977a99c6fe3ddf4e0",
+      "url": "../../apps/shared/audio/sunny-v2/20354be38e712995.mp3"
+    },
+    {
+      "text": "It is birds chirping. Find the picture.",
+      "textSha256": "20a6805d327127154f300afd80c013e7bd6dd39154826fb9929d9f816ebf7788",
+      "audioSha256": "470dccfee6dc12a37f01e15d2adfd91fc917503ad58068aa5cad2001597b278d",
+      "url": "../../apps/shared/audio/sunny-v2/20a6805d32712715.mp3"
+    },
+    {
+      "text": "The running event is in the afternoon.",
+      "textSha256": "20c381619aee0fb6870171cdb5749df0c77887e12f8d5da2cc83636c667fe05b",
+      "audioSha256": "9cdf019f58e917eab9c0da1da0219b1e132d96b6818d3e98add256e02ead9050",
+      "url": "../../apps/shared/audio/sunny-v2/20c381619aee0fb6.mp3"
+    },
+    {
+      "text": "She wears a hat.",
+      "textSha256": "213898ecddeae4717c79da7a344282e69104e8e889d8a30968c29a8cf0105bce",
+      "audioSha256": "4b3114f6bed5f8e68a0c0cb9129979cf71beeec4d01b126f0e734aba0c424605",
+      "url": "../../apps/shared/audio/sunny-v2/213898ecddeae471.mp3"
+    },
+    {
+      "text": "Find five thirty-five.",
+      "textSha256": "2140e26947e00f42522a364cfe470508df4646746d1a1588b951452dc1ed132f",
+      "audioSha256": "466e6825c1b70299a76e42d55c9d9ee6689ed8f52afc9f2f398bf2ec676c74b7",
+      "url": "../../apps/shared/audio/sunny-v2/2140e26947e00f42.mp3"
+    },
+    {
+      "text": "I wear gloves. Find the picture.",
+      "textSha256": "21ab363ac13b0441c243a65297cd1e7ed941c2667ddde1dcda820ff64749b03f",
+      "audioSha256": "910d7a277b807b0136f300c8df9ca77a8ddaf3f0366a9be14b1e3a9a5f2fadcf",
+      "url": "../../apps/shared/audio/sunny-v2/21ab363ac13b0441.mp3"
+    },
+    {
+      "text": "Earth needs animals.",
+      "textSha256": "21c1bc51e1d9ea7a1e6ce756b81013ad9570b62d0c5a86a7614092e36598858d",
+      "audioSha256": "0cf6960d15ca33327ad4795791081348d927d2391e761a545ffcd8a2d1330805",
+      "url": "../../apps/shared/audio/sunny-v2/21c1bc51e1d9ea7a.mp3"
+    },
+    {
+      "text": "five",
+      "textSha256": "222b0bd51fcef7e65c2e62db2ed65457013bab56be6fafeb19ee11d453153c80",
+      "audioSha256": "ee02444a6b7386a4ba5ee00d18f4fadf8f1403f5a3b93bd8c56dedf325be3083",
+      "url": "../../apps/shared/audio/sunny-v2/222b0bd51fcef7e6.mp3"
+    },
+    {
+      "text": "I practice jumping every day. Find the picture.",
+      "textSha256": "223929de17a4d8d1fdad9ddd3f37b72ff487dc8564ba9d283100c8be3b3f0b1a",
+      "audioSha256": "c8b2f004d8e1d24f5c6ce324b9096346f670d2b9813e2b8f31493429855145fa",
+      "url": "../../apps/shared/audio/sunny-v2/223929de17a4d8d1.mp3"
+    },
+    {
+      "text": "It is good for our skin.",
+      "textSha256": "23072a2075dbda776bb96f0e0a3e7296a85e8c5172422fac2e33cf1670bdf3fc",
+      "audioSha256": "6ee5394665766657d0a7e96bb132f0044c6488d07ce7d69cde53ab7f429301d6",
+      "url": "../../apps/shared/audio/sunny-v2/23072a2075dbda77.mp3"
+    },
+    {
+      "text": "Count thirty. Take away five. Twenty-five is left.",
+      "textSha256": "2406ba8a3ce4c51223c52ffd55a0b6a865f4d1bd8f72cffe772881d2e92219ea",
+      "audioSha256": "69ebc3d2fdcc2deac4d68c7878a1428cc448446f266a6a730ec76df45bf65be6",
+      "url": "../../apps/shared/audio/sunny-v2/2406ba8a3ce4c512.mp3"
+    },
+    {
+      "text": "There are bees near the lamp. Find the picture.",
+      "textSha256": "2499290ff726ff74ad65b798f8e7ba359247cce23b27fdce89b06f3d955d1bf6",
+      "audioSha256": "28d01d6dd5d252e2d39e685eeb7308a622587622748903a8e2792d8e094e8436",
+      "url": "../../apps/shared/audio/sunny-v2/2499290ff726ff74.mp3"
+    },
+    {
+      "text": "In the morning, I play soccer at nine o'clock. Find the clock.",
+      "textSha256": "2511cdc94d0338d6a02729740963437f584737b4e2c5b51221cec6c54707295a",
+      "audioSha256": "e98b4a89e9697f82b190832a9d809271da0b67741f7a39f7ac9a95625940c276",
+      "url": "../../apps/shared/audio/sunny-v2/2511cdc94d0338d6.mp3"
+    },
+    {
+      "text": "I wear a scarf.",
+      "textSha256": "25830eda38db89f048d4a37b302873e6bb8db5692cdf3319db01952114ff907b",
+      "audioSha256": "f7e901d4dd1f6f3c6d61cb62a8f3650c886bf775f49d0fb14bfc704120ed4fc4",
+      "url": "../../apps/shared/audio/sunny-v2/25830eda38db89f0.mp3"
+    },
+    {
+      "text": "boat",
+      "textSha256": "25cdb46d8d2115a24eb15c3c58f34f3330cfca4fec249ff70b7cad2bb560a0dd",
+      "audioSha256": "19c36813e3ccbc83c2e777422b92da6507eaa7a281983cf53eac46846c43d126",
+      "url": "../../apps/shared/audio/sunny-v2/25cdb46d8d2115a2.mp3"
+    },
+    {
+      "text": "I need socks.",
+      "textSha256": "260627c05db3b0cb20757b88e97192a07f203613014b6847b2d913533fe29518",
+      "audioSha256": "caccc83322d0488ae67d54af493d704f9097acdded3628224ff3c228c6531ca8",
+      "url": "../../apps/shared/audio/sunny-v2/260627c05db3b0cb.mp3"
+    },
+    {
+      "text": "Mr. Worm enjoys digging soil.",
+      "textSha256": "2689665de2eec831948d2ab5fdcfef0fecf5f9ee71ddfefa41b5b9f7dfdf6b10",
+      "audioSha256": "247c90c7f84705c6d950dfe698186922ae0615fd2f08a0547d3ab176133d2072",
+      "url": "../../apps/shared/audio/sunny-v2/2689665de2eec831.mp3"
+    },
+    {
+      "text": "I chew candy. Find the picture.",
+      "textSha256": "27d14bd5b860c2a1e66e6f039926cff063b7deacec0580c10fd09c6aae4ce7e1",
+      "audioSha256": "57162b71ec4fd86c3d5cbaf67c1b37a8ecec01e18ba14e4125a5495efa518451",
+      "url": "../../apps/shared/audio/sunny-v2/27d14bd5b860c2a1.mp3"
+    },
+    {
+      "text": "A raccoon goes into a den. Find the picture.",
+      "textSha256": "28166748861887ccc95cff121210a112071e468b670683e328d75d10abfc3c46",
+      "audioSha256": "cc99a3b055d7d8e245f3ec29e27ecae17c2d5940615ac6ef916129fa9302def5",
+      "url": "../../apps/shared/audio/sunny-v2/28166748861887cc.mp3"
+    },
+    {
+      "text": "Running in the afternoon.",
+      "textSha256": "29027c286a65c70b42b41ca1147d6da0593c16e71595d2fd32cab745d934aac5",
+      "audioSha256": "b6d9a088cbc27f84c07deedd4caf85d2b60543d79d22e397719b046efc02b5ca",
+      "url": "../../apps/shared/audio/sunny-v2/29027c286a65c70b.mp3"
+    },
+    {
+      "text": "This is an owl.",
+      "textSha256": "29451e0c24b013b6478c8481e32f7c903e27dcacc656e346735144ead1fa602a",
+      "audioSha256": "74fd2f751ce38d899a13be039acd9f19f7e4848c5657e9ab9373b9460fa5fd33",
+      "url": "../../apps/shared/audio/sunny-v2/29451e0c24b013b6.mp3"
+    },
+    {
+      "text": "Let’s rest on the beanbag. Find the picture.",
+      "textSha256": "2a10229753324e655eccc7c34d13a337920c184ee3f200165c85860c125449df",
+      "audioSha256": "4210d7749913c6e2dd693fe1d75a333392b1e4e68706f287808faf825f649bf3",
+      "url": "../../apps/shared/audio/sunny-v2/2a10229753324e65.mp3"
+    },
+    {
+      "text": "Gerry writes a book",
+      "textSha256": "2a3ba3975e02a9fb75a1fc1b7bd1df9e3c7069ae395584194c29b4645333bc3f",
+      "audioSha256": "bedebb72a0e025037a65277a896a6a3e5882ab0ffb346ce38dcc658b9875a261",
+      "url": "../../apps/shared/audio/sunny-v2/2a3ba3975e02a9fb.mp3"
+    },
+    {
+      "text": "We see bees in fall. Find the picture.",
+      "textSha256": "2bd53cd489310e6700f21c2405a2e2233b291e234781b09f3eabf47bb870488c",
+      "audioSha256": "cc565bd81c52092a386638a518c0667d55d79b13f6d47ddfda27c3f1722bdd06",
+      "url": "../../apps/shared/audio/sunny-v2/2bd53cd489310e67.mp3"
+    },
+    {
+      "text": "seventeen",
+      "textSha256": "2c5abdef2a0eacb49f5115991a9331e8f78c5a15f986426815fd9486b5230628",
+      "audioSha256": "6dc04bcfa8cd03cd77fb0b02b5490e85388d7cb2a53b8b49800e63858bc8dafe",
+      "url": "../../apps/shared/audio/sunny-v2/2c5abdef2a0eacb4.mp3"
+    },
+    {
+      "text": "This is a balloon.",
+      "textSha256": "2ca9300070f29f478f678fb647e1c18957e4f2c972bc81ca6df698193519bdad",
+      "audioSha256": "68a88bc8368d58e90880d30b34e46f94dfaa519a0a83dab93494079bacd52e15",
+      "url": "../../apps/shared/audio/sunny-v2/2ca9300070f29f47.mp3"
+    },
+    {
+      "text": "I play with my friends. Find the picture.",
+      "textSha256": "2cfaa6a8b9883b5bd110d48ba84fd973adc13db525716bcf9dda4a659932ae83",
+      "audioSha256": "c476a47fd84090a3c0f1bf4a6f9f8aacdc4abbc25d2f262f25f28465e9f1c438",
+      "url": "../../apps/shared/audio/sunny-v2/2cfaa6a8b9883b5b.mp3"
+    },
+    {
+      "text": "Three and two make five.",
+      "textSha256": "2d474c72aef6aee36843c88bb3fc6b3bb6a77b711d879ddbecc9ffc90729f812",
+      "audioSha256": "f06a5a49d0fa99341afb87b0359c65f1cb487c80de0c54194b25c7c2ff61abf4",
+      "url": "../../apps/shared/audio/sunny-v2/2d474c72aef6aee3.mp3"
+    },
+    {
+      "text": "This is a soap.",
+      "textSha256": "2e254a025e853d4e6dd64b7fe80d273811d19c64b2b360b71b9353120a8f163f",
+      "audioSha256": "72cafd42c91b3699e5637807c3b875c025cd4c078eb754f7a5242da766ef9fce",
+      "url": "../../apps/shared/audio/sunny-v2/2e254a025e853d4e.mp3"
+    },
+    {
+      "text": "Find the cane.",
+      "textSha256": "2e997b6b3dda89b139576b40550b905e73209a30da100e31114f442e11d5508e",
+      "audioSha256": "bbaad7fa1bbb3e28b945329321262c5ebfa2b2fed97fc38a77dd62517eaa2e5b",
+      "url": "../../apps/shared/audio/sunny-v2/2e997b6b3dda89b1.mp3"
+    },
+    {
+      "text": "The running event is in the afternoon. Find the picture.",
+      "textSha256": "308aa072d941d55aa8392099cc8c6b49c664865a4f8bf91109611b8174af9736",
+      "audioSha256": "324de45fb83af11bd9db269c840575ec4ec089cbb6951e85ce079266a36c4531",
+      "url": "../../apps/shared/audio/sunny-v2/308aa072d941d55a.mp3"
+    },
+    {
+      "text": "vase",
+      "textSha256": "30e436cb382491bb1f039032641fea80d45e142485fe3031fe0742ddd7de7d2a",
+      "audioSha256": "6b9235c39b312a3e6032ad42a39f133cb19c96c923b052982779ecc298723afa",
+      "url": "../../apps/shared/audio/sunny-v2/30e436cb382491bb.mp3"
+    },
+    {
+      "text": "In the evening, the sports store closes at six o'clock.",
+      "textSha256": "30ec3259a1dbea718fa30796bdf6ad90aa7feac41463ed6ce92b265bc80f3928",
+      "audioSha256": "8a385318d50dbe7798ed1ca49a424817adb063984424deeecb01f8b541986c6b",
+      "url": "../../apps/shared/audio/sunny-v2/30ec3259a1dbea71.mp3"
+    },
+    {
+      "text": "I need boxing gloves.",
+      "textSha256": "31dcf2a2c523bc6b33a607c2651cbf96c866d9b7feedc0f3ddfb9b66b685a1e1",
+      "audioSha256": "0798108e1c74411f02d3948e8471f11489a1b08d1dd0df2246c7b9a074651bc6",
+      "url": "../../apps/shared/audio/sunny-v2/31dcf2a2c523bc6b.mp3"
+    },
+    {
+      "text": "twenty-three",
+      "textSha256": "328e51fcaeaf1d92364b43c3da86914bff61423e6956150803c8e7fa19632bea",
+      "audioSha256": "44697c9560d45051b67768d4ced8070258c4e4f1f3701e0ded7459f7589bf752",
+      "url": "../../apps/shared/audio/sunny-v2/328e51fcaeaf1d92.mp3"
+    },
+    {
+      "text": "Find six o’clock.",
+      "textSha256": "32a9ddb81e49ef1936604f90418b8b5ce22c53bab00415b75b35232ce572c8c7",
+      "audioSha256": "0993932cd4782662a286a76a572783df78e4e60d05442bb2aa2838a8c6ce1cb7",
+      "url": "../../apps/shared/audio/sunny-v2/32a9ddb81e49ef19.mp3"
+    },
+    {
+      "text": "cake",
+      "textSha256": "32cdb619196200050ab0af581a10fb83cfc63b1a20f58d4bafb6313d55a3f0e9",
+      "audioSha256": "6270d532c5f7f81c057536b1bf0bde9c21c30a68468d4c720968a7020922bac0",
+      "url": "../../apps/shared/audio/sunny-v2/32cdb61919620005.mp3"
+    },
+    {
+      "text": "Five shoes",
+      "textSha256": "338ed357254b3e141742edbcac1e55decfceb43f9c398bd16b4d62598aaf43bb",
+      "audioSha256": "09647274d5cfe4107c6f9c01ece5f6052503d261706002b19b5a1205511f3b8e",
+      "url": "../../apps/shared/audio/sunny-v2/338ed357254b3e14.mp3"
+    },
+    {
+      "text": "He chews gum.",
+      "textSha256": "339309d01f4349ad6cb5a19a731eceb55749fe880d28ecc4441640be61497554",
+      "audioSha256": "91a7abd64c3d4b0570908be0661844f5fb65eace55930af03d4dc5b5418acfed",
+      "url": "../../apps/shared/audio/sunny-v2/339309d01f4349ad.mp3"
+    },
+    {
+      "text": "We see bees in spring. Find the picture.",
+      "textSha256": "33a227af5cd3dcc3ff8286dc5e452a1766c3fb2e39c5b7f59d65ce6a11738dc4",
+      "audioSha256": "eddec5ddcbd855682fbcb1d093edaeaa93ccb58634da565432bb8c3458fd5295",
+      "url": "../../apps/shared/audio/sunny-v2/33a227af5cd3dcc3.mp3"
+    },
+    {
+      "text": "one o’clock",
+      "textSha256": "3408c088d9344aac6da771d94a3aa65afcc75392ef5fa7ab415ae755d5a3880b",
+      "audioSha256": "86c0782a2fb91fb5066408bc6def23c624c185f3590dfce9ae87f5e783082723",
+      "url": "../../apps/shared/audio/sunny-v2/3408c088d9344aac.mp3"
+    },
+    {
+      "text": "Let’s rest on the bench. Find the picture.",
+      "textSha256": "351ef3be518017e9adf86586e326f03d0feea692547ee02eadf2df609224223f",
+      "audioSha256": "5542c609da34e124832c7b5e47b412e7e9fe7b6d19c9cc2cdaf1cc8c3a44e3d5",
+      "url": "../../apps/shared/audio/sunny-v2/351ef3be518017e9.mp3"
+    },
+    {
+      "text": "Earth needs clean water.",
+      "textSha256": "352a33cd96c69fecd6a0757176c9279181839527c16fd8a4e1ef3f8536f62c8d",
+      "audioSha256": "c5d02888ca5aef013fa043da13e956843de13077b59da86774cb4cb4d7284c11",
+      "url": "../../apps/shared/audio/sunny-v2/352a33cd96c69fec.mp3"
+    },
+    {
+      "text": "Two times four is eight.",
+      "textSha256": "36427b3451434a4fc7f171de4a8e2a94663c187363d130d5c038176851db6c15",
+      "audioSha256": "378f304dc04fe3c0c23977ad651d65b2337d6fab3f55c9a8955e2c23e5d729f1",
+      "url": "../../apps/shared/audio/sunny-v2/36427b3451434a4f.mp3"
+    },
+    {
+      "text": "This is a tape.",
+      "textSha256": "3654e14c2ba8fc7d68c70bac5cfcca8251affe62a8acbdc1fd68b679c09cbf98",
+      "audioSha256": "52745e5d1731f78c4846225559fbc854262342fab279ceace4e9a97f5e8793d6",
+      "url": "../../apps/shared/audio/sunny-v2/3654e14c2ba8fc7d.mp3"
+    },
+    {
+      "text": "He chews gum. Find the picture.",
+      "textSha256": "367b8df70b3b1d014455fc09de3aaec12a52504508ba08a5378855aa3ddb06e4",
+      "audioSha256": "9762db3d602a7556a0f200488f4e8b974fa11338270c3f47fc84936289f38744",
+      "url": "../../apps/shared/audio/sunny-v2/367b8df70b3b1d01.mp3"
+    },
+    {
+      "text": "eight o’clock",
+      "textSha256": "36a7b8ac39d1599a1ab3df94896267c3da7e594438a866c2d33bb2433e2c78ef",
+      "audioSha256": "b210716858f6d409695ffad9456ef906a5f368c512c02db8d842166e140f870e",
+      "url": "../../apps/shared/audio/sunny-v2/36a7b8ac39d1599a.mp3"
+    },
+    {
+      "text": "A barbell",
+      "textSha256": "36b3708542890616060f4c19191bfd203c818fb7c412c1017f4e1f91d925dfd3",
+      "audioSha256": "2b4982414b91c0f795d6a8d83ff2a530c724eea58a6e048cab077f06cff4de74",
+      "url": "../../apps/shared/audio/sunny-v2/36b3708542890616.mp3"
+    },
+    {
+      "text": "Earth needs the sun.",
+      "textSha256": "375c4d7fa5e74273f6e29ab58e10381d480d412b67b09d3b46cbdc1b5724166c",
+      "audioSha256": "9d3053d982d2c1e0086072a4753ad168c026d62977056bb81cdd4c47b35c6d7d",
+      "url": "../../apps/shared/audio/sunny-v2/375c4d7fa5e74273.mp3"
+    },
+    {
+      "text": "It is the wind blowing. Find the picture.",
+      "textSha256": "3771d1222bc549c36cc6ef58a30a94fde7e627ce637bdc1699dbc270386f723f",
+      "audioSha256": "839e37a5229364ea858722019581f90d13520b73291e9a2fbf528cf35cc9c8fb",
+      "url": "../../apps/shared/audio/sunny-v2/3771d1222bc549c3.mp3"
+    },
+    {
+      "text": "Find the red car.",
+      "textSha256": "37730263d328d775bcce99d423db8c99dea5a8ce89cd1d3abdc9af32c235df00",
+      "audioSha256": "37fe8304d44ebd5e25a1f9d0786ce079de85c935f816c67966d7dcdfe3ed45c7",
+      "url": "../../apps/shared/audio/sunny-v2/37730263d328d775.mp3"
+    },
+    {
+      "text": "I use a bench. Find the picture.",
+      "textSha256": "379a7946004110d5790e3f99cba1a5b41953587607061acd4895bd3c6d268ce4",
+      "audioSha256": "2ec80c79f91735b4472021c03fbcfdd490aede7b52c912198183da468e4dc456",
+      "url": "../../apps/shared/audio/sunny-v2/379a7946004110d5.mp3"
+    },
+    {
+      "text": "three forty five",
+      "textSha256": "379df62974850be4b8f561dfac5362ecba7f636a6f349979113e0506122831de",
+      "audioSha256": "0942e9935572c90c01d51e54278cc368c707de292ab101ee13b7817c0c53b69c",
+      "url": "../../apps/shared/audio/sunny-v2/379df62974850be4.mp3"
+    },
+    {
+      "text": "Find the gate.",
+      "textSha256": "38d5949ad841fe82dab8b7b8c70d5e80ddc6a492d3738447ad1e789ad32fff53",
+      "audioSha256": "be68dacaf4db70e8a52370a556221805ff392e03f7a71860a5b79586104ddc78",
+      "url": "../../apps/shared/audio/sunny-v2/38d5949ad841fe82.mp3"
+    },
+    {
+      "text": "four thirty five",
+      "textSha256": "396173a30e3e8c65b2e5ef7644f6cde80efb6ed6aaf89e520d2ab35bf1ec44b4",
+      "audioSha256": "53ff56beb262d7051911a1a672df7f0809e4a9e9865b8311a7a2f6bc2fc319b3",
+      "url": "../../apps/shared/audio/sunny-v2/396173a30e3e8c65.mp3"
+    },
+    {
+      "text": "Let’s enjoy our hobbies, Mrs. Ladybug. Find the picture.",
+      "textSha256": "3a04428c91d09f25361efd8015b946619b7b9c6bdc6494a446a20e84cf269ae1",
+      "audioSha256": "c693baac29de0339c901352a655a3075f53003001c449f9480df3ab780478df8",
+      "url": "../../apps/shared/audio/sunny-v2/3a04428c91d09f25.mp3"
+    },
+    {
+      "text": "Find the quiz.",
+      "textSha256": "3a129861cb00d8e6f0bf35f3b3b4f8fab96c5d59bc992e1432399e8404a0bf16",
+      "audioSha256": "884869d71c6a0e79ed756c1e73b58b24deec943af6771ba8ad42423c4c8386a0",
+      "url": "../../apps/shared/audio/sunny-v2/3a129861cb00d8e6.mp3"
+    },
+    {
+      "text": "A raccoon goes into a den.",
+      "textSha256": "3a67548b2ce57650f1e0d3957145febd46e7a8655df31f0d0c4a05565b7a085c",
+      "audioSha256": "9e179bf4a16bfe18aad5411e8c0b7534951fd7446cb0881c926e0510471bf035",
+      "url": "../../apps/shared/audio/sunny-v2/3a67548b2ce57650.mp3"
+    },
+    {
+      "text": "Mr. Worm enjoys digging soil. Penny enjoys digging soil, too.",
+      "textSha256": "3cb0bf7fc0627513f9051ce41934dfe7ba5594bc0fd4b9af606b6db9368ff3a7",
+      "audioSha256": "9ab1c612e232aa5c04bbf513f4da9e8dbdf8354b26ce3065682ce9f16ad0dbb2",
+      "url": "../../apps/shared/audio/sunny-v2/3cb0bf7fc0627513.mp3"
+    },
+    {
+      "text": "There are bees near the lamp.",
+      "textSha256": "3d1106614d58f1b5d02c005c5ddfcd5904ccb29a19fc1d56ad0fb7d59475a945",
+      "audioSha256": "5704b4c4bbb042495ad52f44b860276ba73db1294a4544647e3b860daa747a29",
+      "url": "../../apps/shared/audio/sunny-v2/3d1106614d58f1b5.mp3"
+    },
+    {
+      "text": "face and cake",
+      "textSha256": "3e1db21f67955014d5d420528ee717d41c4ab5b1c552d223733fbfc0ccbcefa0",
+      "audioSha256": "1fda1223a792f0ebf0e5026f31e2089a381d0d73cbefaaad6f9c02613bc0b5a8",
+      "url": "../../apps/shared/audio/sunny-v2/3e1db21f67955014.mp3"
+    },
+    {
+      "text": "In the evening, I go home at eight o'clock. Find the clock.",
+      "textSha256": "3e497bc4211ef1686902799a7ddfcfc46ade4a8a4419b1e31e011ad1fe69a25f",
+      "audioSha256": "ea2cd8a2e554013567fca2ece99e7149d850d0ec736f3cc0e9c4c7e0040d909a",
+      "url": "../../apps/shared/audio/sunny-v2/3e497bc4211ef168.mp3"
+    },
+    {
+      "text": "Cycling at night.",
+      "textSha256": "3eca59cd6b5255082c52e9b81f0cb2b2b6081041a212c1f9137222daf53a1914",
+      "audioSha256": "14c59467b1d765a3ceb51458e6e9dbcf66ea6a7c95f0bca1748715063d346b94",
+      "url": "../../apps/shared/audio/sunny-v2/3eca59cd6b525508.mp3"
+    },
+    {
+      "text": "The bee flies out of the hive at 8:10.",
+      "textSha256": "40cfb6a7c633a4be1420255e115c8024d1b85b7988fab95bd799d4152d8be0f3",
+      "audioSha256": "c544ff75bbf7b1d9bd51add71f8395714c12209e550753c8bbe71cb68802a856",
+      "url": "../../apps/shared/audio/sunny-v2/40cfb6a7c633a4be.mp3"
+    },
+    {
+      "text": "This is a gate.",
+      "textSha256": "410fd7a2a1297ba9a0d117680995ffc6e0e62d2e6a54097ad52a23fc9a3dae20",
+      "audioSha256": "e3ee2b5fa53b828959303c49043692b39b41bff45e24fcb9c58d1d3f4ba67cef",
+      "url": "../../apps/shared/audio/sunny-v2/410fd7a2a1297ba9.mp3"
+    },
+    {
+      "text": "twenty-seven",
+      "textSha256": "412866d80035f66f36c8f5d44894967929e4a89cf35e76e4c909655822848f93",
+      "audioSha256": "d27447f7eb328f111d950d458aa1c70eaf99d9f38b4cf9691ef75f30538ca772",
+      "url": "../../apps/shared/audio/sunny-v2/412866d80035f66f.mp3"
+    },
+    {
+      "text": "I practice running every day.",
+      "textSha256": "413d6f06c92cf8e6dcd251f578b3272a9ac61659dac9cff23728930914112273",
+      "audioSha256": "2505052a506fa184acf23d23124f00beea9f103311a7ffe9d26cce936fb0dfac",
+      "url": "../../apps/shared/audio/sunny-v2/413d6f06c92cf8e6.mp3"
+    },
+    {
+      "text": "I practice lifting every day.",
+      "textSha256": "41cc932ba5934220745a7a74976636ed38616eab1980a7a02739d8ca095c1432",
+      "audioSha256": "29a2954a24f7863eb954b5aab8b4b60a611f258e96d67c979da60971b0bcc28e",
+      "url": "../../apps/shared/audio/sunny-v2/41cc932ba5934220.mp3"
+    },
+    {
+      "text": "It is good for our throat. Find the picture.",
+      "textSha256": "41d50612524e92f11020b27aef06ab7cf562b14bacdadd76632836d29fc5d8b1",
+      "audioSha256": "906077bc40b721791857def3b99c5e8536827ad68b5356212eaf0635af1d320a",
+      "url": "../../apps/shared/audio/sunny-v2/41d50612524e92f1.mp3"
+    },
+    {
+      "text": "I practice running every day. Find the picture.",
+      "textSha256": "42b035f9617b188df6adf799baba295e87ba313693422cb3fc9bb75021abb375",
+      "audioSha256": "0a84c0a6288d9b8e94c5ead5eb04269c117ae4d7b90965a5c59faa49fa8e302c",
+      "url": "../../apps/shared/audio/sunny-v2/42b035f9617b188d.mp3"
+    },
+    {
+      "text": "four twenty",
+      "textSha256": "432634077bef2c0c9d7c6d41adfcea84c91ca53f6e5456229f34cbace428ed7f",
+      "audioSha256": "f8a9459f9a2527bad6fc0c6d4ae7cec14567a455e7a27148a4d123a9e0cf0607",
+      "url": "../../apps/shared/audio/sunny-v2/432634077bef2c0c.mp3"
+    },
+    {
+      "text": "It is running.",
+      "textSha256": "4382ed4f84d1c31d75c1dd5c2ae6c3aef68deba76282749024416deb45135aa2",
+      "audioSha256": "db485150617ed99c7102ea9e04a0d966c059bb0a89c748ce569f5d9b066dce3b",
+      "url": "../../apps/shared/audio/sunny-v2/4382ed4f84d1c31d.mp3"
+    },
+    {
+      "text": "four forty five",
+      "textSha256": "442894247c1f38efeebecd65343be01c71b3f55f19b114edfd9eb973904c5c18",
+      "audioSha256": "5b6d1dbaed8205793013052e962675efc2bbdd2a11b54fd7c0c5b264056c6b82",
+      "url": "../../apps/shared/audio/sunny-v2/442894247c1f38ef.mp3"
+    },
+    {
+      "text": "six",
+      "textSha256": "44778d82365e4af681c40d5f0eef5cf6f5899d3f0ac335050a7ed6779cf3f674",
+      "audioSha256": "ec669a0f8d238e1bbb26ea6fc13d7f1f4e97eb25065b4fb5ee1d46351da5f5ab",
+      "url": "../../apps/shared/audio/sunny-v2/44778d82365e4af6.mp3"
+    },
+    {
+      "text": "A goat grazes on the grass. Find the picture.",
+      "textSha256": "44e9a91b4d0a9c3664bc28958570ca37d536116c76f966425997bb063db31a03",
+      "audioSha256": "8171628304b91d2ea8a4e8f7bb0b854caec4b1f3bdfccac1eadc98a0bf4975f6",
+      "url": "../../apps/shared/audio/sunny-v2/44e9a91b4d0a9c36.mp3"
+    },
+    {
+      "text": "Split five rackets into two groups. Which picture keeps all five?",
+      "textSha256": "4538405f28b1f29a5c233effb81191a70c129f7d9b597f84fa7d62744d3ae4d0",
+      "audioSha256": "62bb0ddad69b96eabf4471bb094af7909b582872739ce0af500279a78f0cc203",
+      "url": "../../apps/shared/audio/sunny-v2/4538405f28b1f29a.mp3"
+    },
+    {
+      "text": "Evening",
+      "textSha256": "458c1fed574354042397e664d6dabe58415c8ab629f052db5723fb42b490d280",
+      "audioSha256": "0139c80d11aad742dee61791fe011f8f30b98b314516472aebdf9b6d2f67ef79",
+      "url": "../../apps/shared/audio/sunny-v2/458c1fed57435404.mp3"
+    },
+    {
+      "text": "A horse grazes on the grass.",
+      "textSha256": "476c72127cb694b3e4cb65c3c38d82da776a5e29843d52a47d0d2262c9d05aad",
+      "audioSha256": "8e3df292b04438e6486465485183881299ca41dedf6da3e0da3bd4d4219a13dd",
+      "url": "../../apps/shared/audio/sunny-v2/476c72127cb694b3.mp3"
+    },
+    {
+      "text": "In the evening, the sports store closes at six o'clock. Find the clock.",
+      "textSha256": "4841f1196457cf1b82c09d622218b378ef7500fa8426bb905501b5921be1fa75",
+      "audioSha256": "aa5e78e451bc4dbc176d8999f5b30cf3a29dcb7c719e180b1beaaa33df7b0722",
+      "url": "../../apps/shared/audio/sunny-v2/4841f1196457cf1b.mp3"
+    },
+    {
+      "text": "This is a red car.",
+      "textSha256": "4856519447d3723a1439e75cb4cbc2a96dd90a8b77d3e2ec5d81f4e6915bf907",
+      "audioSha256": "a1e2d671780b05d57c98f81fd9993bb067bdf36b9171ea04d425eabc33e29953",
+      "url": "../../apps/shared/audio/sunny-v2/4856519447d3723a.mp3"
+    },
+    {
+      "text": "Mrs. Ladybug enjoys flying.",
+      "textSha256": "498c381c045fddee4907d2e7569392937a4e7785c8aa964b870774cd68acfb67",
+      "audioSha256": "cb760b583f7d39a27980cfc42a76c365f2a36253077f737238aa724323122f5b",
+      "url": "../../apps/shared/audio/sunny-v2/498c381c045fddee.mp3"
+    },
+    {
+      "text": "Split five pairs of goggles into two groups. Which picture keeps all five?",
+      "textSha256": "4b0310e017c20abcc132baa32212444699b93e0666fdb9e87fe3923513d48a22",
+      "audioSha256": "41d87e6c67a63d7cdea868434339e71beb693707794a3555bef85f61985ac875",
+      "url": "../../apps/shared/audio/sunny-v2/4b0310e017c20abc.mp3"
+    },
+    {
+      "text": "Listen: face and cake. Choose the two pictures.",
+      "textSha256": "4bae418f9f9e4798b1efa401e9c6278a54cc6223e4293ce5b090573ad9d0d97e",
+      "audioSha256": "7744cddc8e40865c2e7b9b8a51dea566e3eae5cebbd3cefe3d8e7e224bc0441d",
+      "url": "../../apps/shared/audio/sunny-v2/4bae418f9f9e4798.mp3"
+    },
+    {
+      "text": "I like golf. Find the picture.",
+      "textSha256": "4c362d38f9717ca405008864614ec0ae84175a2d03cac8be8d58bdb90217b08e",
+      "audioSha256": "ae807d76e07ee957c95a514548c2618af9a569002e52858b91ab7b330504a898",
+      "url": "../../apps/shared/audio/sunny-v2/4c362d38f9717ca4.mp3"
+    },
+    {
+      "text": "Earth needs the sun. Find the picture.",
+      "textSha256": "4ca8b8ee5a088713d13593bf64767bb2cd1011b8e9ffdf318d31c83a949c40a8",
+      "audioSha256": "2aee35018a05f3e69783a9e0126ba7214a3c7f943ecc23a235247b226938f79a",
+      "url": "../../apps/shared/audio/sunny-v2/4ca8b8ee5a088713.mp3"
+    },
+    {
+      "text": "mouth",
+      "textSha256": "4cf35cf87435b1ba3c6d96ce33914cceb116138913ece44e6501ba0f0388f19b",
+      "audioSha256": "bbcd645a9bed80eade0e6592570e13439994bc8bbc3eadd143f860cc89c14aba",
+      "url": "../../apps/shared/audio/sunny-v2/4cf35cf87435b1ba.mp3"
+    },
+    {
+      "text": "Listen. Find yellow.",
+      "textSha256": "4d672281ac5ac16bf67bcd219b39aa095e9693b019a52c995d540f6f8de3c6bb",
+      "audioSha256": "4a059e48485be2734a0ad16ad3f37e53fb48f293593e3da4194e2d7e4a21774e",
+      "url": "../../apps/shared/audio/sunny-v2/4d672281ac5ac16b.mp3"
+    },
+    {
+      "text": "Mr. Mouse enjoys eating cheese. Find the picture.",
+      "textSha256": "4d686bc9ad3e2d34370c70f121b1fc2be4830ef3c557fe732491aec27c0482c0",
+      "audioSha256": "2e3de7f657011ec678620a85bd3e95bfe770eef802bdeb64dd8eb4f1ae1394ea",
+      "url": "../../apps/shared/audio/sunny-v2/4d686bc9ad3e2d34.mp3"
+    },
+    {
+      "text": "Find one o’clock.",
+      "textSha256": "4d89636f3ef7b61930f424f058dad357c61ef24e9b6f6872fe70f1883ab8a12b",
+      "audioSha256": "1f5e2447fb1abe869c6d345b33b94988603d473d2eede1a00f805b9c07650ae4",
+      "url": "../../apps/shared/audio/sunny-v2/4d89636f3ef7b619.mp3"
+    },
+    {
+      "text": "eight oh five",
+      "textSha256": "4dcb099f7612653847d5697337f6e29374486a9feec277c7c577964281c42570",
+      "audioSha256": "e7fcbe74585bb6b10a49dd45bd1320a66cd72979a67252c434e514f2cd363837",
+      "url": "../../apps/shared/audio/sunny-v2/4dcb099f76126538.mp3"
+    },
+    {
+      "text": "The cat meows at 12:30.",
+      "textSha256": "4de8207524774e878ec3295e6f0af6002cf4809b5a7ccdade9c4617f5db2e3e6",
+      "audioSha256": "5225feaeb47393de17c5936f161cb6bd676ae4c1a40f0d4405631e628a97822f",
+      "url": "../../apps/shared/audio/sunny-v2/4de8207524774e87.mp3"
+    },
+    {
+      "text": "three o’clock",
+      "textSha256": "4e00d06e17051ad114d877a38778e349e3aa7c3f369d7f589ce753f8288db3d2",
+      "audioSha256": "29cf100cf948df266a6dbc835bff222b2121a22ade32fcebeeccc59103a342e9",
+      "url": "../../apps/shared/audio/sunny-v2/4e00d06e17051ad1.mp3"
+    },
+    {
+      "text": "Night",
+      "textSha256": "4e9f8db8242b57e72e00bab464a2f4166b694160e621fefd5aae48ea457e373c",
+      "audioSha256": "236ac257cc95d0c7da772321f2652650ca271d144620cf0e8a4ad049567b4bcb",
+      "url": "../../apps/shared/audio/sunny-v2/4e9f8db8242b57e7.mp3"
+    },
+    {
+      "text": "This is a rain cloud.",
+      "textSha256": "4eca741011b5a9812111db810f096802590c67560e3bb2409e7151e34d1ec2a9",
+      "audioSha256": "2b577350959adb359e8d1c54abc3f1f8e0fb2f83366af09d9ff6167ab609140e",
+      "url": "../../apps/shared/audio/sunny-v2/4eca741011b5a981.mp3"
+    },
+    {
+      "text": "Four in each group. Three groups. Four times three. How many altogether?",
+      "textSha256": "4ecd2f27a06e48212529b72c4815efbfff84e12359b4fc99e87d4963dfda5b72",
+      "audioSha256": "b0529c724bd880c585664e3860ce7ba451901082d22634475db6ed5c4d70b1a1",
+      "url": "../../apps/shared/audio/sunny-v2/4ecd2f27a06e4821.mp3"
+    },
+    {
+      "text": "This is a quiz.",
+      "textSha256": "4ee4ce106cb6e3557bf8d610e63c1546654c4c82ea916019ccd1c6533903ca34",
+      "audioSha256": "0d13e6bf9a4d940528fc7f90aebfc0560392a96e82477b7f11787f2f0d94e8a3",
+      "url": "../../apps/shared/audio/sunny-v2/4ee4ce106cb6e355.mp3"
+    },
+    {
+      "text": "face and cage",
+      "textSha256": "4f19b6de7158015ebc5ff753a2b9a1531aa82be2dd32e5dc0ebcfc83ff0b4503",
+      "audioSha256": "9c9452947223a22943dc7b575d089fe4f52b184c15b8280845e13bcc137a0252",
+      "url": "../../apps/shared/audio/sunny-v2/4f19b6de7158015e.mp3"
+    },
+    {
+      "text": "A cow grazes on the grass.",
+      "textSha256": "4f33da96e2f0534d96e2383aa6c150760e8cac50d821ac05295a26f31124e7a6",
+      "audioSha256": "7e772a2114d32ba8071ff632bd704654fbefe9978aa56d0753264fcf53d5d5ea",
+      "url": "../../apps/shared/audio/sunny-v2/4f33da96e2f0534d.mp3"
+    },
+    {
+      "text": "What comes after daytime?",
+      "textSha256": "4f9f40d08552006862e24943a6bbbe343bbe2a425c1410cf97f90988845d3bee",
+      "audioSha256": "183181d84f1beba0fd4e58d8ab8be4347ad698818523007f6a5cee416b35119e",
+      "url": "../../apps/shared/audio/sunny-v2/4f9f40d085520068.mp3"
+    },
+    {
+      "text": "Bees collect nectar. Find the picture.",
+      "textSha256": "4ff0a5867c970cf2e901ef26b4727670e7a686eeb3f63cbdc4601a2859266d0e",
+      "audioSha256": "7595c650df90dae191a34515150935358f3ebd9ddbd7dfe54a3f33eb7c692364",
+      "url": "../../apps/shared/audio/sunny-v2/4ff0a5867c970cf2.mp3"
+    },
+    {
+      "text": "It is skating. Find the picture.",
+      "textSha256": "504336ba551ba5213a12e4ccc1197e9d96e41a8a65e588c99645709bce9b28af",
+      "audioSha256": "390b733a39e0211543373426d6564638bb246fb07dca7e783d0c4379e8dd34b6",
+      "url": "../../apps/shared/audio/sunny-v2/504336ba551ba521.mp3"
+    },
+    {
+      "text": "Four helmets",
+      "textSha256": "50eeabf0bad5df6e4f4f2399d847f719a310fe9f24a0f28c097237d74b59db11",
+      "audioSha256": "fbc32660aa591a004a4ffdf707ac5b1a028a25b7546fd07b60d1e4e35767b6a8",
+      "url": "../../apps/shared/audio/sunny-v2/50eeabf0bad5df6e.mp3"
+    },
+    {
+      "text": "thirty-eight",
+      "textSha256": "518ce854e4d7f5ddf3284b51d87275df9729a9e2137e69b75bdb826826645151",
+      "audioSha256": "d9b9d5a98117c9b722eb05835b2c040dcea1c0040c8942c8c66ea3e76a13099f",
+      "url": "../../apps/shared/audio/sunny-v2/518ce854e4d7f5dd.mp3"
+    },
+    {
+      "text": "A badger goes into a den.",
+      "textSha256": "525439c91c753b54559bd9e614e31f224e5acae9e2ca6d8b4b554654b6c3c0b1",
+      "audioSha256": "cd830c4732f2e68f8d4c803d01d392d12fd97bd6fc61f21c8a760fb54e3fd890",
+      "url": "../../apps/shared/audio/sunny-v2/525439c91c753b54.mp3"
+    },
+    {
+      "text": "We can wear a cap.",
+      "textSha256": "5265adada5ea7009a6896c3ad638f564610b16d157d90839fe3a4f5e256378b3",
+      "audioSha256": "bca19907f816f3dade70280bd1e61f19b17184e796a0dbbeb07796b68f276806",
+      "url": "../../apps/shared/audio/sunny-v2/5265adada5ea7009.mp3"
+    },
+    {
+      "text": "I play golf.",
+      "textSha256": "538ab300627206081d23118183014986e6db4c78fa079ee40f732535886f1777",
+      "audioSha256": "3aa0eb6a91a2539e9ba1d70c34318eb0a5416b8b181017d318eac79318e9184c",
+      "url": "../../apps/shared/audio/sunny-v2/538ab30062720608.mp3"
+    },
+    {
+      "text": "Swimming",
+      "textSha256": "54230802dfda0e8beeb5a86f02f85969d579ff8d6e237be0d167c83dde1cbafb",
+      "audioSha256": "cfab98a5b9cd440ed42a40678f5181d5e807903d80727a1cb94d58c76a4f05ca",
+      "url": "../../apps/shared/audio/sunny-v2/54230802dfda0e8b.mp3"
+    },
+    {
+      "text": "Find the cave.",
+      "textSha256": "543aa5277b4168d662de7ad56f67900e3d62ceec852bdef3bed1a527825f232c",
+      "audioSha256": "031c31124bf937ad57b0ebca911c98ba7b58d576a3e7e31e41e9c86cc3b88159",
+      "url": "../../apps/shared/audio/sunny-v2/543aa5277b4168d6.mp3"
+    },
+    {
+      "text": "Listen: house. Which word has the same vowel sound?",
+      "textSha256": "54449c527e02bdf347a1c57ae577dcb96aa13934ccf5f995a93b29024f8c92f9",
+      "audioSha256": "23d710cbc36c83d43b60eecb29e6156faefdf6b549f3f0517ebfd1b2e1f882b5",
+      "url": "../../apps/shared/audio/sunny-v2/54449c527e02bdf3.mp3"
+    },
+    {
+      "text": "Bees near a bench",
+      "textSha256": "547bec3574483f6f2677ea754a5e4121a9e9385ea201fcf0e71146ae7f36ed6c",
+      "audioSha256": "8e8e71798b35cb0bb33800fa89213461034df496ab1aa5fa49e266cfa563f57b",
+      "url": "../../apps/shared/audio/sunny-v2/547bec3574483f6f.mp3"
+    },
+    {
+      "text": "window and yellow have the same vowel sound.",
+      "textSha256": "557436cf9029cb6af06e72d6ee876599b33054e5f2491fd26e3b73ad6d4e7ea7",
+      "audioSha256": "13ba5ae30fab9673283928282cb5cff592a8355471e2c644654dbe3ccfe906f1",
+      "url": "../../apps/shared/audio/sunny-v2/557436cf9029cb6a.mp3"
+    },
+    {
+      "text": "It is a dog barking. Find the picture.",
+      "textSha256": "56a205163f72ea4195daf2ad68d20030e70557740fcceca3dc9868a73d1f66cd",
+      "audioSha256": "2d327e6982c8bcb343627e2012215fe553d801274f11dfcbebe9b9c73178f2f7",
+      "url": "../../apps/shared/audio/sunny-v2/56a205163f72ea41.mp3"
+    },
+    {
+      "text": "Let's make honey tea. Find the picture.",
+      "textSha256": "56cbd6955e1e99c259610dbda376a27012ee970d990540a8d983add7f472c79c",
+      "audioSha256": "6f3618e4ccfdab82163c3f418521fd7d96b1b7c1f5568feb9268ce06d04ea68c",
+      "url": "../../apps/shared/audio/sunny-v2/56cbd6955e1e99c2.mp3"
+    },
+    {
+      "text": "Six o'clock.",
+      "textSha256": "579bff5872449bbe3b27d37acc5751393e7f58affcaf7273f5cac9968de73289",
+      "audioSha256": "31951107b5ea2af047a2f7458f9721537ab18afde957fe5aa16101e12e6325b1",
+      "url": "../../apps/shared/audio/sunny-v2/579bff5872449bbe.mp3"
+    },
+    {
+      "text": "A horse starts grazing at one o’clock. It grazes for one hour. What time is it then?",
+      "textSha256": "57a329b296e0093a1eab547c6af08bc5a93e70e49de35eee186c372da8cfa5b7",
+      "audioSha256": "a9595e5ad07b0632d3f54656680c750017fcb779f47a417ae0920f5d6933ae44",
+      "url": "../../apps/shared/audio/sunny-v2/57a329b296e0093a.mp3"
+    },
+    {
+      "text": "What comes after summer?",
+      "textSha256": "57d96b75fabe2a5be2df963ecfa600efdfb44d81845296c7fdba5155678b5c83",
+      "audioSha256": "167bcc5c2f1e6c4889c2099346a95c47f4ddac57e9ea7998085702d01c29a6e7",
+      "url": "../../apps/shared/audio/sunny-v2/57d96b75fabe2a5b.mp3"
+    },
+    {
+      "text": "There are bees near the bench. Find the picture.",
+      "textSha256": "57f17d55e1f262b650c0d5ae0e59e2e4146ffcaa56bbd588718540d64617ec51",
+      "audioSha256": "6d6a03aea024901121559681ea01435945f40e086af8e500ed3e4999d5ce0ea6",
+      "url": "../../apps/shared/audio/sunny-v2/57f17d55e1f262b6.mp3"
+    },
+    {
+      "text": "He wrote a book. Find the picture.",
+      "textSha256": "581b7a848485256cbed7779648469f4e103976b35f69dfe66b4af66d84bfad63",
+      "audioSha256": "20e00594183bed0ba827b981d11b61ba52e53cf13239ed5ce716e1ca98fd1e5b",
+      "url": "../../apps/shared/audio/sunny-v2/581b7a848485256c.mp3"
+    },
+    {
+      "text": "cage",
+      "textSha256": "5943be120e49e99345f31b6b98708dfac9276978d29603c0398222670ecfdf8f",
+      "audioSha256": "f661c2f7300e9aa267d02cb5933fa5610e79a09921765ceadaa4608f2aa4847e",
+      "url": "../../apps/shared/audio/sunny-v2/5943be120e49e993.mp3"
+    },
+    {
+      "text": "Earth needs animals. Find the picture.",
+      "textSha256": "5944d930fab44d92f26abec15482a1fe0c4d8e0fd3a181d752bcfa3dbf4dee74",
+      "audioSha256": "71e5c4f3ba07f1c01c087919d92ebd85a0d483dd6e8d8c48c75bae3347d1d758",
+      "url": "../../apps/shared/audio/sunny-v2/5944d930fab44d92.mp3"
+    },
+    {
+      "text": "Let’s rest on the chair.",
+      "textSha256": "59c7d6fd6ea6512bbb9612d9beca1a57a8d2a2d719899bc24988a182a083341b",
+      "audioSha256": "ca06ad0a154302c9ad60c58db5496d3850489728ae272bb74299a6dad736ac2c",
+      "url": "../../apps/shared/audio/sunny-v2/59c7d6fd6ea6512b.mp3"
+    },
+    {
+      "text": "We see bees in summer.",
+      "textSha256": "59e9a7b97025e63e735c52f040262a1c7eee821ba518284cbfa57878e581801b",
+      "audioSha256": "c93d0d3b4c673f4c6a96dc5ec1bc8c6e7c9177f21d14caaa74b6435de7b56b1a",
+      "url": "../../apps/shared/audio/sunny-v2/59e9a7b97025e63e.mp3"
+    },
+    {
+      "text": "Mrs. Butterfly enjoys finding flowers.",
+      "textSha256": "5a442188c80c7c035cf95f2a5de630043ea2b012131956c1c38c33af6f701489",
+      "audioSha256": "03dc4c42d61ee5f273ebc3f8e561c3542f339247c037f03ed8cab66dfde38d52",
+      "url": "../../apps/shared/audio/sunny-v2/5a442188c80c7c03.mp3"
+    },
+    {
+      "text": "cow and owl have the same vowel sound.",
+      "textSha256": "5a51f93be36c8d96332ac295fc01ce568aed153ac9e8cd17030c221072f486c2",
+      "audioSha256": "50c4e494540d39e19e287cc4d345cb5996e67f89955a1b78660a9f38774dffbf",
+      "url": "../../apps/shared/audio/sunny-v2/5a51f93be36c8d96.mp3"
+    },
+    {
+      "text": "two o’clock",
+      "textSha256": "5d332af575bc1176ab31baec456e48bb877503b871cdf50548cc4cf6d5c21a12",
+      "audioSha256": "ca1013df826fe28724ff2699c6b976deb0cb74fba7c21967078eb19e1f6a525d",
+      "url": "../../apps/shared/audio/sunny-v2/5d332af575bc1176.mp3"
+    },
+    {
+      "text": "Find the queen.",
+      "textSha256": "5de59f2492832f26e2829c4cdfecb482b876dbecf71f6bef818909aae66e119e",
+      "audioSha256": "7f80fbee190ed1a1929e96ae3b1a6a10e5071fcfab56133671592f65a61fb00b",
+      "url": "../../apps/shared/audio/sunny-v2/5de59f2492832f26.mp3"
+    },
+    {
+      "text": "cane and game",
+      "textSha256": "5e2ef7737475e112a5bd67bc97d3f5f4ee433b7351b73f7268439938e69d4252",
+      "audioSha256": "24d0b379d3e9c0739b7e6f2ec6b109fe028d1448ecc17c0b7c87d54f3303335a",
+      "url": "../../apps/shared/audio/sunny-v2/5e2ef7737475e112.mp3"
+    },
+    {
+      "text": "Find the quarter.",
+      "textSha256": "5f621d52022ba8a451197501cb083a6d0f3679f9140135c354f930f4bd1ef6fd",
+      "audioSha256": "c2ac0c3d5241e15216f6075a739a3f42f1a42cf497bbbecf06ae380522f7ac0d",
+      "url": "../../apps/shared/audio/sunny-v2/5f621d52022ba8a4.mp3"
+    },
+    {
+      "text": "twenty-six",
+      "textSha256": "60b7d1f7ad4248fb74006f50c1149c996936dadb58b81594f49e5332b74edb9b",
+      "audioSha256": "97042bf303e5e188aa999d5fdadccc25ad2c9992f345d712ae3ad7043fbeea21",
+      "url": "../../apps/shared/audio/sunny-v2/60b7d1f7ad4248fb.mp3"
+    },
+    {
+      "text": "We can rest indoors on the sofa. Find the picture.",
+      "textSha256": "60d41db62eb1319b215b25678f2bdcca25481c9be49aa1b72227318bd61d64be",
+      "audioSha256": "a9327b6c9655cc9693d53d29cd9a6ec1c3ba2b562b78f1f9d7d5d1292ef2509f",
+      "url": "../../apps/shared/audio/sunny-v2/60d41db62eb1319b.mp3"
+    },
+    {
+      "text": "nine twenty",
+      "textSha256": "60e73ea9d534b5c440a9974fd3bf5200f826d6e121c1d5762939eba59f220c33",
+      "audioSha256": "8552beaa0bb0e868c4b7d4e7d5607da694f8793fd9cf08ecd577a64a5be9db7e",
+      "url": "../../apps/shared/audio/sunny-v2/60e73ea9d534b5c4.mp3"
+    },
+    {
+      "text": "Three shoes and two shoes. How many shoes altogether?",
+      "textSha256": "60f7696835016e163db754a76143746ab18415666678c7d1bce0e131209f2d2d",
+      "audioSha256": "d2730e95b563cbeebfc8e452d79cac4d2916ceabc7d762028dd954aa5b1098f9",
+      "url": "../../apps/shared/audio/sunny-v2/60f7696835016e16.mp3"
+    },
+    {
+      "text": "Listen. Find the mouth.",
+      "textSha256": "6186867c686201030f4835f0e1acf2af8104ea4842de31acdc6bcb501c5cc457",
+      "audioSha256": "aafe5bbd45197675c178e3726e81217b98a5f248fd76f30346dfd94971d78380",
+      "url": "../../apps/shared/audio/sunny-v2/6186867c68620103.mp3"
+    },
+    {
+      "text": "rose",
+      "textSha256": "618d663af0f1ec88a5a19defa65a2f80d06582a832510b12f475d80870bdb3ab",
+      "audioSha256": "6174254879ce225ef28131671ef97af77f55479e7368171d19b8eca8df730473",
+      "url": "../../apps/shared/audio/sunny-v2/618d663af0f1ec88.mp3"
+    },
+    {
+      "text": "In the morning, the sports store opens at nine o'clock. Find the clock.",
+      "textSha256": "62d7e5ce3a0db808e5a170cc28d288702007b3ef51f893ddac9d7206c9536845",
+      "audioSha256": "e7145227d50587bc44d4a0bfe0c5a15cbef87f95c2cb19423bfe5c7c72869690",
+      "url": "../../apps/shared/audio/sunny-v2/62d7e5ce3a0db808.mp3"
+    },
+    {
+      "text": "Let’s rest on the stool. Find the picture.",
+      "textSha256": "630b2bf6ef6e45a6488fe9b64d0ec8c9900df4ef9b8aa2ef9572080331b6552f",
+      "audioSha256": "f6e98c933bf1584e7eb792189d42fc938232dec64bec186254591cf6ff128fcb",
+      "url": "../../apps/shared/audio/sunny-v2/630b2bf6ef6e45a6.mp3"
+    },
+    {
+      "text": "I need a helmet.",
+      "textSha256": "643ecacc918fce121aa2a82e2f68aa72f3f9890d22dc6304956f48b28e8ce45b",
+      "audioSha256": "d8546d1b94649eeba4fc8b28ce82ed383d0ef21a4944b3f4bc8bb954a3557e7c",
+      "url": "../../apps/shared/audio/sunny-v2/643ecacc918fce12.mp3"
+    },
+    {
+      "text": "Count forty. Take away three. How many are left?",
+      "textSha256": "647ecfcae286379bf1be8c0b48c144a45efad95e231b89017320ae759793c0f6",
+      "audioSha256": "0aaff5880f1edf1ca3762b0d618f8e0181c0d79515d3c2f1720698ea82b52e18",
+      "url": "../../apps/shared/audio/sunny-v2/647ecfcae286379b.mp3"
+    },
+    {
+      "text": "We can make honey chicken. Find the picture.",
+      "textSha256": "65a525f1c6a55112a866b3839b86d77cf0c035253f70bf08cffe6b939ccfc74d",
+      "audioSha256": "1a0cf0f99ba363453d1d8502295c88c18e44e224533684e4fa704285f78efcd7",
+      "url": "../../apps/shared/audio/sunny-v2/65a525f1c6a55112.mp3"
+    },
+    {
+      "text": "cane and tape",
+      "textSha256": "65b708e80642e722d9d27d72a50791ffc5abeb1b507aa090b5cb33f0906629d4",
+      "audioSha256": "5992efb436fbecb386a6ca4686e6993d196a9fbfc3de27a3649159dc8da67d72",
+      "url": "../../apps/shared/audio/sunny-v2/65b708e80642e722.mp3"
+    },
+    {
+      "text": "I play tennis.",
+      "textSha256": "6a58bc891e41e145862327521036e244f71206ccfc91c5b6d0608dbe1049f314",
+      "audioSha256": "3bd1ef0fa148c72e90434ae3ded7c3667760eb0ed915fcdf8ddfb64059b53a86",
+      "url": "../../apps/shared/audio/sunny-v2/6a58bc891e41e145.mp3"
+    },
+    {
+      "text": "I need sneakers. Find the picture.",
+      "textSha256": "6ae00793cde35f2ba9353f495c20e32bcea9324aa18fd6812fd2da596ee08a4e",
+      "audioSha256": "ef5cb310c4fd4195f7c0f49ffc12b6fc728a86d1da3117cd6d22bcf20e3f4c9c",
+      "url": "../../apps/shared/audio/sunny-v2/6ae00793cde35f2b.mp3"
+    },
+    {
+      "text": "In the evening, I play baseball at six o'clock.",
+      "textSha256": "6b71ee4fd5bdca94cb454d25d8ab914666f15e47b46305e6e5f87bd2c80abb30",
+      "audioSha256": "4b857de83f7d7b6dcc68e403442b261048c6bbf67af7707ea841a49313803018",
+      "url": "../../apps/shared/audio/sunny-v2/6b71ee4fd5bdca94.mp3"
+    },
+    {
+      "text": "Listen. Find the cow.",
+      "textSha256": "6c482dfd4e54c1f3b94bab924ad79e52869bc3f287eca254b491fd5247e87188",
+      "audioSha256": "c63b8b479e3d46f0a1bdc8b7094479f96151445a4aa24f223ac35facbd5f2b04",
+      "url": "../../apps/shared/audio/sunny-v2/6c482dfd4e54c1f3.mp3"
+    },
+    {
+      "text": "game",
+      "textSha256": "6ca5cab77e702c787b4c14b3d3bf26bad43da606be6eed04ab0b9720120ae081",
+      "audioSha256": "b14955e0f6f40229375c3dd20c234c6d3f44af98a4ea6bb486396cbec7fc30e0",
+      "url": "../../apps/shared/audio/sunny-v2/6ca5cab77e702c78.mp3"
+    },
+    {
+      "text": "We need sleep.",
+      "textSha256": "6cb5620b6e224c5025fff4f92ea3e57632d6d098230cb6229dec3da4622123da",
+      "audioSha256": "3147596154d2c40d62a1507b50162df960cc7c53300b0a454b619a99417e9eab",
+      "url": "../../apps/shared/audio/sunny-v2/6cb5620b6e224c50.mp3"
+    },
+    {
+      "text": "We need a break.",
+      "textSha256": "6ce6855476efe2dbf33fd67bc3f73cb3d969468971dd11c4fe15b6e46fc8a1e8",
+      "audioSha256": "0cddfa9314bd254d9851c3afca4f71078bb5842939e44f79126e58ac383aa4ac",
+      "url": "../../apps/shared/audio/sunny-v2/6ce6855476efe2db.mp3"
+    },
+    {
+      "text": "She starts painting at three thirty and paints for one hour and fifteen minutes. What time is it then?",
+      "textSha256": "6d2db074e3a3fa597d112dcd0ad054d437df26cc27f2b7970209d25869a42f65",
+      "audioSha256": "5de7c5fde87e898aeb3a11188987113a2a4ca49c232c67c106bc28d67278d60f",
+      "url": "../../apps/shared/audio/sunny-v2/6d2db074e3a3fa59.mp3"
+    },
+    {
+      "text": "I play tennis. Find the picture.",
+      "textSha256": "6d9802458652b6435b287354cc6bb4b3961eed6613f569cd1be4a2ed1268a5b9",
+      "audioSha256": "8b83138faa9ee8ecadc93d6dd17881f9e5e8532489eec0b58e4abdc4d66f1e24",
+      "url": "../../apps/shared/audio/sunny-v2/6d9802458652b643.mp3"
+    },
+    {
+      "text": "Listen. Find the boat.",
+      "textSha256": "6d9f12f1cdd073c55e0659dff936e09468f82e56038239ffd9e28d11de252948",
+      "audioSha256": "b615c64373426ae309265ebc60ec77692f03b74cb3662d843763bfc41cdcd081",
+      "url": "../../apps/shared/audio/sunny-v2/6d9f12f1cdd073c5.mp3"
+    },
+    {
+      "text": "She wears a hat. Find the picture.",
+      "textSha256": "6db9468efd1829c5ce3c61013a99d009b56ac2df8fca5d208aa59950c5e3b8df",
+      "audioSha256": "568c7c2e5a74f0bcde466c73d28fc852b270489ef4e373a0b67c4cca0757b6bf",
+      "url": "../../apps/shared/audio/sunny-v2/6db9468efd1829c5.mp3"
+    },
+    {
+      "text": "Skating",
+      "textSha256": "6e0c6115fa25d0927900cda65f6453601f9dcdbb9b92705c25d022244691ba40",
+      "audioSha256": "44e91446c363d5f281ae0bcb7de9c6d1e8dab79333729779878f63f8a97d5798",
+      "url": "../../apps/shared/audio/sunny-v2/6e0c6115fa25d092.mp3"
+    },
+    {
+      "text": "Count forty. Take away seven. Thirty-three is left.",
+      "textSha256": "6ebe5669d15556397fa7fe3c0c3fef441cedfbb77443597b2b78c648d83c8139",
+      "audioSha256": "7a0cc0bd29c0ef72dd6afaa4fe199f1a1789ca2fcf3d4ac8d375ad98cefe9895",
+      "url": "../../apps/shared/audio/sunny-v2/6ebe5669d1555639.mp3"
+    },
+    {
+      "text": "twelve twenty",
+      "textSha256": "6ec4cf5d1699d20c6cc3bf3ed7b5de9ef589dd5c4ffe2b62789fb3a0796e033a",
+      "audioSha256": "c9a0c0a1652cd5a21bb59aa663ff4981adeb45881ef057bb02f1e274c49d197d",
+      "url": "../../apps/shared/audio/sunny-v2/6ec4cf5d1699d20c.mp3"
+    },
+    {
+      "text": "It is skating.",
+      "textSha256": "6ed3a3ab65c885a449892c885916f12d123243ad86ba0d29c515dd3bcb3d08c8",
+      "audioSha256": "792ea3672fdd169168f9e876682f863fda83012bc49063f204b8101f86e929fe",
+      "url": "../../apps/shared/audio/sunny-v2/6ed3a3ab65c885a4.mp3"
+    },
+    {
+      "text": "Listen: cake and gate. Choose the two pictures.",
+      "textSha256": "6f8d9e8481d05ad3abadffd57e73a178e090a64172e163eb911db0e83b4803a7",
+      "audioSha256": "ba77be4e069cedf498c28eb45e3a27c09b114ec0a94e2d8299b318bcf9d33874",
+      "url": "../../apps/shared/audio/sunny-v2/6f8d9e8481d05ad3.mp3"
+    },
+    {
+      "text": "It is cycling. Find the picture.",
+      "textSha256": "7018486ce8f233e090d5f5bf06177841b149de74cf10378c51ff14053a656953",
+      "audioSha256": "a920c110d95c443cc036d82bb06c706eb478628fc1c6f905ecd27a914fca4487",
+      "url": "../../apps/shared/audio/sunny-v2/7018486ce8f233e0.mp3"
+    },
+    {
+      "text": "Which hand tells the seconds?",
+      "textSha256": "70b4ac1abfcb7bd1b4b83c11a2e70757abed2591c1271cc9907f07a30ae5dfac",
+      "audioSha256": "17e5e626f093336b2f483918112e6507993da29a44fb2a9bdfcd144f1e031311",
+      "url": "../../apps/shared/audio/sunny-v2/70b4ac1abfcb7bd1.mp3"
+    },
+    {
+      "text": "Let’s rest on the blanket.",
+      "textSha256": "70e6dc4a4200213483b7c49fa122b793df30fe9d2337044f45270eff02fe6af1",
+      "audioSha256": "b3967184b7f8c05f6b5ec3d38db0c0177a85cae2bdd72525bf65717d94bc5166",
+      "url": "../../apps/shared/audio/sunny-v2/70e6dc4a42002134.mp3"
+    },
+    {
+      "text": "Count thirty. Take away five. How many are left?",
+      "textSha256": "715868018f0f568c91d8c401daf6227f8e55cd805c181d917a538cd09892e51f",
+      "audioSha256": "a615db1cc56e3c5816f35da1656afd79c087dd6f32c1d4ee2c796bdd47b1815d",
+      "url": "../../apps/shared/audio/sunny-v2/715868018f0f568c.mp3"
+    },
+    {
+      "text": "Count ten. Take away three. How many are left?",
+      "textSha256": "71d4f7fe0e26e25acd1a02f21e28c3506f03cc4239e68d6f260e25e2c6449a05",
+      "audioSha256": "9cbb60799c1ccac715c74b0615a8d70a0e4cb06a0ed20b72817cfd4a001e82c6",
+      "url": "../../apps/shared/audio/sunny-v2/71d4f7fe0e26e25a.mp3"
+    },
+    {
+      "text": "Let’s rest in the tent. Find the picture.",
+      "textSha256": "723f9044cad754532f36b7649773c2a4e76b6ad15f9033920f6d323c62d59340",
+      "audioSha256": "63c0ddf0d32967865d485e2e615a36fd7bda385f90bb3f975c7c1bca47581870",
+      "url": "../../apps/shared/audio/sunny-v2/723f9044cad75453.mp3"
+    },
+    {
+      "text": "She practices swimming in the daytime. Find the picture.",
+      "textSha256": "72545106a0f225474e021a76f94b5b81d44cc16a4b819c87803b93356af614b5",
+      "audioSha256": "b98534463ccdc31f11c88b189ec5974c69e5c0e250e4d2b3a09d10ba57510e79",
+      "url": "../../apps/shared/audio/sunny-v2/72545106a0f22547.mp3"
+    },
+    {
+      "text": "soap",
+      "textSha256": "736bc2d4e0945110e88f7808a4a4d38d3479a0122de1de7ac84c920121928480",
+      "audioSha256": "d28f6873cedc52b92e9a8eaab61957a0c3af11a9135f0c5965697cbc5e69eda4",
+      "url": "../../apps/shared/audio/sunny-v2/736bc2d4e0945110.mp3"
+    },
+    {
+      "text": "A helmet",
+      "textSha256": "7405251bfeec1dbc9fd3f97f9ecb734d4b06282a789b3e8c8356f2c3ba922d70",
+      "audioSha256": "91c67849574b94d2e9b0cd5d302db1d577bda623c84ffbb74b97ad1599c445b1",
+      "url": "../../apps/shared/audio/sunny-v2/7405251bfeec1dbc.mp3"
+    },
+    {
+      "text": "This is a face.",
+      "textSha256": "743abce45ed885a2d19a93dcc430c8b08df1f28d11f6cee5d52b19ebb5e49aad",
+      "audioSha256": "38244cc7828097f8e0837331aa2f07a4393f531c90ae827ea1395b5f1903299f",
+      "url": "../../apps/shared/audio/sunny-v2/743abce45ed885a2.mp3"
+    },
+    {
+      "text": "This is a cane.",
+      "textSha256": "7555473061fb0db2f0231c38d8a6eacaac4ffbee02ae70384e2a2397ae19531c",
+      "audioSha256": "92c8ac61e3f7469bd83234874c4b032b8e558fee42fdd4128ea4f2e378ea0dfd",
+      "url": "../../apps/shared/audio/sunny-v2/7555473061fb0db2.mp3"
+    },
+    {
+      "text": "I need sneakers.",
+      "textSha256": "759aeed88c3c8f11eb664e436e0645e865eccdfb9bdea34eb112743c05c5e1e6",
+      "audioSha256": "0a9599e8c38caf3ae94af24c2fcdf16c18e1a79bf4c0bfb1223e18c7cbe5d2bf",
+      "url": "../../apps/shared/audio/sunny-v2/759aeed88c3c8f11.mp3"
+    },
+    {
+      "text": "It is a baby crying.",
+      "textSha256": "7663a900fe4e559c181e9c392082b82fa78c57a2c3c6d544292171b8448bfc2c",
+      "audioSha256": "5e8e974d94c66b1465adc78fb6766b7096a007f1315ba6fcfe7eebf454725ec1",
+      "url": "../../apps/shared/audio/sunny-v2/7663a900fe4e559c.mp3"
+    },
+    {
+      "text": "Count twenty. Take away four. How many are left?",
+      "textSha256": "77e7a08ec5cff8241982a72389244eee41a0c3cc2e9a5d7dbbe21bc81631375c",
+      "audioSha256": "b3b5b4e8ccf6ce3c77478f59592c2974009dbbda676858500d3e713d07801601",
+      "url": "../../apps/shared/audio/sunny-v2/77e7a08ec5cff824.mp3"
+    },
+    {
+      "text": "Let’s enjoy our hobbies. Find the picture.",
+      "textSha256": "786c352783894aa8aa208810694ca3fe1674e1539b9c8ecf3c3936f52ca9725b",
+      "audioSha256": "a12133873071519d177ccbe2029316e291db3ad0bfbf9863ee17d47a964f4e3a",
+      "url": "../../apps/shared/audio/sunny-v2/786c352783894aa8.mp3"
+    },
+    {
+      "text": "A badger goes into a den. Find the picture.",
+      "textSha256": "78b0d117468914c668b9070887febe302392a3bd28e74134b8028daf0f3ddc05",
+      "audioSha256": "c8acb0bf4fe62462a4d005beab8c91c55f6e28561c5fa93c75853dfe7a281101",
+      "url": "../../apps/shared/audio/sunny-v2/78b0d117468914c6.mp3"
+    },
+    {
+      "text": "Listen. Find the window.",
+      "textSha256": "79f93cbd55e622953ceb362d43b8f5502eb7bcb1ff682c703be44d3d46ebe2f0",
+      "audioSha256": "b26d826ca0bcafc152affe60c0f61d18328a33e3650b811f7cce75ea0becef61",
+      "url": "../../apps/shared/audio/sunny-v2/79f93cbd55e62295.mp3"
+    },
+    {
+      "text": "one forty",
+      "textSha256": "7bd757748127686886b76ba99dca0db1b0ac1e96a3a7247a7d2b26740f7576e3",
+      "audioSha256": "4f7229ba2c16d01a8880490023d0448a6db26bf9ec0688ffb8a34cf0b0d60168",
+      "url": "../../apps/shared/audio/sunny-v2/7bd7577481276868.mp3"
+    },
+    {
+      "text": "Penny points to her skin",
+      "textSha256": "7c4518f3beefc7e05ba892472155850f56caa7535902d58d51ef5f44c3fcc755",
+      "audioSha256": "f677ad4c148ebfd306d801826ff94ef86c8cf7aa1531a88db679645b2ec1c889",
+      "url": "../../apps/shared/audio/sunny-v2/7c4518f3beefc7e0.mp3"
+    },
+    {
+      "text": "In our season order, what comes first?",
+      "textSha256": "7d5369e927a24386bb550008c760dbdf0e5f57f2ef0ce041c7c5eed8c0f389d7",
+      "audioSha256": "e4dc8b2148b60f79bd1921e5df375a6d439e290869753501e2662a5d2bfa41b0",
+      "url": "../../apps/shared/audio/sunny-v2/7d5369e927a24386.mp3"
+    },
+    {
+      "text": "Tuesday",
+      "textSha256": "7d8af1de1262f150187d5938bf649d6c35726970685f916d1ec6392a801b9762",
+      "audioSha256": "4536232906fc13ec9201dc199128b185d4153033cffcfd4a856bb6abd40bf8ef",
+      "url": "../../apps/shared/audio/sunny-v2/7d8af1de1262f150.mp3"
+    },
+    {
+      "text": "We need sleep. Find the picture.",
+      "textSha256": "7e1bb77cab0902b16fae68e9563b55cae017075082dda312b636f64b6d1254e1",
+      "audioSha256": "29cdf2181fa5abaee4e11c32c784ea648d14bc21dc1895b37294d460f4f61949",
+      "url": "../../apps/shared/audio/sunny-v2/7e1bb77cab0902b1.mp3"
+    },
+    {
+      "text": "Gerry builds a modern beehive",
+      "textSha256": "7e49a10f7f14e60d20422b826b455e893c488581c64826d123becbb5494ff829",
+      "audioSha256": "2336e15c2184e23bf81a17db13fa6fe8795d54605878724a340c4f4e59330a3c",
+      "url": "../../apps/shared/audio/sunny-v2/7e49a10f7f14e60d.mp3"
+    },
+    {
+      "text": "Bees in summer",
+      "textSha256": "7f3c2df32fb42eae2ed4dc91e403a1cbbd0f0d240262f7466aab00bb96922f21",
+      "audioSha256": "7f38c68d9aa67d3e7a9645c324785c29223ef0f4fdcde86a9fbb4c7e492d9e39",
+      "url": "../../apps/shared/audio/sunny-v2/7f3c2df32fb42eae.mp3"
+    },
+    {
+      "text": "He made the modern beehive.",
+      "textSha256": "7f4915fbf26e717a58eb8d3093739ffca1772827b555f64faea446f13ac6dc28",
+      "audioSha256": "8a1ccf0e80cb05dbcd1270d5856d8956259bf5e25e4a744d9c054e034acd47ca",
+      "url": "../../apps/shared/audio/sunny-v2/7f4915fbf26e717a.mp3"
+    },
+    {
+      "text": "There are bees near the grass.",
+      "textSha256": "7ff80190af1c5f320b1776115ca80c72202467ee210406bef743c0400f22c350",
+      "audioSha256": "f0dca67c758a5c94bbe3b1edae3ea903a6833aa287e82676d2156542d3d546b0",
+      "url": "../../apps/shared/audio/sunny-v2/7ff80190af1c5f32.mp3"
+    },
+    {
+      "text": "one fifty",
+      "textSha256": "8043b9fc6e074cd593755443ed21a0ead57d36a5cc17aae7cb8d54f3c5fa8059",
+      "audioSha256": "a158f4c324137db6bc701bdbcee39bd8dd5d55ef4e10d5fd38f7091defe16c38",
+      "url": "../../apps/shared/audio/sunny-v2/8043b9fc6e074cd5.mp3"
+    },
+    {
+      "text": "Let’s rest on the bed. Find the picture.",
+      "textSha256": "810a7a831324347cbea7226c01ba7ca931a96177c0e88bb4871635f906ed9865",
+      "audioSha256": "14b18fbd9f3e7ef65346ac532f5ec038f379bc980034962f3dd5de14967e01ab",
+      "url": "../../apps/shared/audio/sunny-v2/810a7a831324347c.mp3"
+    },
+    {
+      "text": "Count thirty. Take away eight. How many are left?",
+      "textSha256": "817eac08ec9a560a9ba48f639acde57f43ee0bd6ad1629e8b4731e58ca6c67fa",
+      "audioSha256": "d595d9b08c7bc200f31f813a16858c87952ebde222cd031816ac2af5e23c246c",
+      "url": "../../apps/shared/audio/sunny-v2/817eac08ec9a560a.mp3"
+    },
+    {
+      "text": "house and mouth have the same vowel sound.",
+      "textSha256": "832d0c6b05157b865461cecf3d4f9706ec9ca3552d3551e32c857c02969866c5",
+      "audioSha256": "943f0755315aa1394e02eac209ab6192c1a0887313ef24ddd3449751add2daa4",
+      "url": "../../apps/shared/audio/sunny-v2/832d0c6b05157b86.mp3"
+    },
+    {
+      "text": "Let’s rest on the blanket. Find the picture.",
+      "textSha256": "842531f4df4bfd28f524030144f3aff7f4a9a8e48b78a99945e8cebfd6da32d7",
+      "audioSha256": "22f945a03c8808bffa09fe34ca8c8cf5c5b9a2e4292ab608370ce1e8c50897cf",
+      "url": "../../apps/shared/audio/sunny-v2/842531f4df4bfd28.mp3"
+    },
+    {
+      "text": "This is a queen.",
+      "textSha256": "8495ee74ed7c500af9dd605de07da21c95a9d758159d7aa9ec4ac495d2377cff",
+      "audioSha256": "05a5e37e14fd5f7b15cb5dd227f03b2a18c4bb7205306d2f8ca9e2fbf0be3ef4",
+      "url": "../../apps/shared/audio/sunny-v2/8495ee74ed7c500a.mp3"
+    },
+    {
+      "text": "Making honey chicken",
+      "textSha256": "84b4b92142297420316bd579c0db83a35e041967b64e313fe80893df93060704",
+      "audioSha256": "fa4296cab101bc167a21720d5a8804f6095fdbe262c4223845908818fa6c0ddd",
+      "url": "../../apps/shared/audio/sunny-v2/84b4b92142297420.mp3"
+    },
+    {
+      "text": "I wear a jacket.",
+      "textSha256": "84cc9d75fa6f26c25ac6a2e09139ef247a297fd7d5ca7d774d2e5a445c7fc08c",
+      "audioSha256": "569edb46f0a0eb249e731082353cdd13d6ba639f1dd4125ca0a77af22a04def8",
+      "url": "../../apps/shared/audio/sunny-v2/84cc9d75fa6f26c2.mp3"
+    },
+    {
+      "text": "Making honey cake",
+      "textSha256": "85fac296312dbc6d1844f429903cd9567b2d2d41b8b9a115b0ea0bbfd0ad2367",
+      "audioSha256": "48029f1c8cc09b4a049f76a6bf4b8f1f5ac1df4c00655f4be1fa458ecc6cde47",
+      "url": "../../apps/shared/audio/sunny-v2/85fac296312dbc6d.mp3"
+    },
+    {
+      "text": "Five rackets can split into one and four.",
+      "textSha256": "8690a1451dadb621658d66fc54f2d38a295aaba97f437fa3bbbc2794ef6a429a",
+      "audioSha256": "dce9358e97cfab194658cfc27d14877bf8db596538568b92f0fe641b71adf33b",
+      "url": "../../apps/shared/audio/sunny-v2/8690a1451dadb621.mp3"
+    },
+    {
+      "text": "In the evening, I play baseball at six o'clock. Find the clock.",
+      "textSha256": "870ce76d44d4d6352b4a13db84bfcdaf54c542cb9f578698f597c92db7f97288",
+      "audioSha256": "42261194a1331a7c9e5b81fa9cf530233eb5d7ef791f8b3ce4ead28df1c88185",
+      "url": "../../apps/shared/audio/sunny-v2/870ce76d44d4d635.mp3"
+    },
+    {
+      "text": "Listen: boat. Which word has the same vowel sound?",
+      "textSha256": "8741fc01a27ce3a96547355c20b7921f14890e143cce2530da9d8e857157f29e",
+      "audioSha256": "77c4602376ffec948e3cd04db571964da56bf51ede385dbf6ee9e3aa5bfba6fc",
+      "url": "../../apps/shared/audio/sunny-v2/8741fc01a27ce3a9.mp3"
+    },
+    {
+      "text": "Two in each group. Four groups. Two times four. How many altogether?",
+      "textSha256": "87b5c6d2c938fc12cb65ac18a32ba3a497bfb32b8f632bd92e6db1ad20ad2fbb",
+      "audioSha256": "e0fb4986a0af8a5f23f2f274459fb4934e0cab49d12f80363fc9c6db849bb4ab",
+      "url": "../../apps/shared/audio/sunny-v2/87b5c6d2c938fc12.mp3"
+    },
+    {
+      "text": "The thin hand tells the seconds.",
+      "textSha256": "889ba7f1028e929215a6989ce57ab0c72b0dd16d9486f7c89b329cc618ba8cd9",
+      "audioSha256": "736587200be2b5878ea8bd782e79fcc1dd636ef5ed55c79710732ef5fa792c38",
+      "url": "../../apps/shared/audio/sunny-v2/889ba7f1028e9292.mp3"
+    },
+    {
+      "text": "One and three rackets.",
+      "textSha256": "889e933ef6298196b1af76af735a82c6f89d894710b3782c84dcd3e96c4ffd4e",
+      "audioSha256": "2dd3b04e2647954d1dc09711f2ae47b9422f3ace5cc9573ba3a7762d12ea1637",
+      "url": "../../apps/shared/audio/sunny-v2/889e933ef6298196.mp3"
+    },
+    {
+      "text": "Let’s enjoy dancing.",
+      "textSha256": "89462bcceb49464f8d4b55e9ffd2115f0667a9a1053364e61dad7963e18545e8",
+      "audioSha256": "5e1d9c8d81b8db56e9f108b2443cb794a9efe1d4782ff68d83719ac2608c29f9",
+      "url": "../../apps/shared/audio/sunny-v2/89462bcceb49464f.mp3"
+    },
+    {
+      "text": "cage and gate",
+      "textSha256": "89862900dbef8bb30e8fe26b49f0d825e744057f6f751fce99d4500f7ff1085f",
+      "audioSha256": "47f14792be7ccfd31b9306c7facd1df1e1f005ff53422fed730ac625681e82ca",
+      "url": "../../apps/shared/audio/sunny-v2/89862900dbef8bb3.mp3"
+    },
+    {
+      "text": "Two and three pairs of goggles.",
+      "textSha256": "8a56ae9f45cde994a74316c1c0c7eb3babd87d103e43427e6fde636c4e983882",
+      "audioSha256": "b4a01f1ce44437ccf13079d22feffc2e9248b5f747b672ba4d55b44f10b5ab65",
+      "url": "../../apps/shared/audio/sunny-v2/8a56ae9f45cde994.mp3"
+    },
+    {
+      "text": "tape",
+      "textSha256": "8ba4ec7d634f794ec260675876415c279bcd46e3705d5ffda147a65db9e15a12",
+      "audioSha256": "b013f90e637e6374edabc0f155578bd1f4da36ba6bee4b52d03edadbac476d39",
+      "url": "../../apps/shared/audio/sunny-v2/8ba4ec7d634f794e.mp3"
+    },
+    {
+      "text": "I practice twisting.",
+      "textSha256": "8bfd518910199b6111cacc036f0419ef6b930cd10031fb05b30f4543c3f8f601",
+      "audioSha256": "99ef1f7a8fa85431b3bfc49fc4d5fb5f004790e20144f694b45cc07aa044e334",
+      "url": "../../apps/shared/audio/sunny-v2/8bfd518910199b61.mp3"
+    },
+    {
+      "text": "Mr. Mouse starts eating cheese at four twenty. He eats for forty-five minutes. What time is it then?",
+      "textSha256": "8c689cdcc82bf2283f000765ad85dea9ceac67e493247b447d6964b2275a320e",
+      "audioSha256": "52a79fdadc344450e30e40df4f73a08bb08d49345c633554e043ac0f33da926a",
+      "url": "../../apps/shared/audio/sunny-v2/8c689cdcc82bf228.mp3"
+    },
+    {
+      "text": "At seven o'clock, I practice running. Choose day or night.",
+      "textSha256": "8c6f4214c5c921ecc883d66e02e33c23e22f7799822f9e163e5b492c83677ae1",
+      "audioSha256": "0954ab4b387dcd4ea1bd46f1871d538d17caaea4e886555316954187eacfcc1c",
+      "url": "../../apps/shared/audio/sunny-v2/8c6f4214c5c921ec.mp3"
+    },
+    {
+      "text": "Eight o'clock.",
+      "textSha256": "8daa90c47b3338fddc8d6c42613f1e76ae5ae7cd27aef109770b5bc280332a51",
+      "audioSha256": "ac70515fc0ffc02d475a4ec294df1a772a7c2a4db83e527d2f9d14f57bea1afd",
+      "url": "../../apps/shared/audio/sunny-v2/8daa90c47b3338fd.mp3"
+    },
+    {
+      "text": "Jumping",
+      "textSha256": "8f0127c9545e76304e2bff54842155a79a609457f8c02542d8472c204104caec",
+      "audioSha256": "202bac833b4af8df23cba22f815c6435571c8ccf5aed7e1e0b017fd49b37a1be",
+      "url": "../../apps/shared/audio/sunny-v2/8f0127c9545e7630.mp3"
+    },
+    {
+      "text": "Day",
+      "textSha256": "8f2364e11b8be3ff008f32b3dedb54e659362429bcc9e3eb6acb6070de4ffbff",
+      "audioSha256": "847d4e5da8a54e0adf887736e3b65a5b43b6335a2c6770ff0c9777a2d72b4672",
+      "url": "../../apps/shared/audio/sunny-v2/8f2364e11b8be3ff.mp3"
+    },
+    {
+      "text": "Five pairs of goggles can split into two and three.",
+      "textSha256": "8f548c3b7bcc56c30cdb780ba98fbb1b4358e39be9b47b4fe8b8ff48a4e9fbdf",
+      "audioSha256": "2da2ba17bcea9a7eb3d07d465987e9696ed4414838f0b3c2ce70faa90309171a",
+      "url": "../../apps/shared/audio/sunny-v2/8f548c3b7bcc56c3.mp3"
+    },
+    {
+      "text": "In the morning, the sports store opens at nine o'clock.",
+      "textSha256": "90c60ec60f04aae3d1e4e3817f59c8e1c93b81c0eec8b7c8eb880d8fa58ff574",
+      "audioSha256": "2948dce2cdb075bfca2d0cdf27b63830e60cddcfebcc04aaf41bc79db07dba96",
+      "url": "../../apps/shared/audio/sunny-v2/90c60ec60f04aae3.mp3"
+    },
+    {
+      "text": "The long hand tells the minutes.",
+      "textSha256": "90c6a2976f9c366ff1e79b42ed7b93c127d12e561049bb2c83889ea3039c899e",
+      "audioSha256": "9406cc7bdfd25aef2a3a1b03855068ca7aaca116c0c8cf6f638491aea42cdb85",
+      "url": "../../apps/shared/audio/sunny-v2/90c6a2976f9c366f.mp3"
+    },
+    {
+      "text": "Three times three is nine.",
+      "textSha256": "90fd327ed2499fd24f0d9ec6e00e20b35f48c86559dff6a17c85331768b73de8",
+      "audioSha256": "5d3521456df224e3c90fc6b2e8999023aba2434849d7f6e2079f54f5d60a10c8",
+      "url": "../../apps/shared/audio/sunny-v2/90fd327ed2499fd2.mp3"
+    },
+    {
+      "text": "Three in each group. Three groups. Three times three. How many altogether?",
+      "textSha256": "92697e1292b9159f4a9ac866cddf235d942e5158ce8659a881bc4a0e14bf1720",
+      "audioSha256": "2450eb36d60b7bed57a4ca621ea2f068ee108ee5bdd9ca6db3813c7b5b6edbee",
+      "url": "../../apps/shared/audio/sunny-v2/92697e1292b9159f.mp3"
+    },
+    {
+      "text": "Soccer players kick. Find the picture.",
+      "textSha256": "93e1f8f5c75a1d0c481dc71822ce218ad64eba291f3e7af9b78266781feab75a",
+      "audioSha256": "77dbaae99e91b040364aa270c0b80adb89c9384e39092df4cbb15a8f6f708e73",
+      "url": "../../apps/shared/audio/sunny-v2/93e1f8f5c75a1d0c.mp3"
+    },
+    {
+      "text": "There are bees near the trees. Find the picture.",
+      "textSha256": "947199d2879d934e3b5365a167bce56c4261bd78e8706f5e588acf2ef7edad32",
+      "audioSha256": "d2eca4c9457f78373c140a3600e2cfee5f1d942cd31ab0f6a4ae3e09bedf694c",
+      "url": "../../apps/shared/audio/sunny-v2/947199d2879d934e.mp3"
+    },
+    {
+      "text": "Bees help fruits grow. Find the picture.",
+      "textSha256": "94c5bb60577bd25376aa60d56c7118103a79b96b69b9e3af6ecb5d4f96a012fb",
+      "audioSha256": "ba7b84b330f292dcf8c90ebcb6779cece35429c6dab4465fcfd63ca2db27aeb0",
+      "url": "../../apps/shared/audio/sunny-v2/94c5bb60577bd253.mp3"
+    },
+    {
+      "text": "A bear goes into a den.",
+      "textSha256": "95927eb7a8928e493334586778b70f91b023a751fce9b854afe9ca844366d283",
+      "audioSha256": "ac2a4264980e39541ba3f74969d880e7dc97ab029f95fa852c6c6b6c8116a462",
+      "url": "../../apps/shared/audio/sunny-v2/95927eb7a8928e49.mp3"
+    },
+    {
+      "text": "Let's make honey toast. Find the picture.",
+      "textSha256": "960704f317e5dc13e5b903cf31a6036751bc072140225f286060cbc41c477660",
+      "audioSha256": "1024e78634ce7700758f38fbee2283048ee02af0b6fce8cffd5cf350447b059f",
+      "url": "../../apps/shared/audio/sunny-v2/960704f317e5dc13.mp3"
+    },
+    {
+      "text": "It is the wind blowing.",
+      "textSha256": "96a3d1619df6fd3b1d4812f2661117ad4afab225e8160029687599aab36a81a8",
+      "audioSha256": "932a1001d0532e920ac179a754a3d0777189cf0ba12d91cb6fff373eedecd109",
+      "url": "../../apps/shared/audio/sunny-v2/96a3d1619df6fd3b.mp3"
+    },
+    {
+      "text": "This is soup.",
+      "textSha256": "96f1d0d710904f467450d113d0da53de60f2744c1083cf03534efa59e56e7fbd",
+      "audioSha256": "58170e62ffc2248476fc070de9fe71d3eac2837663850706df7e77d65fb48679",
+      "url": "../../apps/shared/audio/sunny-v2/96f1d0d710904f46.mp3"
+    },
+    {
+      "text": "Five times four is twenty.",
+      "textSha256": "972957f98f93178be4705aed352aff8f796ccdc87f1e61833aef31ccc5d8618d",
+      "audioSha256": "b0d831d679ca89d98e0bec5bcf3841af2bd16c38073081e5c20789fc72533a35",
+      "url": "../../apps/shared/audio/sunny-v2/972957f98f93178b.mp3"
+    },
+    {
+      "text": "A bench",
+      "textSha256": "981b8bcc939aa62c007f79ece92391e829ab95631ff735851cdb5a16b953f747",
+      "audioSha256": "efd0d96b5b31bf0d3ea80820fd7c3d879a0a8b7810af43b751012ebbd4ba44ae",
+      "url": "../../apps/shared/audio/sunny-v2/981b8bcc939aa62c.mp3"
+    },
+    {
+      "text": "I use a bench.",
+      "textSha256": "982183e866d10a50ead300e5758065523431a1cc5816c35cb3c173ef0c3e1c4a",
+      "audioSha256": "20354d71bdff0017417dc34e23f306253cf448e420b90411f5f8bb33e7553ac1",
+      "url": "../../apps/shared/audio/sunny-v2/982183e866d10a50.mp3"
+    },
+    {
+      "text": "Let’s enjoy our hobbies, Mrs. Butterfly. Find the picture.",
+      "textSha256": "982fc64a96f1fdbdec8735a7cc986b629f5341e5f1d89481a7f3794c71ceb0b0",
+      "audioSha256": "80976f79ab89249503fd2ad467512452dc2b6973b4068dcaf8d73df9a63ace58",
+      "url": "../../apps/shared/audio/sunny-v2/982fc64a96f1fdbd.mp3"
+    },
+    {
+      "text": "It is good for our throat.",
+      "textSha256": "989dc7d705dcdc6bec8d63ddccef695981a381ecdb48e3be784feb8ef8a08cb3",
+      "audioSha256": "b4040c6fb641ea81c6af7d9d8ad6d8105c2540dbc424401448f0ddccdf98423b",
+      "url": "../../apps/shared/audio/sunny-v2/989dc7d705dcdc6b.mp3"
+    },
+    {
+      "text": "five twenty five",
+      "textSha256": "98b2bbf378fcc8cf0a53e1955501ce4f4111d16d1b5a03e186fbd565043a575e",
+      "audioSha256": "ce8b35ae88cb1bd8227de488677a9019b9bed24ddf1725fa19c93f51e4745588",
+      "url": "../../apps/shared/audio/sunny-v2/98b2bbf378fcc8cf.mp3"
+    },
+    {
+      "text": "Penny and Mr. Worm both enjoy digging soil. Which picture shows the same hobby?",
+      "textSha256": "99d1d033de8c1c07d807a43b1198e957783a3e672781f11e6fb04fad4fe853ae",
+      "audioSha256": "41fffc7ed682b2d9e01eaf7a6c11f1560a4e66f20741a4cf3d81f2fc3657b8e9",
+      "url": "../../apps/shared/audio/sunny-v2/99d1d033de8c1c07.mp3"
+    },
+    {
+      "text": "I like basketball. Find the picture.",
+      "textSha256": "9a0239ea205e2fc06892140143b8f68f5d73322772fbbfda9e07c98a623d9fd6",
+      "audioSha256": "9da086d671f778a1995d1adb166175d4f268c34a46337728124c53f0ec09a6cf",
+      "url": "../../apps/shared/audio/sunny-v2/9a0239ea205e2fc0.mp3"
+    },
+    {
+      "text": "This is a quail.",
+      "textSha256": "9a11c55acc2197b52b0257bdcbcdb0adf06d165247dc8fa742b9c18accdda993",
+      "audioSha256": "30d8240f0e4c35bbdce00f194e16979c7506a4a7ee9cab09ffd8d96c13963d4b",
+      "url": "../../apps/shared/audio/sunny-v2/9a11c55acc2197b5.mp3"
+    },
+    {
+      "text": "boat and soap have the same vowel sound.",
+      "textSha256": "9a4c74a4e4f571dc74027c5a82aa92d4ef680095f45c089c9d61f39fbbdccd4d",
+      "audioSha256": "a2e94892c22fd8ae17709e89217a49dbf569f09bf43103bfa34414097ce8359e",
+      "url": "../../apps/shared/audio/sunny-v2/9a4c74a4e4f571dc.mp3"
+    },
+    {
+      "text": "Find the tape.",
+      "textSha256": "9a632b743751515888dfee771d6b88039af86d74d639d0c4fee6522fef322883",
+      "audioSha256": "bae1ed380fe173f192a0499a8b85d840ca77b1d627af088c59bf5317d3568cbf",
+      "url": "../../apps/shared/audio/sunny-v2/9a632b7437515158.mp3"
+    },
+    {
+      "text": "Five in each group. Four groups. Five times four. How many altogether?",
+      "textSha256": "9a7de6901d56f1dcc8c8c204c88efe842c9e655a4e000ac0db86ca106922e060",
+      "audioSha256": "0cf965742ca1f2ac42822981234476b2e0fa642d91f9b232910d84a2e6620170",
+      "url": "../../apps/shared/audio/sunny-v2/9a7de6901d56f1dc.mp3"
+    },
+    {
+      "text": "Find the rain cloud.",
+      "textSha256": "9b02d056e4036d8439d23241db6b69a6df9ee8e3653f6d05414f961b3793b54a",
+      "audioSha256": "aa3e836ff99dea6a3428fa6720fcb4a1f96f4796809f600fca4e8bca95207d7d",
+      "url": "../../apps/shared/audio/sunny-v2/9b02d056e4036d84.mp3"
+    },
+    {
+      "text": "Soccer players kick.",
+      "textSha256": "9b9879ba4d908f196dc96af4bb1d1700b1c9edb2e60f78fe288e43dcfdc21304",
+      "audioSha256": "25c0db98964767738af8a2ba1e5ac5ee426413f74615323f21f6855c4e708afb",
+      "url": "../../apps/shared/audio/sunny-v2/9b9879ba4d908f19.mp3"
+    },
+    {
+      "text": "We see bees in spring.",
+      "textSha256": "9cac4cce11970a2468e93d14e5c2ee65fed81033b3e269abbd76244410ffbf7f",
+      "audioSha256": "d90737c53fb476b5f5d248e43faa24a5b674c81ab4be45f089c81cb900eb3734",
+      "url": "../../apps/shared/audio/sunny-v2/9cac4cce11970a24.mp3"
+    },
+    {
+      "text": "I practice stretching.",
+      "textSha256": "9cc17edab1e9a58e0da0f87ecdb2474304f9c43bb4c77859cb1d1c629c6bac57",
+      "audioSha256": "4e02cebf7af71fe683604497c51b58d436ba643c532f0b03aa73592cf8641207",
+      "url": "../../apps/shared/audio/sunny-v2/9cc17edab1e9a58e.mp3"
+    },
+    {
+      "text": "quiz",
+      "textSha256": "9d98ce221dd52eccf27cad6a01bcd49b14d3d718a9eeeb3be94f0e231a5787ae",
+      "audioSha256": "30fcba4fcbe00a48f954de9980771e514b113ef0dd757392fd4c2a8e69e9bd73",
+      "url": "../../apps/shared/audio/sunny-v2/9d98ce221dd52ecc.mp3"
+    },
+    {
+      "text": "This is a boat.",
+      "textSha256": "9dd0ff3ad5733b889997baf31943f6e92d3e3489dbe3c93291faa217c00be5f4",
+      "audioSha256": "2ff2cc8ca300f0d31ce437234391a09325daa4e1a356c13b01f590c4139d9990",
+      "url": "../../apps/shared/audio/sunny-v2/9dd0ff3ad5733b88.mp3"
+    },
+    {
+      "text": "Let’s enjoy our hobbies.",
+      "textSha256": "9de4d060f86b69b7178dc4693f85ac12b6e2b670b721ca63e458572ed1f1ff2e",
+      "audioSha256": "6eb0c9d56f93309581a17794d7df9a3db245a93dc5b645616812643f4c6134f1",
+      "url": "../../apps/shared/audio/sunny-v2/9de4d060f86b69b7.mp3"
+    },
+    {
+      "text": "I play with my friends.",
+      "textSha256": "9e1d5ed2b55ffcb4c73b692f2ac6e6a28f28e5268f421e9fee01fe05c35d552e",
+      "audioSha256": "279e5d6918ec1394e7d1bc785c902e382034219bffbd9b00679fb44038425e8b",
+      "url": "../../apps/shared/audio/sunny-v2/9e1d5ed2b55ffcb4.mp3"
+    },
+    {
+      "text": "Stretching",
+      "textSha256": "9e5693de87e4be04ac3a681f99e79d2e44b415f6de42140626393c194360bf8f",
+      "audioSha256": "4250a24360f801ab80c4fab39165321b5e59049c3fc11fdb007df7b509d1ddd6",
+      "url": "../../apps/shared/audio/sunny-v2/9e5693de87e4be04.mp3"
+    },
+    {
+      "text": "Find the game.",
+      "textSha256": "9e5afccfba5fc15a96c77861f5c1205fa71422e73f4a9a87c83b0553553d4a52",
+      "audioSha256": "3d3ea0bcdfa0a551609c1582e221dd3fd2277bcd6d0e55aaa18aad121408c25f",
+      "url": "../../apps/shared/audio/sunny-v2/9e5afccfba5fc15a.mp3"
+    },
+    {
+      "text": "I like tennis.",
+      "textSha256": "9e8b5f948f61074120fe74552e91b3127f30c4d362f953f22e3c1214ee8f5429",
+      "audioSha256": "747d6c1bc01f2e5cd04c27a6e21d663b0910d66450db077153f73639c2a8d16e",
+      "url": "../../apps/shared/audio/sunny-v2/9e8b5f948f610741.mp3"
+    },
+    {
+      "text": "I practice stretching. Find the picture.",
+      "textSha256": "9ed9ee44eed63cba8bd129ce7185afd7da0160c85a0221d215bdb49f0a2a36ac",
+      "audioSha256": "bbda6cbe343ff8d7866eb73eae8bd6bbd1700161351de03ca7623b0ee1df9c19",
+      "url": "../../apps/shared/audio/sunny-v2/9ed9ee44eed63cba.mp3"
+    },
+    {
+      "text": "This is a cow.",
+      "textSha256": "9f1453a163740d9d62c7e584c3420cda60b282898c1ba3256267778ddb661ee8",
+      "audioSha256": "9673a280e6a5fedc5dad56a3a3f17056e3fda23057c637a6e44101872f8a13b5",
+      "url": "../../apps/shared/audio/sunny-v2/9f1453a163740d9d.mp3"
+    },
+    {
+      "text": "Which food do we chew?",
+      "textSha256": "9f7da4e529a4e63604c5ecfcd2fdca26328854be27054d1e675afdffc1049e36",
+      "audioSha256": "a2bbfe714639b5140b299effe775f27c9a40aa9604ebdb8d4332d4a9159d0760",
+      "url": "../../apps/shared/audio/sunny-v2/9f7da4e529a4e636.mp3"
+    },
+    {
+      "text": "I look at the cake and gate.",
+      "textSha256": "9f885d7fc9c25526c0083ca04686a9c43ccb06dd96454c149b334639863a879a",
+      "audioSha256": "540a061e5eb1a9bc4579b7708d6b13de6035c615cbd11add1a597bb3e2e5e4b0",
+      "url": "../../apps/shared/audio/sunny-v2/9f885d7fc9c25526.mp3"
+    },
+    {
+      "text": "Let’s rest on the hammock.",
+      "textSha256": "a00d80257593ea55283e4ded02e0662f18e28fad2bfc44ed8fe46698642328a6",
+      "audioSha256": "9c243b56234ef5431c129fa66b337a4dd232c57cb3d2cc0f4be5c329f4487ed6",
+      "url": "../../apps/shared/audio/sunny-v2/a00d80257593ea55.mp3"
+    },
+    {
+      "text": "What comes before winter?",
+      "textSha256": "a062931b43e24bc948d875e23808621c1478b29525ed42cee445cca31ff08dc4",
+      "audioSha256": "e8c5b581cadb703fb633b8adc3d361f18ac351c9107aa81bc1d69add0c5b2cf2",
+      "url": "../../apps/shared/audio/sunny-v2/a062931b43e24bc9.mp3"
+    },
+    {
+      "text": "Tennis",
+      "textSha256": "a0a5719b1d11a424518fff12434b3a93d8490fb5a9e66f1f13ea30e1366e1c71",
+      "audioSha256": "65cc8264ffc94008c843174664e1d15523ec684416e59148fd2621fd6804eadb",
+      "url": "../../apps/shared/audio/sunny-v2/a0a5719b1d11a424.mp3"
+    },
+    {
+      "text": "I practice swinging every day.",
+      "textSha256": "a17f95190df2ccc84d177712c21a86e3784fec3711b7b8e4ac747ff08d359543",
+      "audioSha256": "20caf1dd2bbf40963250192c2a4e94c63b81052392fdb3506e3a268e74517846",
+      "url": "../../apps/shared/audio/sunny-v2/a17f95190df2ccc8.mp3"
+    },
+    {
+      "text": "Count twenty. Take away seven. Thirteen is left.",
+      "textSha256": "a20a5f6d147752c4f386f5bb7b1826cfbde7e37b7dee63ff66c3d944ba0265d1",
+      "audioSha256": "f36f6234f30aede32430a161876d0949f9474ce87e82ddd20c4b5e87aa0972c8",
+      "url": "../../apps/shared/audio/sunny-v2/a20a5f6d147752c4.mp3"
+    },
+    {
+      "text": "Eight times three is twenty-four.",
+      "textSha256": "a427b0265678bf4db0c50ac24244e9c3c439649fa5a024ceea786ebca25e5eda",
+      "audioSha256": "8aa3f60ad36505ff5aa58352c96179a561024eacc97310b3212e1011ab351152",
+      "url": "../../apps/shared/audio/sunny-v2/a427b0265678bf4d.mp3"
+    },
+    {
+      "text": "It is diving.",
+      "textSha256": "a48a310660a5f8d21063d5b15894e19ac279cdeb1a7d423a811d1a9f390c56ea",
+      "audioSha256": "3ec0628d2bea4afd668c306d65171349808309d7a608d18a5b4d75f3ceb8cc6c",
+      "url": "../../apps/shared/audio/sunny-v2/a48a310660a5f8d2.mp3"
+    },
+    {
+      "text": "Wednesday comes before Thursday.",
+      "textSha256": "a4b2ac938b818083e2cc012dee4f83a99559ca247ae20644fc363e46c24ea5df",
+      "audioSha256": "e26606d0303cb2e88766775fbf032fe4c5ac8913f2e33d3c8c44484cc21b5499",
+      "url": "../../apps/shared/audio/sunny-v2/a4b2ac938b818083.mp3"
+    },
+    {
+      "text": "Let’s rest on the swing.",
+      "textSha256": "a58aae5d5cb7e3db5c000e407bc3b373cd517e323a0a942ee0aa12b6dd4539c2",
+      "audioSha256": "1a1631bca7e9340b792ac6084c54a2911f1d79995a2f6313e428756d49a46f7a",
+      "url": "../../apps/shared/audio/sunny-v2/a58aae5d5cb7e3db.mp3"
+    },
+    {
+      "text": "Six in each group. Three groups. Six times three. How many altogether?",
+      "textSha256": "a6136188df3ad5e15b5dea3d437620e1adebfa9bbef8f0398d50fec271ea18d8",
+      "audioSha256": "eb6c69844bd84d3468a90d9b022fd993423d8fedd61a1845b8053c094676acd4",
+      "url": "../../apps/shared/audio/sunny-v2/a6136188df3ad5e1.mp3"
+    },
+    {
+      "text": "Count twenty. Take away seven. How many are left?",
+      "textSha256": "a693cf39150593bbf090b77a311848f73b1ccd1943b3b180948456fab6d12147",
+      "audioSha256": "c1363860001f13c7ffd794f15696511da967ac82c4bfcbc31da811f43d4c7445",
+      "url": "../../apps/shared/audio/sunny-v2/a693cf39150593bb.mp3"
+    },
+    {
+      "text": "twenty-one",
+      "textSha256": "a69edb489f4eb7f23d85766e3f60af8326fa7f4d0fbf1f14ad276336a18e1dfe",
+      "audioSha256": "c63d8402039780b8ef2e3b44ec4a9e277e63cb3031a3d7a4cdd3a32c210d84c4",
+      "url": "../../apps/shared/audio/sunny-v2/a69edb489f4eb7f2.mp3"
+    },
+    {
+      "text": "I wear gloves.",
+      "textSha256": "a777b9bd085da0743135c465e9d14fc39affe12049faede3d96815d369135c7f",
+      "audioSha256": "9b8e5c65d8fddc54e484c02fb50e2f1205aa8ef9780d6988065e9c26789647e4",
+      "url": "../../apps/shared/audio/sunny-v2/a777b9bd085da074.mp3"
+    },
+    {
+      "text": "Bees help vegetables grow",
+      "textSha256": "a9129d71fb27659bb8b7b185762f4fb4cda1462d48129e71f34716bdea3d5e1e",
+      "audioSha256": "6f6ce75889d7b7ad6c7e422d83fe1bcf3f90a85c08378864c4324048b4120a07",
+      "url": "../../apps/shared/audio/sunny-v2/a9129d71fb27659b.mp3"
+    },
+    {
+      "text": "I wear a scarf. Find the picture.",
+      "textSha256": "a9685224b7341144fc14f715cd92f636ee92fdc029b4527b84f3b57c2cb9bad1",
+      "audioSha256": "713f41f8df9588ff29ca9c6236f6084e5769c198a8cb0376c23e44144f4f2cd9",
+      "url": "../../apps/shared/audio/sunny-v2/a9685224b7341144.mp3"
+    },
+    {
+      "text": "I look at the cane and tape.",
+      "textSha256": "a9aefafbf0f30bb810bc44b7ff312a05f258454f5fc5bd9d75309aaf9be642d2",
+      "audioSha256": "2ac7bb30cf8e436fc3632ae49b342e9fbd706681ac3172de801037fc47cd0aec",
+      "url": "../../apps/shared/audio/sunny-v2/a9aefafbf0f30bb8.mp3"
+    },
+    {
+      "text": "Let’s rest on the hammock. Find the picture.",
+      "textSha256": "aa0fcaa5539fd3e3fc4428682f8c7fee856b885bb4b09f9c02fa11277cb856e1",
+      "audioSha256": "8cd697b1c3bcfebee4c1a1b52a5b00a08a28d4de2657be242554f4028b37b947",
+      "url": "../../apps/shared/audio/sunny-v2/aa0fcaa5539fd3e3.mp3"
+    },
+    {
+      "text": "radio",
+      "textSha256": "aa3a05d9d57c08d694cf230a36386221f56890092e54cf8d6b04fab1b2cc0702",
+      "audioSha256": "c16e203e86f4aa2c8eee632323f91495255daa852646b48b8293a82aa0061484",
+      "url": "../../apps/shared/audio/sunny-v2/aa3a05d9d57c08d6.mp3"
+    },
+    {
+      "text": "Find the rabbit.",
+      "textSha256": "aa4abc0f20ba341abc400f687a79b4c8fdd1ebf1631c8b7580051d847a50c053",
+      "audioSha256": "11c281cee8d3e73f44601c02c5028ddcf01d49a4921fd2538f297af22a62341a",
+      "url": "../../apps/shared/audio/sunny-v2/aa4abc0f20ba341a.mp3"
+    },
+    {
+      "text": "Penny paints. Mr. Worm digs soil.",
+      "textSha256": "aae3716641f2d7c089bfb459f9d75471b1d1c101768996bd009f2273b5e7e4a0",
+      "audioSha256": "6460f41e1949f41d4dc4eba418c73e35e789d9aa1e91533384bd2cb9f82794e3",
+      "url": "../../apps/shared/audio/sunny-v2/aae3716641f2d7c0.mp3"
+    },
+    {
+      "text": "Twelve o'clock.",
+      "textSha256": "acb62bfa505b8e16f3bc0527dc55f18a5fe349fcae82f1265903514ec5933169",
+      "audioSha256": "1c40941582b366a9354ea797235a6d0c47cbd8763b55dbe6bfea95c915323e6b",
+      "url": "../../apps/shared/audio/sunny-v2/acb62bfa505b8e16.mp3"
+    },
+    {
+      "text": "Listen: soap. Which word has the same vowel sound?",
+      "textSha256": "acbb212d2be318446115dea4e0c30a5b2dd632c82004cc3cfac0c95bdaf44c02",
+      "audioSha256": "deaf1c29b18fd724992bf7da6b2104a56594344609fa8a78d8074d1d53b1c263",
+      "url": "../../apps/shared/audio/sunny-v2/acbb212d2be31844.mp3"
+    },
+    {
+      "text": "It is birds chirping.",
+      "textSha256": "ae140084786357144a1a1e19865dc1803a67089d28f0ca9df41d2ef4690f8113",
+      "audioSha256": "68852896a343df00206220d39b5b2aec1059d523d61e726821a8929d4e1d7c3c",
+      "url": "../../apps/shared/audio/sunny-v2/ae14008478635714.mp3"
+    },
+    {
+      "text": "I like golf.",
+      "textSha256": "ae923b6a07a11deccea07659c6767b03679003c3b36528a520dcb679d3fa9cd4",
+      "audioSha256": "8da21fa015ff898de08df6135e72ad16540b693751b93c098f55a843ec9676cd",
+      "url": "../../apps/shared/audio/sunny-v2/ae923b6a07a11dec.mp3"
+    },
+    {
+      "text": "There are bees near the flowers. Find the picture.",
+      "textSha256": "aef2f3e53dc81a05480d28e948a1978916e2c1a3a3c3ffb4fc5929b0aba9601c",
+      "audioSha256": "dfa510a302fd5e72b65ed5023ab8938f01cb98f5571dec041040aa34a5e4c151",
+      "url": "../../apps/shared/audio/sunny-v2/aef2f3e53dc81a05.mp3"
+    },
+    {
+      "text": "We rest on the bench at one thirty-five for twenty minutes. What time is it then?",
+      "textSha256": "af2acea0c2b5cfbdeeaa4b10b766e79ac7b80946f962b6f7fffb4cff6bd33646",
+      "audioSha256": "48146a53639c4434a6abab46c653beb33653a3726952282406e4c2270b98f01c",
+      "url": "../../apps/shared/audio/sunny-v2/af2acea0c2b5cfbd.mp3"
+    },
+    {
+      "text": "This is a cave.",
+      "textSha256": "afb15ecad64d75c56e0a5c0886e5f8ebc6a50446d0ccce632d1a320b68145230",
+      "audioSha256": "67349e62e23e5372ce189a39cefd643746f38659fbc1c32bc0d65b521a3b3304",
+      "url": "../../apps/shared/audio/sunny-v2/afb15ecad64d75c5.mp3"
+    },
+    {
+      "text": "One o'clock.",
+      "textSha256": "b0eb7a6070530a587c7e26eb86094c0db2ffa51d66734756de32a7db49a853c0",
+      "audioSha256": "66bfcabf5b5ceffbb9e7367fea2375f2874e3fe4c7ce601d7465d8394bb1fbb8",
+      "url": "../../apps/shared/audio/sunny-v2/b0eb7a6070530a58.mp3"
+    },
+    {
+      "text": "I like tennis. Find the picture.",
+      "textSha256": "b1f7a3b7f7116da0d39f93895dc2a315cb6104a3a149716f8ca679c308db8a7c",
+      "audioSha256": "f53a86467f9e90ca26c580b345696db70bca3f4d2e2afde2760575a99ad4e5ff",
+      "url": "../../apps/shared/audio/sunny-v2/b1f7a3b7f7116da0.mp3"
+    },
+    {
+      "text": "There are bees near the bench.",
+      "textSha256": "b4016ca4d401dd10e847a6d60c02ac95492ddc8427bd2714c9cf07e3dabde39d",
+      "audioSha256": "34d81388e66502f92e2e8f09937f9b3329cbefbf82bfefcb4886f68b12e15c53",
+      "url": "../../apps/shared/audio/sunny-v2/b4016ca4d401dd10.mp3"
+    },
+    {
+      "text": "Eight in each group. Three groups. Eight times three. How many altogether?",
+      "textSha256": "b4962c33005deed23d97d60f92feabcd736704fcf690e8ce9a1244e3b3ec2fa6",
+      "audioSha256": "c1724c33685fb4dc40da708ff7b1ac49fa72e200822c6aea6bbf811f422aca09",
+      "url": "../../apps/shared/audio/sunny-v2/b4962c33005deed2.mp3"
+    },
+    {
+      "text": "He wrote a book.",
+      "textSha256": "b561842a02ab2808878339ce98730587aced307ef69fc724d1af15963c473d78",
+      "audioSha256": "19ec0b354db887d2cc5842c81b067dcaa37192c6d9a8cd33bdfedcdcad351a09",
+      "url": "../../apps/shared/audio/sunny-v2/b561842a02ab2808.mp3"
+    },
+    {
+      "text": "Earth needs plants. Find the picture.",
+      "textSha256": "b6099e2d28d52e21c9fbadd99ee6e1dd14733bd674d3b8b87b224e4a9a6112f4",
+      "audioSha256": "c37bb95e7fec410bf8a6c7b0dc6518b0e009cfeaeea97a09e60d5319542d42a0",
+      "url": "../../apps/shared/audio/sunny-v2/b6099e2d28d52e21.mp3"
+    },
+    {
+      "text": "Let’s rest on the swing. Find the picture.",
+      "textSha256": "b66e233f8a33da809c2cbd71eab589b8ae1e9e599377dc0d0d4d15d439fc2cb2",
+      "audioSha256": "7254deeda9d4f5e95f4e32d24237ed26bff9cbeb4f5b4c8e1445a2da3dfdf466",
+      "url": "../../apps/shared/audio/sunny-v2/b66e233f8a33da80.mp3"
+    },
+    {
+      "text": "A fox goes into a den.",
+      "textSha256": "b70fc37494805d2ea6d4baabf3c7ca24d5706757d8de51fef93d49cfc5d4b772",
+      "audioSha256": "3fe38a8ce01ca72ec67826ea2f39a374b5901834d9e6f5034842618448dcf80a",
+      "url": "../../apps/shared/audio/sunny-v2/b70fc37494805d2e.mp3"
+    },
+    {
+      "text": "vase and cave",
+      "textSha256": "b8047ec875287ae40eeb0cebf6cfa82f8b37e749cef5dcd6fc161bdefd61c1a8",
+      "audioSha256": "fe9ee864917d5fff1fc1291858335fbd5f5e6103f8ddc768cf8c7ba337fda6ff",
+      "url": "../../apps/shared/audio/sunny-v2/b8047ec875287ae4.mp3"
+    },
+    {
+      "text": "I need boxing gloves. Find the picture.",
+      "textSha256": "b84310ebeb54aefb44fa232e149b88de6e35008a3ae0760268142f96386f54f0",
+      "audioSha256": "574733d4e83d1722253fa764d31004a4a6d2e02bb4be893dcf0b296eed3e4920",
+      "url": "../../apps/shared/audio/sunny-v2/b84310ebeb54aefb.mp3"
+    },
+    {
+      "text": "cave",
+      "textSha256": "b89a199ea81b6a925de700d15ccecdd9a0d7b9df2643a65f1b6f59af57a2c99d",
+      "audioSha256": "082d3304f60ef8f3b5ef92340802c34feb43a594f143cbc6f927d6499faf89ef",
+      "url": "../../apps/shared/audio/sunny-v2/b89a199ea81b6a92.mp3"
+    },
+    {
+      "text": "quilt",
+      "textSha256": "b8b2eacffb5d4d4065e73890ca0f4919b710a403c5855c4edc9a5c48cfe45398",
+      "audioSha256": "ab6c3030c1926a933d68d05aca829bd1ebae7f14444d101006045ad5a2711f98",
+      "url": "../../apps/shared/audio/sunny-v2/b8b2eacffb5d4d40.mp3"
+    },
+    {
+      "text": "Nine o'clock.",
+      "textSha256": "b937cdd01faf8c3b95e0ba585f46b2c2d0996a82e11f77d899c0724d84b3190a",
+      "audioSha256": "1323875fc5b8373e27980e80866048e3df2012192bf5c504d6592618d812c896",
+      "url": "../../apps/shared/audio/sunny-v2/b937cdd01faf8c3b.mp3"
+    },
+    {
+      "text": "Sneakers",
+      "textSha256": "b986fef0b65b51c91f40e92fe0dcaaed71ac2602bae56aa86c5d8d51d7bcd55b",
+      "audioSha256": "28c0e1e9944e7a5b2e16300ccf29d28562422fb83683042fd09faf385d20d925",
+      "url": "../../apps/shared/audio/sunny-v2/b986fef0b65b51c9.mp3"
+    },
+    {
+      "text": "It is cycling.",
+      "textSha256": "ba7500704bf04f355970908063485bde22c36e49e43840d363ccbddf26714e5b",
+      "audioSha256": "810cb39a59ea2048829511cbc79b33792a441ed1c5d81090759212dc7696c363",
+      "url": "../../apps/shared/audio/sunny-v2/ba7500704bf04f35.mp3"
+    },
+    {
+      "text": "There are bees near the water.",
+      "textSha256": "baa5702a4af8e2138789e539cdf0152006b339552f4d08a1f37bf6596acf7277",
+      "audioSha256": "90ad42ef6f3f70351c5aaf2c472195e118e337f1f59c12f48a50d2eabe7f965e",
+      "url": "../../apps/shared/audio/sunny-v2/baa5702a4af8e213.mp3"
+    },
+    {
+      "text": "Bees build hives. Find the picture.",
+      "textSha256": "bad17d5451b6a12c71e60a98b861400220b0bd1c475dc85ad7a9a1bc66c179ab",
+      "audioSha256": "30a17b8db06925fdf3cde09086726cd2ba0ecf63de073c7c589631aa36e28576",
+      "url": "../../apps/shared/audio/sunny-v2/bad17d5451b6a12c.mp3"
+    },
+    {
+      "text": "We can make honey cake. Find the picture.",
+      "textSha256": "bbac9369964267ce7408e55990952fbd411798b4e9066cab9231311ad168609e",
+      "audioSha256": "3012439435ee1f118eda0689504e4c676284a86a668996adfae1a52b1ecf42bc",
+      "url": "../../apps/shared/audio/sunny-v2/bbac9369964267ce.mp3"
+    },
+    {
+      "text": "Let's make honey pancakes.",
+      "textSha256": "bc12865db3bb305f82f7544a08df12003926617512cda24830b1653cce4faafc",
+      "audioSha256": "ec575183889bd819aeb80e05ce0aed230924400bed99886834bcc834ac2d8ea1",
+      "url": "../../apps/shared/audio/sunny-v2/bc12865db3bb305f.mp3"
+    },
+    {
+      "text": "Let's make honey tea.",
+      "textSha256": "bc37040c6beddd4c9614aea31aaf806795d957d9b5805172af82e45dd00d5cd6",
+      "audioSha256": "9d74c3c0922c228a4b0719781972984f5342523084ca828cc9fe6c74cb19f5bc",
+      "url": "../../apps/shared/audio/sunny-v2/bc37040c6beddd4c.mp3"
+    },
+    {
+      "text": "What comes before Thursday?",
+      "textSha256": "bcfa958e4bfee3c03473eab7d42d72f65c75953bce3d5320127863007f29edf1",
+      "audioSha256": "780c4f402359f3ccec588b309904667fd234d2d2ab56f137ec373e9941813843",
+      "url": "../../apps/shared/audio/sunny-v2/bcfa958e4bfee3c0.mp3"
+    },
+    {
+      "text": "Fall comes before winter.",
+      "textSha256": "be54b3f269bab6ff12d480fbfbda12cb28792c3346954e07fcc943c21ae15f91",
+      "audioSha256": "015f683f0c60e9d474ba024e5c47cee23e0fff815c649524a3c60f986ef15f84",
+      "url": "../../apps/shared/audio/sunny-v2/be54b3f269bab6ff.mp3"
+    },
+    {
+      "text": "We can't see bees in winter.",
+      "textSha256": "bf7916d0f08f5fbfa762caeb854f50b45fbb60eafeeaa6512efa658b9c45e1c3",
+      "audioSha256": "441a28011acd75e1ea95a9b4a2237f63fbbccf1f60c2282b82d702d206133dad",
+      "url": "../../apps/shared/audio/sunny-v2/bf7916d0f08f5fbf.mp3"
+    },
+    {
+      "text": "four thirty",
+      "textSha256": "c08103aaf2a86daaa9ac309a1082a0d6175b3b235a5b7b56455ea5ab56ec5a5a",
+      "audioSha256": "bfe8a6aee5ba18209ddebd830b8ed3d0badd0995af69b354a0597763d97242cc",
+      "url": "../../apps/shared/audio/sunny-v2/c08103aaf2a86daa.mp3"
+    },
+    {
+      "text": "Wednesday",
+      "textSha256": "c0a6cc829cd08735294765c75938a7da2b0f222d52e98bff13cb237cd99deaac",
+      "audioSha256": "19d82bf86f81c4f461dad5886e5095dbad27cd2f530c4b40d9aa66bbede90595",
+      "url": "../../apps/shared/audio/sunny-v2/c0a6cc829cd08735.mp3"
+    },
+    {
+      "text": "Summer",
+      "textSha256": "c0de243c407c0e98ed0364e1d0c636d542318867862aac7e8ae2446d4a328dd6",
+      "audioSha256": "16aafa70e4f12f016ff194f42112edb1e53e5b3e3b9ff651a02c1afad3e68902",
+      "url": "../../apps/shared/audio/sunny-v2/c0de243c407c0e98.mp3"
+    },
+    {
+      "text": "eight",
+      "textSha256": "c195d2d8756234367242ba7616c5c60369bc25ced2dcb5b92808d31b58ef217a",
+      "audioSha256": "17ebcd5bfc9b4ed5efd9635afdccc3f2fe2d2b07fed48d93dc868840f5cf40de",
+      "url": "../../apps/shared/audio/sunny-v2/c195d2d875623436.mp3"
+    },
+    {
+      "text": "Socks",
+      "textSha256": "c25faab79e1eb3a5f3644d7d576ffe2c302ecc5afbbb2946ac091c242f3d5705",
+      "audioSha256": "e4dca00fb5946b2349fca0f25c9c358965d8efa173565b988571769556d497aa",
+      "url": "../../apps/shared/audio/sunny-v2/c25faab79e1eb3a5.mp3"
+    },
+    {
+      "text": "Mrs. Butterfly enjoys finding flowers. Find the picture.",
+      "textSha256": "c2b121fa438fe9e14b2c55d2ebad95692b799146e25055a932a82cc7e52e656b",
+      "audioSha256": "604df9123028b34a31ab7807e430fe96b117c679a87e70f782be091de9e19892",
+      "url": "../../apps/shared/audio/sunny-v2/c2b121fa438fe9e1.mp3"
+    },
+    {
+      "text": "seven o’clock",
+      "textSha256": "c2ebfb9b908764392608202b19d799af69eef6cb83c39e51187734455863974c",
+      "audioSha256": "913b41b0884bc685b2e1ae9318cb1b8c5237e1aa9555c6ec6bf44ff57a71436c",
+      "url": "../../apps/shared/audio/sunny-v2/c2ebfb9b90876439.mp3"
+    },
+    {
+      "text": "Let’s enjoy painting. Find the picture.",
+      "textSha256": "c428dc0eafcf3a8dfa5ec78f357126210c8478aa841134e51eb9f6098e52698a",
+      "audioSha256": "04ccd35606706a5c66ab2e1d279d4ea1eeb281bb31e0d2b7a7f26469c12adfc1",
+      "url": "../../apps/shared/audio/sunny-v2/c428dc0eafcf3a8d.mp3"
+    },
+    {
+      "text": "fifteen",
+      "textSha256": "c463967e5708cab7f980855e14042ddbcfd1c3556d520ad4dacdfb4a115c67a5",
+      "audioSha256": "22b7400105ec9f933940f22d1a2f34ff7eb39b013ddba346ebbded0056993713",
+      "url": "../../apps/shared/audio/sunny-v2/c463967e5708cab7.mp3"
+    },
+    {
+      "text": "Find the vase.",
+      "textSha256": "c4bc40ae3d812c70600196293329454fda4afd786f1005373f50ff1bc60323aa",
+      "audioSha256": "394f7e485716842a58185d79f9b70dc8b2289feda458dd62dad6fe80158f4241",
+      "url": "../../apps/shared/audio/sunny-v2/c4bc40ae3d812c70.mp3"
+    },
+    {
+      "text": "The cat meows at twelve thirty. Find the clock.",
+      "textSha256": "c4ed0355945704a589651cb896818f90188011790926b7ff03edae5cd6c6cc56",
+      "audioSha256": "5e0f1fcc88df7a9e7f4f1ebd8eee76af331f2448a5f3d435ce73e96ba7063781",
+      "url": "../../apps/shared/audio/sunny-v2/c4ed0355945704a5.mp3"
+    },
+    {
+      "text": "quill",
+      "textSha256": "c5924fae93560d14aac075b10d3439131ad462e5fa6ef949ba4d24de4d63b4d2",
+      "audioSha256": "f1ab31c1df6d18bb13baa8faf599d8c49fa6a10e674485b7c33115291b9ca2a5",
+      "url": "../../apps/shared/audio/sunny-v2/c5924fae93560d14.mp3"
+    },
+    {
+      "text": "Bees build hives",
+      "textSha256": "c5e84284bfef0d66b4290211b903a08bc81da8df210577cb8a6d720a12cfe1aa",
+      "audioSha256": "9a18942c47267f1fc44b9709b0887958f5c318ac3673249fa058b83e0627e39e",
+      "url": "../../apps/shared/audio/sunny-v2/c5e84284bfef0d66.mp3"
+    },
+    {
+      "text": "Evening comes after daytime.",
+      "textSha256": "c611e1d2e1298f49cef6bb3cc46784a5e1af40b54e42c79c36417a2fd66c31a7",
+      "audioSha256": "5e66044fbb7fd5b561aa2010a76bca1c5a8ceae6d40e232e8cd947de58a47856",
+      "url": "../../apps/shared/audio/sunny-v2/c611e1d2e1298f49.mp3"
+    },
+    {
+      "text": "Let's make honey cookies. Find the picture.",
+      "textSha256": "c72822956c64b2a03e4b8d403862a32efbdd5d87100e07bd9d6302fc46b41fd5",
+      "audioSha256": "69be16de48771c49318d55c6000f21c961c4230485ec0fcf90500ebb299f6964",
+      "url": "../../apps/shared/audio/sunny-v2/c72822956c64b2a0.mp3"
+    },
+    {
+      "text": "Count forty. Take away three. Thirty-seven is left.",
+      "textSha256": "c7352dd0c135141fd1d032cdee492de0b83c8ae78c5e0243c4570b6302d81302",
+      "audioSha256": "0834e8fc6890deea884bd55003da84988a999babb227b632473c3c574488af7a",
+      "url": "../../apps/shared/audio/sunny-v2/c7352dd0c135141f.mp3"
+    },
+    {
+      "text": "Let’s rest on the beanbag.",
+      "textSha256": "c8479cb0a8ac8356153a999052ba4fa511042a85e7d07dcdf402032da257a73e",
+      "audioSha256": "9ac7e0b04a7d262eb3184f0ff6ad39bac060e32595352827d82993bb65c8373f",
+      "url": "../../apps/shared/audio/sunny-v2/c8479cb0a8ac8356.mp3"
+    },
+    {
+      "text": "This is a mouth.",
+      "textSha256": "c8f8627591c5af36d110500e3c28e5d8b127ca42943bbd37516d30b664858023",
+      "audioSha256": "a061152775ed1b5e1b6ef190eaabedb38e301ba4d3ff34e91025acda1c77d9fa",
+      "url": "../../apps/shared/audio/sunny-v2/c8f8627591c5af36.mp3"
+    },
+    {
+      "text": "I like volleyball.",
+      "textSha256": "c92827c3884877973b55b528d32cdf8d9a2dfd18680bdbcc81624d3ca6b75963",
+      "audioSha256": "e88682d825baecf42cdb6cb58af6e99d270e403d05c342fa4b17eea6f5556a9d",
+      "url": "../../apps/shared/audio/sunny-v2/c92827c388487797.mp3"
+    },
+    {
+      "text": "gate",
+      "textSha256": "c974e17b8e7321ce8c12983de3d0ed4a289821f579bbe0925b0181a4bc8e8d80",
+      "audioSha256": "3f0b9fc48f0493917eabd27aa0a5fdac8ee8ae3c23ef5b22910e4f71412eb151",
+      "url": "../../apps/shared/audio/sunny-v2/c974e17b8e7321ce.mp3"
+    },
+    {
+      "text": "Count ten. Take away six. Four is left.",
+      "textSha256": "c995d56d1d1d7cc3b1408ff8c6d976c3f0e8570972bc6ec95a6a7d0c932bda55",
+      "audioSha256": "959974cc8968ef7b7c13b9df9bcde639062236271fadff8b75565b1812ac6b98",
+      "url": "../../apps/shared/audio/sunny-v2/c995d56d1d1d7cc3.mp3"
+    },
+    {
+      "text": "It is swimming. Find the picture.",
+      "textSha256": "c9abd84dda05a70e66e5a0362c28f2bfcb1b9c2c1ce83a255c90d13fdf7769c3",
+      "audioSha256": "4c0daff86af8d06160477064bb312fd0bdafda39b835f2cffa8682a69b46583b",
+      "url": "../../apps/shared/audio/sunny-v2/c9abd84dda05a70e.mp3"
+    },
+    {
+      "text": "This is a quill.",
+      "textSha256": "ca1d7c2f0e89a1a35cdc241d71402868c845ce93e5f10af1dcbf7298f1a0a9ce",
+      "audioSha256": "3325b3c803bed92f7d05c94089e2e8b1dcd10a31bcc8574cae46df4647b96ae9",
+      "url": "../../apps/shared/audio/sunny-v2/ca1d7c2f0e89a1a3.mp3"
+    },
+    {
+      "text": "soap and boat have the same vowel sound.",
+      "textSha256": "ca78e53bbe761a87c12b75bd65997511aae9ca2a6a391cc05a3b06ecc81c7ff7",
+      "audioSha256": "2f64e4437d19f46a2a6783c7fb416711d34fbdb882b689c882cde8aed39a4d36",
+      "url": "../../apps/shared/audio/sunny-v2/ca78e53bbe761a87.mp3"
+    },
+    {
+      "text": "Listen. Find the house.",
+      "textSha256": "caec7630d34a57bc3f31f22bd3a184afa7c7d6685cbe4e8683e231d64f85c44a",
+      "audioSha256": "1b7df0101599071300694e1bcbfad6bced9c6fa7e475f53f9a4f5da45cc5800d",
+      "url": "../../apps/shared/audio/sunny-v2/caec7630d34a57bc.mp3"
+    },
+    {
+      "text": "This is a rabbit.",
+      "textSha256": "cb20082788f206bd82edab01b7e3ef17be1970b93f208f3ef5ea88f78a89973e",
+      "audioSha256": "47fbb588c118f941b634d7296a766ee3d2b14526d16d9d8b2953f7c9d3470da1",
+      "url": "../../apps/shared/audio/sunny-v2/cb20082788f206bd.mp3"
+    },
+    {
+      "text": "six o’clock",
+      "textSha256": "cb608e62ef6541ace7c2acf15f92862f5cdf34a324f4a3e2a30548719d7e7c30",
+      "audioSha256": "aedc255f1b7d78d80dd16aa55cb5b5b61bbfe964b0877738710080fb3269bab3",
+      "url": "../../apps/shared/audio/sunny-v2/cb608e62ef6541ac.mp3"
+    },
+    {
+      "text": "A quiet winter garden",
+      "textSha256": "cbdc873a72c6bb7caee95f24879d9a8eea0c583633659b246e087a2cd5f8a4e9",
+      "audioSha256": "de6ef7a195a505d15511f37f394fa02b59b86f3e71e1b84a3602476a46d6fb13",
+      "url": "../../apps/shared/audio/sunny-v2/cbdc873a72c6bb7c.mp3"
+    },
+    {
+      "text": "I like basketball.",
+      "textSha256": "cc09f2be55a5618985dceb2916bdd9c78bd5afbcd37fc6dd0f138e10f9143f0c",
+      "audioSha256": "239e3cbb8136388dc229076d73edfcc1d6e43cd88f3017d5976590a3b0ec6a24",
+      "url": "../../apps/shared/audio/sunny-v2/cc09f2be55a56189.mp3"
+    },
+    {
+      "text": "This is a rose.",
+      "textSha256": "cc7ab47ee46ecb96f71a5536231f4e3cf607d0feb72e977a35479b7ad0f6adea",
+      "audioSha256": "7faee03102111da2961842e74b1aa3c6db5899823c5fe96e5ea5813d19fdb10b",
+      "url": "../../apps/shared/audio/sunny-v2/cc7ab47ee46ecb96.mp3"
+    },
+    {
+      "text": "Bees help fruits grow.",
+      "textSha256": "ccbfdb3d30ba137b9210af43b1f3090fbebbfc907cabfd9f31f52292097c25c8",
+      "audioSha256": "f4cea50b2067807a959fa6cddde7c9148a2a855a1ff242a1880a1053a432d692",
+      "url": "../../apps/shared/audio/sunny-v2/ccbfdb3d30ba137b.mp3"
+    },
+    {
+      "text": "Listen: cow. Which word has the same vowel sound?",
+      "textSha256": "ccc97f0757d868d2f18de335a5648ae4bcc425516bf965f8914f999ebab52b88",
+      "audioSha256": "c0ed25aaed4086c8c782e125b5febb644c77f930996716b4ba9bab32c6b5b0d3",
+      "url": "../../apps/shared/audio/sunny-v2/ccc97f0757d868d2.mp3"
+    },
+    {
+      "text": "This is a window.",
+      "textSha256": "cd70468cb5d9dfd256ed2aec73454428ed4cc93302009922c2c1898ce78d6bfb",
+      "audioSha256": "1b076f10011ff1ca60c9af017f116d579a06989af2670dd9b13f64b425ff3ad4",
+      "url": "../../apps/shared/audio/sunny-v2/cd70468cb5d9dfd2.mp3"
+    },
+    {
+      "text": "Volleyball",
+      "textSha256": "cdf77e1365d898182bc8496151dc2544a7b7e0804636cc0ebfd1c51d57b4d240",
+      "audioSha256": "a5f7e6e05e5446162f43bcb3f0d765708d90cb92ee3c6db105279333a18eab72",
+      "url": "../../apps/shared/audio/sunny-v2/cdf77e1365d89818.mp3"
+    },
+    {
+      "text": "Count twenty. Take away four. Sixteen is left.",
+      "textSha256": "ce52001d00a3572c786fc20eecc5184fdd226464a5fc89af86acab1569b1b9b0",
+      "audioSha256": "2ee286d0c2648823894f12507150a0e71d6a2f3f0d6e376514f7beb93f504abf",
+      "url": "../../apps/shared/audio/sunny-v2/ce52001d00a3572c.mp3"
+    },
+    {
+      "text": "Listen. Find the soap.",
+      "textSha256": "cf1fb5b22b11794e4b4f8f27e3cbf7246280b5a08ef4e0eb3a30d6a8145d697c",
+      "audioSha256": "ad5f0712e9ec284a3fb3257b5830cba5e88db20047ebba219b617d536548710d",
+      "url": "../../apps/shared/audio/sunny-v2/cf1fb5b22b11794e.mp3"
+    },
+    {
+      "text": "There are bees near the flowers.",
+      "textSha256": "cff70cd43e17b7dc90f61572a4f31c270059da236311f96cebe9915715c97491",
+      "audioSha256": "051e2d9ee75365c6f2efb457e7590524921ce40679b8a0c2b53a44cd7bb1c385",
+      "url": "../../apps/shared/audio/sunny-v2/cff70cd43e17b7dc.mp3"
+    },
+    {
+      "text": "Four shoes",
+      "textSha256": "d0043e51a636a5aeb796014ff942e416dc2c1a14bfca6539bfd53462f9645c14",
+      "audioSha256": "8da989853feccf563c164e257e9e2a0a19c1f822942ea79772a761c9746d1c60",
+      "url": "../../apps/shared/audio/sunny-v2/d0043e51a636a5ae.mp3"
+    },
+    {
+      "text": "Our season order starts with spring.",
+      "textSha256": "d03eff29b6a5d6320e126d0c7e984ff5da08b5d63e1fde4e63afe81d78986a7b",
+      "audioSha256": "f39596cab3f4a8cf752e94f731a58b8605f700eb3d26065cc9a58a0d1072b51f",
+      "url": "../../apps/shared/audio/sunny-v2/d03eff29b6a5d632.mp3"
+    },
+    {
+      "text": "I need a bicycle. Find the picture.",
+      "textSha256": "d0c915f14d1adf29ca6372569888296370968eccbb0a9a046d8349dd62d9d7a0",
+      "audioSha256": "43338cf48c63a56a6f6edf2528400f5b43000976a7d97ba4ba7da3172aa2a40f",
+      "url": "../../apps/shared/audio/sunny-v2/d0c915f14d1adf29.mp3"
+    },
+    {
+      "text": "A sheep grazes on the grass. Find the picture.",
+      "textSha256": "d11c349c1f8dc644ed72ccfecb86d8b17d5c75402da339a341e6aa30c94e09a8",
+      "audioSha256": "d15b660a87c107eca19cd5efa2d949c6234996f0af2045ade04a1d52517dbdd7",
+      "url": "../../apps/shared/audio/sunny-v2/d11c349c1f8dc644.mp3"
+    },
+    {
+      "text": "Let's make honey toast.",
+      "textSha256": "d15465101b7abf25c7f3c2f9a6119dd848e6106e3ba6d88b12a7da587eaade8d",
+      "audioSha256": "178674e6bfdc4d7e49269e7cad32108733be23b367e5e32d713d7e1a7ebb20d9",
+      "url": "../../apps/shared/audio/sunny-v2/d15465101b7abf25.mp3"
+    },
+    {
+      "text": "twelve",
+      "textSha256": "d1a749ad879b6c07e1f356b260ba81f9cb5b4376072280c9994a5c125165b701",
+      "audioSha256": "e7d0637a77c24574f3e26f2b10ac02a2300c84dd3f0a0fe6984b1d6fea218063",
+      "url": "../../apps/shared/audio/sunny-v2/d1a749ad879b6c07.mp3"
+    },
+    {
+      "text": "Earth needs clean water. Find the picture.",
+      "textSha256": "d1d3937d6c9aa158284479df20f6f9f1476c799435d6b9fd26d0634361292f69",
+      "audioSha256": "ca1a748090577d4d53e8c056df41d5676564325353e302fb6003df0f23e2963f",
+      "url": "../../apps/shared/audio/sunny-v2/d1d3937d6c9aa158.mp3"
+    },
+    {
+      "text": "Find the quill.",
+      "textSha256": "d2ca40fdcd4c2290ed7990e64f736101428fd831c0648dddf9de16db09419c15",
+      "audioSha256": "6d2a90f181ac50b5823410cf2735c42758bcd314a5bbda8e20dd4a3b4700a933",
+      "url": "../../apps/shared/audio/sunny-v2/d2ca40fdcd4c2290.mp3"
+    },
+    {
+      "text": "cake and gate",
+      "textSha256": "d347be63abdacfed392c9855034a53bdb88dedf674389f89fb5b8d5f24d5ca96",
+      "audioSha256": "bb5aedbee764baadab0200d8e13573882f704da144965ea975896e6951b7fa4f",
+      "url": "../../apps/shared/audio/sunny-v2/d347be63abdacfed.mp3"
+    },
+    {
+      "text": "This is a game.",
+      "textSha256": "d35d18ddab8ff67bb49f6a7b8d6c08084191bbf12dd57f50dfffb14518e52805",
+      "audioSha256": "f8fc81db2c2cb7ec8340a6b9ff077526a785e8bf5b1266667c7e6f799d40a6b5",
+      "url": "../../apps/shared/audio/sunny-v2/d35d18ddab8ff67b.mp3"
+    },
+    {
+      "text": "rabbit",
+      "textSha256": "d37d96b42ad43384915e4513505c30c0b1c4e7c765b5577eda25b5dbd7f26d89",
+      "audioSha256": "bc1adb6b494bd23ab72e6335d6eedf8aee9d2f5d9c0e9ca16adb1aed039f7076",
+      "url": "../../apps/shared/audio/sunny-v2/d37d96b42ad43384.mp3"
+    },
+    {
+      "text": "Let’s enjoy our hobbies, Mrs. Ladybug.",
+      "textSha256": "d3ba0adbb5192c21ff244cfc77f493ce49df89f3841706976a6e9769b40f98e1",
+      "audioSha256": "802cb4926f23ede1045246756bdb8fc009cc6c3ee77d74bb5d28914232c29b28",
+      "url": "../../apps/shared/audio/sunny-v2/d3ba0adbb5192c21.mp3"
+    },
+    {
+      "text": "I need a swimsuit. Find the picture.",
+      "textSha256": "d4b2f29299c13a57e68570d2a228710eb0d54491b88fa4d51089a889ed090508",
+      "audioSha256": "bf54131e22b3b616d623d5f0130764ceab7b25f13d6b7f0b5486dccdb0d69a0d",
+      "url": "../../apps/shared/audio/sunny-v2/d4b2f29299c13a57.mp3"
+    },
+    {
+      "text": "Let’s rest.",
+      "textSha256": "d4be1d9b193f9086fbf8ed7b34a16e664e3b336c893ce1504557fe286e43a7e7",
+      "audioSha256": "cdfd1c2a0db6871a93014030a7c00667f82fc9496b5b3230df2fe20757cf6396",
+      "url": "../../apps/shared/audio/sunny-v2/d4be1d9b193f9086.mp3"
+    },
+    {
+      "text": "red car",
+      "textSha256": "d51a29d69d9f7a605b45147409aa2afba1d0f812090adcbe35cc1b9ad603ca39",
+      "audioSha256": "a3c4089ffc7641a0bc449451e2c3894ef9642d8d50f89e9d789a4fc5479a8ac7",
+      "url": "../../apps/shared/audio/sunny-v2/d51a29d69d9f7a60.mp3"
+    },
+    {
+      "text": "I like soccer.",
+      "textSha256": "d520ef760be22b0962bad1e6c55300119f442b318a4e2dae01a0f520a5ba7966",
+      "audioSha256": "e2fa6fe436149850b4f168fec1539339ffe248d8eecb9bebb33cde3b177ce739",
+      "url": "../../apps/shared/audio/sunny-v2/d520ef760be22b09.mp3"
+    },
+    {
+      "text": "This is a cake.",
+      "textSha256": "d589efa9b020e399f3acdf3ec45a0c6209dc1a4515b6c345304b34e1df8c2452",
+      "audioSha256": "1b7591ec5348da4a9dd60895f126be9648127e9e5d86363c7ea98b30f0acf4e3",
+      "url": "../../apps/shared/audio/sunny-v2/d589efa9b020e399.mp3"
+    },
+    {
+      "text": "We rest on the bench at four twenty-five for ten minutes. What time is it then?",
+      "textSha256": "d5d1374656d785dc1c54134883d836ed160d023eb3b44d1d1cf7acbd7ec718b8",
+      "audioSha256": "e45a8376172dc634eb51419e657fc730c7b462f71d609bc82bed845071b0c219",
+      "url": "../../apps/shared/audio/sunny-v2/d5d1374656d785dc.mp3"
+    },
+    {
+      "text": "Four times three is twelve.",
+      "textSha256": "d653441722c17e054d01452dc2654854a80fe8a413dd25ae6887055c9f3f275f",
+      "audioSha256": "37672eef480043124caec8bf1cabebc68786f3c745f216964e510ab56e86ad11",
+      "url": "../../apps/shared/audio/sunny-v2/d653441722c17e05.mp3"
+    },
+    {
+      "text": "Bees help fruits grow",
+      "textSha256": "d6623564979527ee03415d51104f14a7334549340241dd1c2229bf6d9972b2e8",
+      "audioSha256": "cacd67ac1fc98061005e5e574e8d93e34d5b66477876c019f392e59e248a0852",
+      "url": "../../apps/shared/audio/sunny-v2/d6623564979527ee.mp3"
+    },
+    {
+      "text": "house",
+      "textSha256": "d6e21286621a8586f7e54720ab5a39c93acc2f4b8fba7a16ec1c24d69a08c613",
+      "audioSha256": "2bf07f772ead40c72947a82b2732eb577d6ad6c8a7e0bed0c6e66c852a74001a",
+      "url": "../../apps/shared/audio/sunny-v2/d6e21286621a8586.mp3"
+    },
+    {
+      "text": "Earth needs plants.",
+      "textSha256": "d7025e27b37c0ae1c29ef9c2a5187d96e937ce59c1f6c61e8565bb3adafa8393",
+      "audioSha256": "cb880c53c1dad8f90c970cba20d103fe9e3668758e1360f0992ae9d85f658cb4",
+      "url": "../../apps/shared/audio/sunny-v2/d7025e27b37c0ae1.mp3"
+    },
+    {
+      "text": "It is good for our skin. Find the picture.",
+      "textSha256": "d7b891f41a93324be0b637c6044c0d10948a85af936476dd39e634f5de65e93e",
+      "audioSha256": "be9ed323cc7525b290537c459b7da732ab4803918c56c64ecb1f94a498d35ff6",
+      "url": "../../apps/shared/audio/sunny-v2/d7b891f41a93324b.mp3"
+    },
+    {
+      "text": "Four o'clock.",
+      "textSha256": "d8ce209d8c0cbc46507854b54f8eae84a109aa810f046fef3b7abae2c589cb38",
+      "audioSha256": "9bd6a217b1ca16cb5ebe070d34453548efacb07b25d04f74324bfe8121aa107e",
+      "url": "../../apps/shared/audio/sunny-v2/d8ce209d8c0cbc46.mp3"
+    },
+    {
+      "text": "We can make honey cake.",
+      "textSha256": "d8e194eb69049c5197d0824dd6b3150c17e202b4e9ee44bf82908f4bb8aac1eb",
+      "audioSha256": "287b5d7e2916370bf6cfe6d080a7827f77895608b6547e02636efe94d073dbab",
+      "url": "../../apps/shared/audio/sunny-v2/d8e194eb69049c51.mp3"
+    },
+    {
+      "text": "Listen. Find the owl.",
+      "textSha256": "d9310b7fd0f8a588afdbf384428021b794d1fd11d43498f4bce2dafca38f4bbd",
+      "audioSha256": "92de19e25b6f337cfabecb43f2198555262eacd2fb92c6a6a3d0ee29409b4c0a",
+      "url": "../../apps/shared/audio/sunny-v2/d9310b7fd0f8a588.mp3"
+    },
+    {
+      "text": "This is a quarter.",
+      "textSha256": "d96d96f798c1540ed01569b491141c4429f1699db057c7f435616b2cbee928db",
+      "audioSha256": "6248b55415faf12914de2c3d43aba50882d3d2b10bf4b87367cf31bf934a9cad",
+      "url": "../../apps/shared/audio/sunny-v2/d96d96f798c1540e.mp3"
+    },
+    {
+      "text": "Penny points to her throat",
+      "textSha256": "d9802ef4f540a0ddda98ea8da25684db8223f1e150ed541775d05004869fbfbc",
+      "audioSha256": "0737dc1ff93d37d4ec9a1212bc7fc6245658de8374e9d6aa9786da94e755988c",
+      "url": "../../apps/shared/audio/sunny-v2/d9802ef4f540a0dd.mp3"
+    },
+    {
+      "text": "Let's make honey pancakes. Find the picture.",
+      "textSha256": "d9be428c319a4f4a7f162a36411043d8a45e87144855d8e4a71fd0ddc80a8ccb",
+      "audioSha256": "721edd28b27a50a49bb712bcb5a38576acc90a67af0d0d26dd2900172a989fdc",
+      "url": "../../apps/shared/audio/sunny-v2/d9be428c319a4f4a.mp3"
+    },
+    {
+      "text": "Let’s rest on the grass. Find the picture.",
+      "textSha256": "daab80dcb2171b7d341a7969c2eae1f51df653f02b68d8a7cc88269a93f40695",
+      "audioSha256": "89e691d99e693dd4865c29154c4df844d694a4ac02e35b0a4035ec0101f9060f",
+      "url": "../../apps/shared/audio/sunny-v2/daab80dcb2171b7d.mp3"
+    },
+    {
+      "text": "One helmet and four helmets. How many helmets altogether?",
+      "textSha256": "dadf70a0b73f4bab5ce3ed1852deb9bb6048e4750a50687ca7ed5dcf07d774f9",
+      "audioSha256": "b2c76139439d8c1a6220303787e80187c2fcf8b7fac0533ca80a47bed62b6d69",
+      "url": "../../apps/shared/audio/sunny-v2/dadf70a0b73f4bab.mp3"
+    },
+    {
+      "text": "Let’s rest on the bed.",
+      "textSha256": "daf9742e493eccc8daf53b69f3e5da55e2cb5c9a20e9641c4c0c2f8d9be7aeb8",
+      "audioSha256": "1f0abe3d1c1c5daa84a3772eaaa6df50774943f949c43a8e2df71fe9137a77e9",
+      "url": "../../apps/shared/audio/sunny-v2/daf9742e493eccc8.mp3"
+    },
+    {
+      "text": "Fall comes after summer.",
+      "textSha256": "db201b078d74a75149fa27180d1273a2544114f3edaa4c4b0646a3dbef883756",
+      "audioSha256": "85f42105638736598502c0a8902c2ec4e7da4b45e020994f4b6e925fce02940b",
+      "url": "../../apps/shared/audio/sunny-v2/db201b078d74a751.mp3"
+    },
+    {
+      "text": "Spring",
+      "textSha256": "db29e82a9287fc2834d8596af212c2da01149ebab1f0a48437b1f0c990af7647",
+      "audioSha256": "3f928655cbfe244b1759f57d731be08943581bc919047897bfe951cd9d7a4207",
+      "url": "../../apps/shared/audio/sunny-v2/db29e82a9287fc28.mp3"
+    },
+    {
+      "text": "It is a baby crying. Find the picture.",
+      "textSha256": "db5aac2a26260705aecb92f0bbfd875df8532e5fe3129e556d6a05c94d52ae29",
+      "audioSha256": "deca21ad5434bcfd8869704334a0aa2dc936149feb47f0c5dc666ec1800413f2",
+      "url": "../../apps/shared/audio/sunny-v2/db5aac2a26260705.mp3"
+    },
+    {
+      "text": "Saturday",
+      "textSha256": "dbe35c7363c2f7ec747b902fb240907fc58ae00b98f107be2d4c7b9cd7f6226e",
+      "audioSha256": "22326c54d66b43a0de75aa93c09f57608d5407e1fd48259e7dcf26d5ddc06727",
+      "url": "../../apps/shared/audio/sunny-v2/dbe35c7363c2f7ec.mp3"
+    },
+    {
+      "text": "Let’s rest on the grass.",
+      "textSha256": "dec89f571fd91c635ee287d4aa480d5b7c8ac8643a757ddfc4bdee8bdd2c20f6",
+      "audioSha256": "08665fe5f52442b45bb87cb00a91b41ea78c43fa33eb44e42b331dac0ec3422e",
+      "url": "../../apps/shared/audio/sunny-v2/dec89f571fd91c63.mp3"
+    },
+    {
+      "text": "cane",
+      "textSha256": "df39220189ca8225b3ef4bb8f3654b2217c11b056cb764a806586f3b95530052",
+      "audioSha256": "a34122f9f406bf04cef0c7470a61ed596fd96b03b53fcd246960b8023148551e",
+      "url": "../../apps/shared/audio/sunny-v2/df39220189ca8225.mp3"
+    },
+    {
+      "text": "This is a yellow bow.",
+      "textSha256": "dfac29cace6c567467f605000de7a20f3fd26f8b7edd75a17b49fa6f5115df01",
+      "audioSha256": "8ecc97d52e5e406a8c9590e72f92e918a8dcd5aec14a0634689291ffc97b55a4",
+      "url": "../../apps/shared/audio/sunny-v2/dfac29cace6c5674.mp3"
+    },
+    {
+      "text": "A bicycle",
+      "textSha256": "e01533d53ece3b60246fc903e386fced4707f653200aed6d6b6347506ad5c088",
+      "audioSha256": "88d14425e70a73c5e1b6bb212a85d4e93e79aefbbe8822ab8ad01a90d8a7721f",
+      "url": "../../apps/shared/audio/sunny-v2/e01533d53ece3b60.mp3"
+    },
+    {
+      "text": "I need socks. Find the picture.",
+      "textSha256": "e0b276001e3d2b29b5d8168b1ee7438290d2667998c56d639e37a312d6060476",
+      "audioSha256": "a4785ca1e7d68212860620596c12cc140a98efa7baf4cb9923f7456244664c4f",
+      "url": "../../apps/shared/audio/sunny-v2/e0b276001e3d2b29.mp3"
+    },
+    {
+      "text": "We need quiet. Find Penny asking for quiet.",
+      "textSha256": "e0d36c2762589bbc8ab405c0634be16f0dfd8557c95692dfb05c7c2c2084ba59",
+      "audioSha256": "893648b061f1a8e270c8d1e92dceb246fcfb44a7e5d1a3c1408d9d2bc63226da",
+      "url": "../../apps/shared/audio/sunny-v2/e0d36c2762589bbc.mp3"
+    },
+    {
+      "text": "A sheep grazes on the grass.",
+      "textSha256": "e0e1ff20c4cf0988823f5ce20a388f7efc91b3347c1a694bf6db73f360a7aac9",
+      "audioSha256": "43b12c4ebb11a01e5f732d390a7f71f7a5cadeaa90a03fafe98109003aa102c4",
+      "url": "../../apps/shared/audio/sunny-v2/e0e1ff20c4cf0988.mp3"
+    },
+    {
+      "text": "Let’s enjoy our hobbies, Mrs. Butterfly.",
+      "textSha256": "e11e252ac98eccad6c68ec3284b9ac4019b365481b80a33caed6c0126fa7fe1b",
+      "audioSha256": "dc518d3f9dbb39dd1e001f823619ab73113bcb06e20bd4da85c14364dd32cf87",
+      "url": "../../apps/shared/audio/sunny-v2/e11e252ac98eccad.mp3"
+    },
+    {
+      "text": "Friday",
+      "textSha256": "e21f3f372a46d4be7b49f6809fc91baefeadae004af06485518e124a142c0271",
+      "audioSha256": "b186b1e881b95c6e3b7515846c73eb2c9d1155517e0b89cfeb777436da643681",
+      "url": "../../apps/shared/audio/sunny-v2/e21f3f372a46d4be.mp3"
+    },
+    {
+      "text": "Let’s rest in the house.",
+      "textSha256": "e2dd94e8a85f662ab579827049d9504ca5c7995b3f4414c26a18b20944704972",
+      "audioSha256": "db8baa976fe7888ec20bfa61b2fa01f25b5269e81f73f203083e34dcdee33ec1",
+      "url": "../../apps/shared/audio/sunny-v2/e2dd94e8a85f662a.mp3"
+    },
+    {
+      "text": "This is a quilt.",
+      "textSha256": "e30903c48ee79437e260cc6c20b52ed718c6031389cda14607a598f877e370b1",
+      "audioSha256": "f9ecc402f313233dd82a4dc181cfbe739664317a21277ea4626a7b335dfb8acf",
+      "url": "../../apps/shared/audio/sunny-v2/e30903c48ee79437.mp3"
+    },
+    {
+      "text": "Bees collect nectar.",
+      "textSha256": "e37724cec0d96613dd36a443c1957e6451f249b030010d0e5dfc71dfeab1ce57",
+      "audioSha256": "d970fea9a3fe6677a76496d5e4c63eacbbc3ba5b13e49a8ef64840fc1c94a37e",
+      "url": "../../apps/shared/audio/sunny-v2/e37724cec0d96613.mp3"
+    },
+    {
+      "text": "We see bees in fall.",
+      "textSha256": "e4265a6266b4200c876d3325f4cc7f6a31168ad78bbef5dcc3a2677a14246119",
+      "audioSha256": "da712d45452331e0e81dde884a99da4591f18a68d8b47d029d35bd9e0926b193",
+      "url": "../../apps/shared/audio/sunny-v2/e4265a6266b4200c.mp3"
+    },
+    {
+      "text": "Listen: cane and tape. Choose the two pictures.",
+      "textSha256": "e4b94397388d2612065ba196c1e91ae382c0d7bfad2481ceaf8415f231808a35",
+      "audioSha256": "b1ea732dff513e77241a47d43508b33c68c0e0416a86ad9e4b6c223a371c8ffe",
+      "url": "../../apps/shared/audio/sunny-v2/e4b94397388d2612.mp3"
+    },
+    {
+      "text": "This is a house.",
+      "textSha256": "e52a7874f02db479a1b3a908156a898fdfd5df234102af694911528468c886f2",
+      "audioSha256": "1af2e544e54a849733f63c91c91caa699b4f2f1bbc43863e8004226dda798e3e",
+      "url": "../../apps/shared/audio/sunny-v2/e52a7874f02db479.mp3"
+    },
+    {
+      "text": "four o’clock",
+      "textSha256": "e5330e9f4fabed6e6b16bf8054e0ffe279fba32ed4b134703dad406e4672c84c",
+      "audioSha256": "1e7bf93fc507243e4dc322b607802ecd79267318a320071b5b640065b1d1c0da",
+      "url": "../../apps/shared/audio/sunny-v2/e5330e9f4fabed6e.mp3"
+    },
+    {
+      "text": "It is badminton. Find the picture.",
+      "textSha256": "e53499498ac35a272469d505fdc8faa9ae2151dd49aaa24ac214beaff4e34d45",
+      "audioSha256": "d85d3fca04f99461b414f3b017be3b45e2b4ff7b2c01a8314937b879de769085",
+      "url": "../../apps/shared/audio/sunny-v2/e53499498ac35a27.mp3"
+    },
+    {
+      "text": "Mrs. Ladybug enjoys flying. Find the picture.",
+      "textSha256": "e63adb60ba2147581249738d0bfdfb5dee30fdfd51a43a518d436097bc217947",
+      "audioSha256": "42e608368bffbd28776da2f4c00f93a9bd4a69146d4703f5b2405221b03d10c3",
+      "url": "../../apps/shared/audio/sunny-v2/e63adb60ba214758.mp3"
+    },
+    {
+      "text": "I look at the face and cake.",
+      "textSha256": "e751fcd558ce8c5fa1bbc52e378875716e841f47fa1507bb075afb1dc5a914bf",
+      "audioSha256": "263aaf96a6b4208bf51f366863cc2ac53d3154ac8e1ec3ec0f3352b715684feb",
+      "url": "../../apps/shared/audio/sunny-v2/e751fcd558ce8c5f.mp3"
+    },
+    {
+      "text": "In the evening, I go home at eight o'clock.",
+      "textSha256": "e778cd917a4a651834c8c4c32ce10e3b8a85cc79ac867a9352ba7d5a616d44db",
+      "audioSha256": "a6f751363bcd8e64144e3a0575a978e40eef33c072cafca2e5616ae929a75951",
+      "url": "../../apps/shared/audio/sunny-v2/e778cd917a4a6518.mp3"
+    },
+    {
+      "text": "We chew meat.",
+      "textSha256": "e7d371c3248df8f790cc11bdad1e20f9e782f96213497d20d5b9796a3857e733",
+      "audioSha256": "de288690b360f8dca15d3e53c42008afcb8a78fb4704cd91d89ec34b90f41b12",
+      "url": "../../apps/shared/audio/sunny-v2/e7d371c3248df8f7.mp3"
+    },
+    {
+      "text": "Fall",
+      "textSha256": "e85a6413c1bd537bb50c9704ed5b5edc775941a8d8cc1d6340fce00dbe84450b",
+      "audioSha256": "7f1d62ae853f89b503bb2922a39a14909410075c223030e633ddb73bee5e208e",
+      "url": "../../apps/shared/audio/sunny-v2/e85a6413c1bd537b.mp3"
+    },
+    {
+      "text": "Mr. Worm enjoys digging soil. Find the picture.",
+      "textSha256": "e863e2e36f1df1234837f177637d5e1273450854db080a20038a2c8ef95731f2",
+      "audioSha256": "0732733fc2b227bc246a03fcc54595709bcc5b64c1d73370b8ebd9aaa9f0a0d3",
+      "url": "../../apps/shared/audio/sunny-v2/e863e2e36f1df123.mp3"
+    },
+    {
+      "text": "Bees in fall",
+      "textSha256": "e8c71088c813a8e47ce24ccfe47ff6e077339e9003a84d707b49ff9668c44e18",
+      "audioSha256": "77774a4c782e190d49f1512f51edca8f95734a3b637138255705bd74d53444f9",
+      "url": "../../apps/shared/audio/sunny-v2/e8c71088c813a8e4.mp3"
+    },
+    {
+      "text": "Find the quilt.",
+      "textSha256": "e9048de43e87f6e899af45b49434ee18c20304347db091205cdf5bbd2a3be911",
+      "audioSha256": "1be3f34d372191976713df92d92109d19b1132273944f5fe597d4a1dd746377c",
+      "url": "../../apps/shared/audio/sunny-v2/e9048de43e87f6e8.mp3"
+    },
+    {
+      "text": "eight ten",
+      "textSha256": "e971d49de6a2ffaea09d61f4c2fa96f9d98a1de7a7560fa1ba0528d4dc0ffbf5",
+      "audioSha256": "c634292e513551ff10b16167df23ddb40e485bf4d178e9d6f571478a3652837b",
+      "url": "../../apps/shared/audio/sunny-v2/e971d49de6a2ffae.mp3"
+    },
+    {
+      "text": "four twenty five",
+      "textSha256": "e9b3059f14d92ac9ccf08db3e7a76c394026335f430046095705e4a02c91ed74",
+      "audioSha256": "b3b9a93b8c22884754f37b6b6bce35aeff1da26d904af8a1d614bc7efd8b5b1d",
+      "url": "../../apps/shared/audio/sunny-v2/e9b3059f14d92ac9.mp3"
+    },
+    {
+      "text": "five oh five",
+      "textSha256": "e9c9a9f2082923457b1aadf0a4cb58173074b2fc0ab2e8f42feb78d08962ec4b",
+      "audioSha256": "478a4c7d0eab454f8cedc062df160d0145fe82559d3d7aedd327067c53bc5c12",
+      "url": "../../apps/shared/audio/sunny-v2/e9c9a9f208292345.mp3"
+    },
+    {
+      "text": "Let’s rest on the bench.",
+      "textSha256": "e9cbb8b44bc740b1eeb875f1ac27657c28eb82df35ebdd10f763aad2f6f27b51",
+      "audioSha256": "78b980faaf5ec17532f743d100e2862137dd0086e266e452cb27c0d2b1d5b54a",
+      "url": "../../apps/shared/audio/sunny-v2/e9cbb8b44bc740b1.mp3"
+    },
+    {
+      "text": "Let’s enjoy painting.",
+      "textSha256": "e9fa4ffdadce95d9d8dad7f0df592b9baff5e97f50233be07eb662487c780145",
+      "audioSha256": "0271e6e9cbdd7d0df2aea1e27259a31547c7742f30ad62be4fd50b10457c1781",
+      "url": "../../apps/shared/audio/sunny-v2/e9fa4ffdadce95d9.mp3"
+    },
+    {
+      "text": "Find the cake.",
+      "textSha256": "ea0af7a056d9238f3f3bfaaa61ee32d42e3967e414069653194c9558af5ed863",
+      "audioSha256": "41adc31d27eaebfdc996f400214e72de451ab266e73f734981a5e1a9bcc4105a",
+      "url": "../../apps/shared/audio/sunny-v2/ea0af7a056d9238f.mp3"
+    },
+    {
+      "text": "Find the cage.",
+      "textSha256": "ea2b6874d44f4f97cd604374af80068c1417e8730b764e4f5b23f9017b6180af",
+      "audioSha256": "bcac97d6ac8332d1afca90a4692a0bd5e98d78bbfbea5d39736152f35a4e026e",
+      "url": "../../apps/shared/audio/sunny-v2/ea2b6874d44f4f97.mp3"
+    },
+    {
+      "text": "The bee flies out of the hive at eight ten. Find the clock.",
+      "textSha256": "eb0a55370173e8a24e98ef8b123cc623d11a3944795dd50331309153946d8e06",
+      "audioSha256": "90e8af2756a141dfa22c526dfe290ea8f74965dfa8eef62f7b750c998b17cc79",
+      "url": "../../apps/shared/audio/sunny-v2/eb0a55370173e8a2.mp3"
+    },
+    {
+      "text": "Bees help vegetables grow.",
+      "textSha256": "eb920fde896e34aa6a1252557b586bf8ff120b02e2e0563a2a7c8c8617083e48",
+      "audioSha256": "f68ae8acae2d54d11a71980e160a5e2d01decfab096ecd59c8c602a25b7ac25f",
+      "url": "../../apps/shared/audio/sunny-v2/eb920fde896e34aa.mp3"
+    },
+    {
+      "text": "Let’s enjoy our hobbies, Mr. Worm.",
+      "textSha256": "edfb6942b2e3abb22e94e66e4e68cce788a30270a707c87456fd7c3c7ca25c4e",
+      "audioSha256": "cf8092142b34b835a1bad9e8199deec0f9d37614683a0c5b2aca0da4dccf41a6",
+      "url": "../../apps/shared/audio/sunny-v2/edfb6942b2e3abb2.mp3"
+    },
+    {
+      "text": "thirty-four",
+      "textSha256": "ee9764b6b1336f7b046f7c31532959f2b2ffe520118eb0d3db88217a547d7af3",
+      "audioSha256": "01858ed74b768d232d8ff46d577aa4b35645d63648ab7bbabe62e68b5ffd1588",
+      "url": "../../apps/shared/audio/sunny-v2/ee9764b6b1336f7b.mp3"
+    },
+    {
+      "text": "Count ten. Take away six. How many are left?",
+      "textSha256": "eec752da345b18ed424593d7340dbfb8c6d57d78bf8267e29b2c2118cda15340",
+      "audioSha256": "4d1a8c652a3012c85e012af1a4453bb6fa3a7644c920d17b22aac6ee7d12441a",
+      "url": "../../apps/shared/audio/sunny-v2/eec752da345b18ed.mp3"
+    },
+    {
+      "text": "We need music.",
+      "textSha256": "eedcfcbc22e6a2f5b6f24fa7ffa074868052873fe3c8591941f7485d63dc136f",
+      "audioSha256": "518991be24f97f68677cd3116f668e787c9f225d08e341f7bf8953d5567fe988",
+      "url": "../../apps/shared/audio/sunny-v2/eedcfcbc22e6a2f5.mp3"
+    },
+    {
+      "text": "I play with my friends. We enjoy sports.",
+      "textSha256": "ef4267edf29964a31fe31c4d97a17b145d43bda58263895c0a5cccda9188646e",
+      "audioSha256": "ed81c3e433e378e192bb260b0c8e5326a1c7b2916d24a7245d692077974c1329",
+      "url": "../../apps/shared/audio/sunny-v2/ef4267edf29964a3.mp3"
+    },
+    {
+      "text": "We can't see bees in winter. Find the picture.",
+      "textSha256": "ef5cefbabe337abca33cf3a5cbfe36c1b60016ba46943a67bd485f211b5b3376",
+      "audioSha256": "3ba0590f86733d620feb1c08a6dbd3eeb1506b2122ade47a21de92e2cce5be09",
+      "url": "../../apps/shared/audio/sunny-v2/ef5cefbabe337abc.mp3"
+    },
+    {
+      "text": "five thirty five",
+      "textSha256": "ef7100c0846170942c6950797ffb709cebd538d6bb8696787d3607b56ec2a58b",
+      "audioSha256": "e7c71c9801671ca78ff96b0029c2af2efac8c1dfa95cb60f73106ccc08446cff",
+      "url": "../../apps/shared/audio/sunny-v2/ef7100c084617094.mp3"
+    },
+    {
+      "text": "Find the face.",
+      "textSha256": "ef83d6d5014b956436ce9e40f8909fb9f6384a5fcc84c9c2a39450292b30aae5",
+      "audioSha256": "4ac785b4bb0ef09f6a5c9ed8bb7ba9c4221e2feed97f5e5f225f8fdb15aee356",
+      "url": "../../apps/shared/audio/sunny-v2/ef83d6d5014b9564.mp3"
+    },
+    {
+      "text": "twelve thirty",
+      "textSha256": "ef8ddb186ebf61d832177577909435164fc57883389ab4b4271a61579247fa85",
+      "audioSha256": "470c1fcd59f29b46be78d42a2a8e9d34bf59833ebf127f6e325cd26e71445ab6",
+      "url": "../../apps/shared/audio/sunny-v2/ef8ddb186ebf61d8.mp3"
+    },
+    {
+      "text": "I need a swimsuit.",
+      "textSha256": "efb60bdf4bd71ebf6fc36aca0bdc5d9480a319e57fb4825115681fb44f507fe6",
+      "audioSha256": "5b5065ddc85d66cbb799e2aa146bca9f4b918f4bb420da6bbc76e6a2b81c2ceb",
+      "url": "../../apps/shared/audio/sunny-v2/efb60bdf4bd71ebf.mp3"
+    },
+    {
+      "text": "Bees collect nectar",
+      "textSha256": "f2083b5d2c8826413343ddda46bc9ced0246764944e1596030d0275a67bc2123",
+      "audioSha256": "4f7b3005766c2835ff4ef0fdad1336dcc22992287fe9e104357500d5f6dad009",
+      "url": "../../apps/shared/audio/sunny-v2/f2083b5d2c882641.mp3"
+    },
+    {
+      "text": "sixteen",
+      "textSha256": "f2ce341fdaa67727bbdc88e3f7f19dc539943e346f6c2bac497fa1c89c0ca128",
+      "audioSha256": "9197e6e3897901fc3bf502894391b6e29f8b29b1de5ec272a8999babf322acc2",
+      "url": "../../apps/shared/audio/sunny-v2/f2ce341fdaa67727.mp3"
+    },
+    {
+      "text": "Two o'clock.",
+      "textSha256": "f2d746024b75b599f102979740d4ca024f90347adfb9d90957e714fa82a242ea",
+      "audioSha256": "985c42c8b95a7a7841c719067ef5a8facee7f815683663e37fe9e6f0ad26e2f8",
+      "url": "../../apps/shared/audio/sunny-v2/f2d746024b75b599.mp3"
+    },
+    {
+      "text": "We see bees in summer. Find the picture.",
+      "textSha256": "f3903c05154610cf47e31b6e05f5d78f668ba1b2d87c05e2c1c6f735fc1d1728",
+      "audioSha256": "6102dfe590683c98d8fcdb52a1b343b33aa78cd338ad76369b387ab7edf5a808",
+      "url": "../../apps/shared/audio/sunny-v2/f3903c05154610cf.mp3"
+    },
+    {
+      "text": "It is a dog barking.",
+      "textSha256": "f44ec4a44a83f3b86b10de6c74c8e1aeaeeab3c2296ee351d817dcc8f09b798e",
+      "audioSha256": "c8711c58be9f65c42d7e44612d812fb3c8031c8311ee480da8b7885bc55a6629",
+      "url": "../../apps/shared/audio/sunny-v2/f44ec4a44a83f3b8.mp3"
+    },
+    {
+      "text": "Let’s rest in the tent.",
+      "textSha256": "f4c97e43400df2dd61f72415f628e817c95e597a5b20cd3906e3ac3f7bfdbf5a",
+      "audioSha256": "1759da1615179d56b5475313a9dbd26efc27f4c5a8e1bf3750b98156710aca7d",
+      "url": "../../apps/shared/audio/sunny-v2/f4c97e43400df2dd.mp3"
+    },
+    {
+      "text": "Running",
+      "textSha256": "f4ccae29e1bb0c20a124570a1b43f4347ea94bba9f84ffdfddd9c7445b126128",
+      "audioSha256": "87125c8d2b38fbd999b2507dd56358ec1fbca7e9944954d652b3134d712da2c6",
+      "url": "../../apps/shared/audio/sunny-v2/f4ccae29e1bb0c20.mp3"
+    },
+    {
+      "text": "I play golf. Find the picture.",
+      "textSha256": "f545031967f8cc122eb2f6a462c27e31782b8fe670b37112f7ffeccd8d51f246",
+      "audioSha256": "d6e33372bf3e9ff15811ac97107f40a3a375b3066e18f0f8617524b82a518c2e",
+      "url": "../../apps/shared/audio/sunny-v2/f545031967f8cc12.mp3"
+    },
+    {
+      "text": "Bees near a lamp",
+      "textSha256": "f5bd50c358859e1d141330569a9cd6d6e19b74355edd627f473d1a3c50266926",
+      "audioSha256": "586315803af8fc621432b42ef0906cf1836b2289b3fb3dbaff86d8b03aaf7f89",
+      "url": "../../apps/shared/audio/sunny-v2/f5bd50c358859e1d.mp3"
+    },
+    {
+      "text": "I practice swimming every day.",
+      "textSha256": "f69910b13e81d61cd0a73ceb395c925977806e19f2cd5357a9cb63b0dbd1659a",
+      "audioSha256": "2470c589b1e345f256ed749af108c01daed07b1a308eaf811a754f20b7d80bd4",
+      "url": "../../apps/shared/audio/sunny-v2/f69910b13e81d61c.mp3"
+    },
+    {
+      "text": "Let’s rest on the stool.",
+      "textSha256": "f6c2206ddf21fc04a2ce3ee4faed366ba81a1e32dff97ab236c24036713d66d5",
+      "audioSha256": "ca041a7dc5b1d5835f6cc16296887bb7be309f133c2ee9ca4832efe4e16f319d",
+      "url": "../../apps/shared/audio/sunny-v2/f6c2206ddf21fc04.mp3"
+    },
+    {
+      "text": "Tuesday comes after Monday.",
+      "textSha256": "f705c90b6af89c4662312059a0c7e8896d163ea53a2d75bf0e5f7f989183e068",
+      "audioSha256": "200bae649c7cf843fb9ceca7bcccc4d3fb99128da9c0790ca5d01c4280ffd56e",
+      "url": "../../apps/shared/audio/sunny-v2/f705c90b6af89c46.mp3"
+    },
+    {
+      "text": "Let’s enjoy our hobbies, Mr. Mouse.",
+      "textSha256": "f7c51fac2dc1c1a035ec8a3b7888bd881725bc0dbb855c17b606125f324aabe6",
+      "audioSha256": "c816df58b6cf6c393b096301f0fb76e1b4fc63f864fee92f5397e47b532c638d",
+      "url": "../../apps/shared/audio/sunny-v2/f7c51fac2dc1c1a0.mp3"
+    },
+    {
+      "text": "What comes after Monday?",
+      "textSha256": "f7c81cd1f99c3767c8962646264df4bab82819a5cf4bb0a7362c72a907611fec",
+      "audioSha256": "977c6bad9acb260c3e18e902d7aed2fcb3df33894c4db36a52b1280fed36680e",
+      "url": "../../apps/shared/audio/sunny-v2/f7c81cd1f99c3767.mp3"
+    },
+    {
+      "text": "We need music. Find the picture.",
+      "textSha256": "f7cc7ac9f96b9c33b57258572b8f990f95a1ddb411b71ee674e9a64e19f9a204",
+      "audioSha256": "2b81a49e1897f1fc1c2e8686a3cb8e5512fda86292b3c0a5fb1c08c26e64e7c8",
+      "url": "../../apps/shared/audio/sunny-v2/f7cc7ac9f96b9c33.mp3"
+    },
+    {
+      "text": "It is swimming.",
+      "textSha256": "f7fbd349cdb5818b842753316940e2022aa33dfa8d3518dc1541a54e6e7cf264",
+      "audioSha256": "e2cda1e4bf034f4763995a13ab625a43a02af06bde6b14dac7e3598bc0fed937",
+      "url": "../../apps/shared/audio/sunny-v2/f7fbd349cdb5818b.mp3"
+    },
+    {
+      "text": "A fox goes into a den. Find the picture.",
+      "textSha256": "f8db87df139008cff98d002329b07400c9d1dc3f3fa3361d07c8d5a65ed0b8c9",
+      "audioSha256": "87b61488bfa2d3da5963a3aaac1085a3621075adeb20afab6e9f877e2b5ad788",
+      "url": "../../apps/shared/audio/sunny-v2/f8db87df139008cf.mp3"
+    },
+    {
+      "text": "He made the modern beehive. Find the picture.",
+      "textSha256": "f972656b17219ee1b126fb78e7a7b1d9cea328c6627901fb4b0f3bbbf3e11bfd",
+      "audioSha256": "8f1a6229156b3aec80843b6c271fdfff765c08748ea8470ead74724d74649ee6",
+      "url": "../../apps/shared/audio/sunny-v2/f972656b17219ee1.mp3"
+    },
+    {
+      "text": "I need a bicycle.",
+      "textSha256": "fb788e72bbdaef1f5c3482036f4b5f9764328702874dfab290a7ab2accc2b52c",
+      "audioSha256": "4ec4644d316633ab392b2baae61ecd201e803f42ca5f8c2666c4dce01eedabb1",
+      "url": "../../apps/shared/audio/sunny-v2/fb788e72bbdaef1f.mp3"
+    },
+    {
+      "text": "Find the radio.",
+      "textSha256": "fbf51542514e57214588dd21439271541b950984204f491cb1cbb7d8ca0e3d77",
+      "audioSha256": "315797ec59991aa117b0a92117ed10fcdb16169d40d08e3ff1743e96590368a3",
+      "url": "../../apps/shared/audio/sunny-v2/fbf51542514e5721.mp3"
+    },
+    {
+      "text": "In the morning, I play soccer at nine o'clock.",
+      "textSha256": "fc25a21cefb77f9df833905afa6b75a56e4f091e445f43e95e849829c4b4276e",
+      "audioSha256": "27ad0e61d375a5debefa1e73907234c6c59f2d8b45b54ed5c233b520f0868997",
+      "url": "../../apps/shared/audio/sunny-v2/fc25a21cefb77f9d.mp3"
+    },
+    {
+      "text": "Count thirty. Take away eight. Twenty-two is left.",
+      "textSha256": "fd40e17ba50dc9f5b3cdf15185bfcd5819241a10db80497c1dd7f74cf2bd9247",
+      "audioSha256": "4b11c74425289b9f692f23da264d2fb2c988c12bdd00ac1cb2ff419f4cfda28d",
+      "url": "../../apps/shared/audio/sunny-v2/fd40e17ba50dc9f5.mp3"
+    },
+    {
+      "text": "Find the rose.",
+      "textSha256": "fdd01f4f72d9ea401daa9e8cad7c754137c4eae9ef1f31ce44eac5436c9d2802",
+      "audioSha256": "ad68eb53f35c70adbb8a0edaee0ae1aa6b853adf364469ed558b2b3b1f5e62f2",
+      "url": "../../apps/shared/audio/sunny-v2/fdd01f4f72d9ea40.mp3"
+    },
+    {
+      "text": "A goat grazes on the grass.",
+      "textSha256": "fe876612a4e03a275912b97bb7330c2d507c5c28caf908e525dc579b384c56d7",
+      "audioSha256": "8b681c234b9bbaae7bb0499f854905e9acf210443d7b99e4660db75826c7ed1a",
+      "url": "../../apps/shared/audio/sunny-v2/fe876612a4e03a27.mp3"
+    },
+    {
+      "text": "fourteen",
+      "textSha256": "fef8f41cdcd2038663b027a0cfbe252d39510bc162b599d1d4aa683873cc21d7",
+      "audioSha256": "da3e68aebdd88f94044d44b177ec07a753e70cd813d40588192a2ce4b9286b58",
+      "url": "../../apps/shared/audio/sunny-v2/fef8f41cdcd20386.mp3"
+    },
+    {
+      "text": "It is badminton.",
+      "textSha256": "ffb342d2f2770b5110645c1980e1c09d0341b3885f106fc2f5cefc0b7f80d386",
+      "audioSha256": "860e9a3207dcd13a72f01170630097dce664220f38a96af4932145a14189310b",
+      "url": "../../apps/shared/audio/sunny-v2/ffb342d2f2770b51.mp3"
+    },
+    {
+      "text": "cow",
+      "textSha256": "beb134754910a4b4790c69ab17d3975221f4c534b70c8d6e82b30c165e8c0c09",
+      "audioSha256": "196739e03f17558642babb20b153076521e483632b70dcdb7abaa2d7ac8de6be",
+      "url": "../../apps/shared/audio/sunny-report-v2-replacements/beb134754910a4b4-196739e03f17.mp3"
+    },
+    {
+      "text": "owl",
+      "textSha256": "10f7127b980b0b06ef157749f8a02cca1c606d22642729dcb2d24dbbf2bf30df",
+      "audioSha256": "ff20a6e6e4e39aa18ab97ba464d38e3472fbb7af359b145f36e50c5e635b6a2b",
+      "url": "../../apps/shared/audio/sunny-report-v2-replacements/10f7127b980b0b06-ff20a6e6e4e3.mp3"
+    },
+    {
+      "text": "queen",
+      "textSha256": "a9c3c1f7674502331a5ad3e54592d3eb2fc39cf78bb908004777ff4ac89119e4",
+      "audioSha256": "1d25a0ab0aaf86b270e432d578b9ed01931b70ed2fc6c85134d12268a637b9cc",
+      "url": "../../apps/shared/audio/sunny-report-v2-replacements/a9c3c1f767450233-1d25a0ab0aaf.mp3"
+    }
+  ]
+}

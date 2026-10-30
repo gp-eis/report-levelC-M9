@@ -1,0 +1,201 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#ff7a3d" />
+  <meta name="description" content="Level C Month 9 weekly learning report with phonics words, key words and sentences, comprehension, and math." />
+  <title>Level C Month 9 Weekly Report</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@600;700;800&family=Nunito:wght@600;700;800&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css?v=4f308938a3" />
+</head>
+<body>
+  <div class="bubble-field" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i></div>
+  <main class="app-shell">
+    <header class="brand">
+      <a href="#welcome" id="home-logo" class="logo" aria-label="Return to the Little GP Champions opening page">
+        <span class="logo-mark">🏅</span>
+        <span><strong>Little GP Champions</strong><small>Weekly Test</small></span>
+      </a>
+      <img class="school-logo" src="assets/reused/images/gip-eis-logo.webp" alt="GIP EIS school logo" decoding="async" />
+      <div id="week-pill" class="week-pill">📅 Month 9</div>
+    </header>
+
+    <section id="week-select" class="screen week-select-screen active" aria-labelledby="week-select-title">
+      <a class="gp-english-link" href="https://www.gpeisenglish.com/copy-of-level-a-weekly-08">
+        <span aria-hidden="true">🏫</span> Go to GP English <span aria-hidden="true">→</span>
+      </a>
+      <div class="week-select-heading">
+        <span class="week-select-kicker">🏅 LITTLE GP CHAMPIONS</span>
+        <h1 id="week-select-title">Choose Your Weekly<br /><em>GP Challenge!</em></h1>
+        <p>20 picture questions: look, listen, and choose.</p>
+      </div>
+      <div class="week-grid" aria-label="Choose a weekly test">
+        <button id="week-1-btn" class="week-card week-card-ready" type="button" aria-label="Open the Week 1 weekly test">
+          <span class="week-number">1</span>
+          <span class="week-card-copy"><small>WEEK</small><strong>Week 1</strong></span>
+          <span class="week-card-arrow" aria-hidden="true">→</span>
+          <img alt="" aria-hidden="true" decoding="async" />
+          <span class="ready-ribbon">PLAY WEEK 1</span>
+        </button>
+        <button id="week-2-btn" class="week-card week-card-ready week-two" type="button" aria-label="Open the Week 2 weekly test">
+          <span class="week-number">2</span>
+          <span class="week-card-copy"><small>WEEK</small><strong>Week 2</strong></span>
+          <span class="week-card-arrow" aria-hidden="true">→</span>
+          <img alt="" aria-hidden="true" decoding="async" />
+          <span class="ready-ribbon">PLAY WEEK 2</span>
+        </button>
+        <button id="week-3-btn" class="week-card week-card-ready week-three" type="button" aria-label="Open the Week 3 weekly test">
+          <span class="week-number">3</span>
+          <span class="week-card-copy"><small>WEEK</small><strong>Week 3</strong></span>
+          <span class="week-card-arrow" aria-hidden="true">→</span>
+          <img alt="" aria-hidden="true" decoding="async" />
+          <span class="ready-ribbon">PLAY WEEK 3</span>
+        </button>
+        <button id="week-4-btn" class="week-card week-card-ready week-four" type="button" aria-label="Open the Week 4 weekly test">
+          <span class="week-number">4</span>
+          <span class="week-card-copy"><small>WEEK</small><strong>Week 4</strong></span>
+          <span class="week-card-arrow" aria-hidden="true">→</span>
+          <img alt="" aria-hidden="true" decoding="async" />
+          <span class="ready-ribbon">PLAY WEEK 4</span>
+        </button>
+      </div>
+      <div class="week-select-footer"><span>⭐</span> One fun challenge every week! <span>⭐</span></div>
+    </section>
+
+    <section id="welcome" class="screen welcome-screen" aria-labelledby="welcome-title">
+      <div class="hero-copy">
+        <button id="all-weeks-btn" class="all-weeks-btn" type="button"><span aria-hidden="true">←</span> All Weeks</button>
+        <h1 id="welcome-title">Ready for Your Weekly<br /><em>GP Challenge?</em></h1>
+        <p>20 questions with pictures and listening.</p>
+        <label class="name-label" for="student-name">Your name</label>
+        <div class="name-row">
+          <input id="student-name" maxlength="20" autocomplete="given-name" placeholder="Type your name..." />
+          <button id="start-btn" class="primary-btn" type="button">Let’s Go! <span>→</span></button>
+        </div>
+        <p id="week-learning-summary" class="week-learning-summary"></p>
+        <div class="lesson-chips" aria-label="Test sections">
+          <span class="pink">Aa <b>Phonics</b></span><span class="yellow">💬 <b>Words &amp; Sentences</b></span>
+          <span class="blue">📖 <b>Comprehension</b></span><span class="green">123 <b>Math</b></span>
+        </div>
+      </div>
+      <div class="grooming-scene report-hero-scene" aria-label="GP Friends welcome Level C learners">
+        <div class="level-badge"><span>⭐</span><b>LEVEL C</b><small>GP Friends</small></div>
+        <img id="week-hero-image" class="cycling-friends-hero" alt="GP Friends welcome the learner" decoding="async" fetchpriority="high" />
+        <div class="scene-sparkles" aria-hidden="true"><span>⭐</span><span>⚽</span><span>✦</span><span>🎾</span></div>
+      </div>
+    </section>
+
+    <section id="quiz" class="screen quiz-screen" aria-labelledby="question-text">
+      <div class="quiz-top">
+        <button id="quit-btn" class="icon-btn" type="button" aria-label="Return to start">⌂</button>
+        <div class="progress-wrap">
+          <div class="progress-label"><span id="section-label">Phonics</span><b id="progress-label">1 of 20</b></div>
+          <div class="progress-track"><div id="progress-bar"></div></div>
+        </div>
+        <div id="question-paw" class="paw-count">🏅 <span>1</span></div>
+      </div>
+      <article class="question-card">
+        <div id="mascot" class="mini-mascot" aria-hidden="true">🏀</div>
+        <div id="question-tag" class="question-tag">PHONICS WORD</div>
+        <h2 id="question-text"></h2>
+        <p id="question-hint" class="question-hint"></p>
+        <div id="question-visual" class="question-visual" hidden></div>
+        <img id="question-image" class="question-image" alt="" hidden />
+        <strong id="question-image-label" class="question-image-label" hidden></strong>
+        <button id="question-listen-btn" class="choice-listen question-listen" type="button" aria-label="Listen to the question again"><span aria-hidden="true">🔊</span> Hear the question</button>
+        <div id="choices" class="choices"></div>
+        <div id="feedback" class="feedback" role="status" aria-live="polite"></div>
+        <div id="practice-popup" class="practice-popup" role="status" aria-live="polite" hidden>
+          <div><small>OPTIONAL: LISTEN AGAIN</small><strong id="practice-text"></strong></div>
+          <button id="practice-replay" class="practice-speaker" type="button" aria-label="Hear the answer again" title="Listen again">🔊</button>
+        </div>
+        <button id="next-btn" class="primary-btn next-btn" type="button">Next question <span>→</span></button>
+      </article>
+      <p class="helper-text">Choose the answer that feels right. You’ve got this! 🌟</p>
+    </section>
+
+    <section id="results" class="screen results-screen" aria-labelledby="results-title">
+      <div class="celebration" aria-hidden="true">✦ 🎉 ✦</div>
+      <div class="results-heading">
+        <div class="medal">🏅</div>
+        <div><div class="eyebrow">You crossed the finish line!</div><h1 id="results-title">Amazing work!</h1><p id="student-report-name" class="student-report-name"></p><p id="results-message"></p></div>
+      </div>
+      <div class="results-layout no-dressup">
+        <button id="dressup-card" class="dressup-card" type="button" aria-haspopup="dialog" disabled hidden>
+          <span class="dressup-badge">NEW REWARD</span>
+          <span class="dressup-title">GP Friends Dress-Up</span>
+          <img class="dressup-gift" src="assets/reused/images/kids-3d-present-box.webp" alt="A colorful present box containing the GP Friend dress-up reward" loading="lazy" decoding="async" />
+          <span class="dressup-prompt">Tap to open the locker →</span>
+        </button>
+        <div class="report-main">
+          <div class="results-grid">
+            <article class="score-card">
+              <div class="score-ring"><span id="score-number">0</span><small id="score-denominator">/ 20</small></div>
+              <h2 id="score-title">Champion!</h2><p id="score-note"></p>
+            </article>
+            <article class="chart-card">
+              <div class="card-title"><div><span class="mini-label">YOUR GP RESULTS</span><h2>Skills at a glance</h2></div><span id="percent-badge">0%</span></div>
+              <div id="skill-chart" class="skill-chart"></div>
+            </article>
+          </div>
+          <article class="analysis-card">
+            <div class="analysis-icon">📣</div><div><span class="mini-label">GP FRIEND’S NOTE</span><h2>Your next learning step</h2><p id="analysis-text"></p></div>
+          </article>
+        </div>
+      </div>
+      <details class="review-card">
+        <summary>See all my answers <span>⌄</span></summary>
+        <div id="answer-review" class="answer-review"></div>
+      </details>
+      <div class="result-actions"><button id="print-btn" class="secondary-btn" type="button">🖨 Print report</button><button id="restart-btn" class="secondary-btn" type="button">↻ Try again</button><button id="capture-btn" class="camera-btn" type="button">📸 Capture report</button></div>
+    </section>
+  </main>
+  <footer>Made with teamwork, courage & champion energy 🏅</footer>
+  <div id="capture-modal" class="capture-modal" role="dialog" aria-modal="true" aria-labelledby="capture-title" hidden>
+    <div class="capture-dialog">
+      <button id="capture-close" class="capture-close" type="button" aria-label="Close report preview">×</button>
+      <div class="eyebrow">Your report picture</div>
+      <h2 id="capture-title">Ready to save or share!</h2>
+      <div class="capture-preview"><img id="capture-image" alt="Preview of the captured weekly test report" /></div>
+      <p id="share-note" class="share-note">Download it to this device or share it using an available app.</p>
+      <div class="capture-actions"><button id="download-capture" class="secondary-btn" type="button">⬇ Download</button><button id="share-capture" class="primary-btn" type="button">Share report ↗</button></div>
+    </div>
+  </div>
+  <div id="dressup-modal" class="dressup-modal" role="dialog" aria-modal="true" aria-labelledby="dressup-title" hidden>
+    <div class="dressup-dialog">
+      <button id="dressup-close" class="capture-close" type="button" aria-label="Close dress-up activity">×</button>
+      <div class="dressup-modal-heading"><div><div class="eyebrow">Your score reward</div><h2 id="dressup-title">Champion Dress-Up!</h2><p id="dressup-unlock-message"></p></div><button id="dressup-reset" class="secondary-btn dressup-reset" type="button">↻ Start over</button></div>
+      <div class="dressup-game">
+        <div id="character-dropzone" class="character-dropzone" tabindex="0" aria-label="Drop unlocked clothes and accessories on the character">
+          <span class="drop-hint">Drag or tap an item to dress your GP Friend</span>
+          <div class="character-stage">
+            <img id="dressup-character" alt="GP Friend dress-up preview" loading="lazy" decoding="async" />
+            <video id="dressup-celebration-video" class="dressup-video" playsinline preload="metadata" aria-label="Dress-up celebration animation" hidden></video>
+          </div>
+          <div id="dressup-status" class="dressup-status" role="status" aria-live="polite">Choose your first unlocked item.</div>
+          <button id="replay-clip" class="secondary-btn replay-clip" type="button" hidden>▶ Replay clip</button>
+        </div>
+        <div class="item-locker" aria-label="Dress-up items">
+          <h3>My Locker</h3>
+          <p>Unlocked items are ready to drag!</p>
+          <div class="dressup-items">
+            <button class="dressup-item locked" type="button" draggable="false" data-order="0" disabled aria-disabled="true"><span class="lock-mark" aria-hidden="true">🔒</span><img alt="" /><b>Reward item 1</b></button>
+            <button class="dressup-item locked" type="button" draggable="false" data-order="1" disabled aria-disabled="true"><span class="lock-mark" aria-hidden="true">🔒</span><img alt="" /><b>Reward item 2</b></button>
+            <button class="dressup-item locked" type="button" draggable="false" data-order="2" disabled aria-disabled="true"><span class="lock-mark" aria-hidden="true">🔒</span><img alt="" /><b>Reward item 3</b></button>
+            <button class="dressup-item locked" type="button" draggable="false" data-order="3" disabled aria-disabled="true"><span class="lock-mark" aria-hidden="true">🔒</span><img alt="" /><b>Reward item 4</b></button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <script src="report-period.js?v=d92a77cdb8"></script>
+  <script src="assets/reused/vendor/html2canvas.min.js"></script>
+  <script src="questions-month9.js?v=41ee874218"></script>
+  <script src="dressup-month9.js?v=13816630c3"></script>
+  <script src="../shared/recorded-narration.js?v=ee9c266592"></script>
+  <script src="script.js?v=07a1319642"></script>
+</body>
+</html>
